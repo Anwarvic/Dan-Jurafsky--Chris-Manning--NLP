@@ -1,0 +1,295 @@
+
+
+
+
+
+
+
+( (S-HLN (NP-SBJ (-NONE- *PRO*))
+	 (VP (VBG Launching)
+	     (NP (NP (DT the)
+		     (NNP Electronics)
+		     (NML (NNP Free) (NNP Trade))
+		     (NNP Zone))
+		 (PP-LOC (IN in)
+			 (NP (NNP Dubai)))))))
+
+
+
+
+
+
+
+
+
+( (FRAG (NP-LOC (NNP Dubai))
+	(NP-TMP (CD 01) (HYPH -) (CD 82))
+	(-LRB- -LRB-)
+	(NP (NNP AFP))
+	(-RRB- -RRB-)
+	(. -)))
+
+( (S (NP-SBJ (NP (NML (NML (NN Crown) (NN Prince))
+		      (PP (IN of)
+			  (NP (NNP Dubai))))
+		 (NNP Al)
+		 (NNP Sheikh)
+		 (NNP Mohammed)
+		 (NNP bin)
+		 (NNP Rashid)
+		 (NNP Al)
+		 (NNP Maktoom))
+	     (NP (NP (NN crown) (NN prince))
+		 (PP (IN of)
+		     (NP (NNP Dubai)))))
+     (VP (VBD launched)
+	 (NP-TMP (NP (NN today))
+		 (, ,)
+		 (PP (ADVP (FW i.e.))
+		     (IN on)
+		     (NP (NNP Saturday))))
+	 (, ,)
+	 (NP (NP (DT an)
+		 (NN electronics)
+		 (NML (JJ free) (NN e-trade))
+		 (NN zone))
+	     (SBAR (WHNP-1 (WDT which))
+		   (S (NP-SBJ-2 (-NONE- *T*-1))
+		      (VP (VBZ has)
+			  (VP (VBN been)
+			      (VP (VBN named)
+				  (NP-3 (-NONE- *-2))
+				  ('' ")
+				  (S-CLR (NP-SBJ (-NONE- *PRO*-3))
+					 (NP-PRD (NNP Dubai) (NNP Internet) (NNP City))))))))))
+     ('' ")))
+
+
+
+
+
+
+
+
+
+( (S (NP-SBJ-1 (NP (DT The) (NN cost))
+	       (PP (IN in)
+		   (NP (NP (DT the) (JJ first) (NN stage))
+		       (PP (IN of)
+			   (NP (DT this) (JJ unique) (NN project))))))
+     (VP (VBZ is)
+	 (VP (VBN estimated)
+	     (NP (-NONE- *-1))
+	     (PP-CLR (IN at)
+		     (NP (QP (CD 200) (CD million))
+			 (NNS dollars)))))
+     (. .)))
+
+
+
+
+
+
+
+
+
+
+
+( (S (NP-SBJ (NP (NNP Sheikh) (NNP Mohammed))
+	     (, ,)
+	     (SBAR (WHNP-1 (WP who))
+		   (S (NP-SBJ (-NONE- *T*-1))
+		      (VP (VBZ is)
+			  (ADVP (RB also))
+			  (NP-PRD (DT the) (NNP UAE) (NNP Defence) (NNP Minister))))))
+     (, ,)
+     (VP (VBD said)
+	 (PP-TMP (IN during)
+		 (NP (DT the) (VBG launching) (NN ceremony)))
+	 ('' ")
+	 (S (NP-SBJ-2 (PRP we))
+	    (VP (VBP wish)
+		(S (NP-SBJ (-NONE- *PRO*-2))
+		   (VP (TO to)
+		       (VP (VB make)
+			   (S (NP-SBJ (NNP Dubai))
+			      (NP-PRD (NP (DT a) (NN center))
+				      (PP (IN of)
+					  (NP (JJ modern) (NN economy)))))))))))
+     ('' ")
+     (. .)))
+
+
+
+
+
+
+
+
+
+( (S (NP-SBJ (NP (DT The) (NN minister))
+	     (SBAR (WHNP-1 (WP who))
+		   (S (NP-SBJ (-NONE- *T*-1))
+		      (VP (VBZ has)
+			  (NP (NP (DT a) (JJ personal) (NN website))
+			      (PP-LOC (IN on)
+				      (NP (DT the) (NN internet))))))))
+     (, ,)
+     (ADVP (RB further))
+     (VP (VBD said)
+	 (SBAR (IN that)
+	       (S (NP-SBJ (PRP he))
+		  (VP (VBD wanted)
+		      (S (NP-SBJ (NNP Dubai))
+			 (VP (TO to)
+			     (VP (VB become)
+				 (NP-PRD (NP (DT the) (JJS best) (NN place))
+					 (PP-LOC (IN in)
+						 (NP (DT the) (NN world)))
+					 (PP (IN for)
+					     (NP (DT the) (JJ advanced) (-LRB- -LRB-) (NN hitech) (-RRB- -RRB-) (JJ technological) (NNS companies)))))))))))
+     (. .)))
+
+
+
+
+
+
+
+
+
+( (S (NP-SBJ (PRP He))
+     (VP (VBD said)
+	 (SBAR (IN that)
+	       (S (NP-SBJ (NP (PRP it))
+			  (SBAR (-NONE- *EXP*-1)))
+		  (VP (MD would)
+		      (VP (VB be)
+			  (ADJP-PRD (JJ possible))
+			  (SBAR-1 (IN for)
+				  (S (NP-SBJ (NP (DT the) (NNS companies))
+					     (VP (VBG working)
+						 (PP-LOC (IN in)
+							 (NP (DT the)
+							     (NML (JJ electronic) (NN trade))
+							     (NN sector)))))
+				     (VP (VP (TO to)
+					     (VP (VB make)
+						 (S (NP-SBJ (NNP Dubai))
+						    (NP-PRD (PRP$ their) (NN headquarters)))))
+					 (, ,)
+					 (CC and)
+					 (VP (TO to)
+					     (VP (VP (VB establish)
+						     (NP (NNS offices))
+						     (ADVP-LOC (RB here)))
+						 (CC and)
+						 (VP (VB provide)
+						     (NP (NN employment)))
+						 (CC and)
+						 (VP (VB own)
+						     (NP (NN machinery)))
+						 (PP-LOC (IN in)
+							 (NP (NP (DT the) (NN zone))
+							     (VP (VBN opened)
+								 (NP (-NONE- *))
+								 (PP-CLR (TO to)
+									 (NP (NP (NNS companies))
+									     (VP (ADVP-MNR (RB fully))
+										 (VBN owned)
+										 (NP (-NONE- *))
+										 (PP (IN by)
+										     (NP-LGS (DT the) (NNS foreigners)))))))))))))))))))
+     (. .)))
+
+
+
+
+
+
+
+
+
+
+
+( (S (NP-SBJ-1 (DT The)
+	       (NML (JJ electronic) (NN trade))
+	       (NML (JJ free) (NN trade))
+	       (NN zone))
+     (VP (VBZ is)
+	 (VP (VBN situated)
+	     (NP (-NONE- *-1))
+	     (PP-LOC (IN in)
+		     (NP (NP (DT the) (NN north))
+			 (PP (IN of)
+			     (NP (NNP Dubai)))
+			 (, ,)
+			 (PP-LOC (IN close)
+				 (PP (TO to)
+				     (NP (NP (NP (DT the) (JJ free) (JJ industrial) (NN zone))
+					     (PP-LOC (IN in)
+						     (NP (NNP Jabal) (NNP Ali) (NNP Mountain))))
+					 (, ,)
+					 (NP (NP (DT an) (NN area))
+					     (SBAR (WHNP-2 (WDT which))
+						   (S (NP-SBJ-3 (-NONE- *T*-2))
+						      (VP (VBZ is)
+							  (VP (VBN considered)
+							      (S (NP-SBJ (-NONE- *-3))
+								 (VP (TO to)
+								     (VP (VB be)
+									 (NP-PRD (NP (NP (DT the) (JJ first))
+										     (PP-LOC (IN in)
+											     (NP (DT the) (NN country)))
+										     (PP (-NONE- *RNR*-4)))
+										 (, ,)
+										 (CC and)
+										 (NP (NP (JJ tenth))
+										     (PP-LOC (IN in)
+											     (NP (DT the) (NN world)))
+										     (PP (-NONE- *RNR*-4)))
+										 (PP-4 (IN for)
+										       (NP (NN transit) (NN movement)))))))))))))))))))
+     (. .)))
+
+
+
+
+
+
+
+
+
+( (S (S-NOM-SBJ (NP-SBJ (-NONE- *PRO*))
+		(VP (VBG Launching)
+		    ('' ')
+		    (NP (NNP Dubai) (NNP Internet) (NN city))
+		    ('' ')))
+     (VP (VBD coincided)
+	 (PP-CLR (IN with)
+		 (NP (NP (DT the) (NN opening))
+		     (PP (IN of)
+			 (NP (NP (NP (NP (DT the) (JJ annual) (NN information) (NN fair))
+				     (PP-LOC (IN in)
+					     (NP (NNP Dubai))))
+				 (SBAR (WHNP-1 (WDT which))
+				       (S (NP-SBJ-2 (-NONE- *T*-1))
+					  (VP (VBZ is)
+					      (VP (VBN considered)
+						  (S (NP-SBJ (-NONE- *-2))
+						     (VP (TO to)
+							 (VP (VB be)
+							     (NP-PRD (NP (DT the) (JJS biggest))
+								     (PP-LOC (IN in)
+									     (NP (DT the) (NNP Middle) (NNP East))))))))))))
+			     (: -)
+			     (NP (NP (NNP Gulf) (NNP Information) (NNP Technology))
+				 (NP (NNP Getix))))))))
+     (. .)
+     ('' ')))
+
+
+
+
+
+

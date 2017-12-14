@@ -1,0 +1,11 @@
+
+( (S
+    (NP (N cats))
+    (VP (V scratch)
+        (NP (N people))
+        (PP (P with)
+          (NP (N claws))))))
+
+      
+
+        

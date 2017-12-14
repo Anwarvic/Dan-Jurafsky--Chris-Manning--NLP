@@ -1,0 +1,6 @@
+
+( (S
+    (NP (N cats))
+    (VP (V scratch)
+        (NP (N walls)))))
+

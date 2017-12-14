@@ -1,0 +1,7 @@
+
+( (S
+    (NP (N cats))
+    (VP (V eat)
+        (NP (NP (N crabs)) 
+            (PP (P with)
+                (NP (N claws)))))))

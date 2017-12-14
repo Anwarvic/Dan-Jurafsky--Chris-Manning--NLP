@@ -1,0 +1,49 @@
+1	S2
+1	S2	_Det
+1	S2	_Misc
+1	S2	_Noun
+1	S2	_Prep
+1	S2	_Proper
+1	S2	_VerbT
+1	_Det	Det
+1	_Det	Det _Det
+1	_Det	Det _Misc
+1	_Det	Det _Noun
+1	_Det	Det _Prep
+1	_Det	Det _Proper
+1	_Det	Det _VerbT
+1	_Misc	Misc
+1	_Misc	Misc _Det
+1	_Misc	Misc _Misc
+1	_Misc	Misc _Noun
+1	_Misc	Misc _Prep
+1	_Misc	Misc _Proper
+1	_Misc	Misc _VerbT
+1	_Noun	Noun
+1	_Noun	Noun _Det
+1	_Noun	Noun _Misc
+1	_Noun	Noun _Noun
+1	_Noun	Noun _Prep
+1	_Noun	Noun _Proper
+1	_Noun	Noun _VerbT
+1	_Prep	Prep
+1	_Prep	Prep _Det
+1	_Prep	Prep _Misc
+1	_Prep	Prep _Noun
+1	_Prep	Prep _Prep
+1	_Prep	Prep _Proper
+1	_Prep	Prep _VerbT
+1	_Proper	Proper
+1	_Proper	Proper _Det
+1	_Proper	Proper _Misc
+1	_Proper	Proper _Noun
+1	_Proper	Proper _Prep
+1	_Proper	Proper _Proper
+1	_Proper	Proper _VerbT
+1	_VerbT	VerbT
+1	_VerbT	VerbT _Det
+1	_VerbT	VerbT _Misc
+1	_VerbT	VerbT _Noun
+1	_VerbT	VerbT _Prep
+1	_VerbT	VerbT _Proper
+1	_VerbT	VerbT _VerbT
