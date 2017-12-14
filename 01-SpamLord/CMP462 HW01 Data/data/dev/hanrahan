@@ -1,0 +1,190 @@
+<HTML>
+<HEAD>
+    <TITLE>Pat Hanrahan</TITLE>
+</HEAD>
+<BODY>
+
+<TABLE WIDTH=100%>
+<TR>
+<TD>
+<IMG SRC="pmh.gif">&nbsp;
+</TD>
+<TD>
+<B><FONT SIZE=+1>Pat Hanrahan</FONT></B><BR>
+<B><FONT SIZE=+1>
+<A HREF="http://soe.stanford.edu/relations/endowed/canon.html">
+CANON USA Professor</A></FONT></B><BR>
+<BR>
+<A HREF="http://www-graphics.stanford.edu">Computer Graphics Laboratory</A><BR>
+<A HREF="http://www-cs.stanford.edu/">Computer Science </A> and
+<A HREF="http://www-ee.stanford.edu/">Electrical Engineering</A> Departments<BR>
+<A HREF="http://www-soe.stanford.edu/">School of Engineering </A><BR>
+<A HREF="http://www.stanford.edu/">Stanford University </A><BR>
+<BR>
+Gates Computer Science Building, Room 370 3B <BR>
+Stanford, CA 94305-9035 <BR>
+(650) 723-8530 <BR>
+(650) 723-0033 (fax) <BR>
+<A HREF="mailto:hanrahan@cs.stanford.edu">hanrahan@cs.stanford.edu</A>
+<B>(The best way to reach me)</B><BR>
+<BR>
+For additional assistance contact
+<A HREF="http://www.graphics.stanford.edu/~ada/">Ada Glucksman</A> <BR>
+</TD>
+</TR>
+</TABLE>
+
+<P>
+I am teaching a special topics course on
+<A HREF="http://graphics.stanford.edu/cs448-07-spring/">
+Real-Time Graphics Architectures
+</A>
+with Kurt Akeley.
+I will also be teaching
+<A HREF="http://graphics.stanford.edu/cs348b-06">
+Image Synthesis (spring 2006 version)</A>.
+
+<H3>Research</H3>
+<P>
+Right now I have an amazing set of colleagues and students with whom
+I am pursuing many diverse projects. Here is a high-level sampling:
+<UL>
+
+<LI>
+Visualization. I have always been fascinated by the use of 
+images in science and the methods used for scientific illustration.
+I am preparing a survey of scientific illustration targetted at the 
+"scientific visualization" community.
+In terms of specific projects,
+one useful general techniques that has emerged is the use of
+table-based displays to browse multidimensional relational
+databases. Working with Chris Stolte and Diane Tang,
+we have built a system called 
+<A HREF="http://www.graphics.stanford.edu/projects//polaris">
+Polaris</A> based on this idea (which is now available
+commercially from <A HREF="http://www.tableausoftware.com">Tableau Software</A>.
+Chris Stolte and Maneesh Agrawala developed a system called
+<A HREF="http://www.mapblast.com">LineDrive</a> for automatically
+producing hand-drawn maps for route directions.
+I have worked with Maneesh Agrawala, Julie Heiser and Barbara Tversky to
+create assembly instructions.
+<P>
+Most recently, I am working 
+with Alon Halevy on a desktop browser interface
+to your personal information space organized in a semantic network,
+and with David Akers, Tony Sherbondy, Brian Wandell on methods
+for visualizing pathways in the brain using diffusion tensor imaging.
+Stanford was also recently awarded the first
+Regional Visualization and Analysis Center.
+
+<LI>
+<A HREF="http://www.graphics.stanford.edu/projects/flashg">
+Graphics Systems and Architectures</A>. 
+There are several active projects going on in my group
+all focussed around GPUs.
+Recently, Ian Buck and others developed a stream programming
+environment for GPUs called Brook.
+Tim Foley and Jeremy Sugarman are looking further into
+ray tracing architecture on new architectures, 
+Daniel Horn and Mike Houston in using GPUs for
+knowledge discovery (e.g. see there work on running
+hidden markov models on GPUs), 
+and working with Eric Darve and Vijay Pande on
+implementing GROMACS (used by Folding@Home).
+The largest ongoing project is part of the Stanford
+ASCI Center for Integrated Turbulence Simulation.
+This project is investigating using stream processing ideas
+for scientific computing. Alex Aitken, Tim Knight,
+Kayvon Fatahalian and Mike Houston on working on a
+new programming abstraction, Sequoia, for programming
+machines with exposed communication mechanisms
+and software-controlled memory hierarchies.
+
+<LI>
+<A HREF="http://www.graphics.stanford.edu/projects/rendering">
+Rendering algorithms</A>. These days we are concentrating on
+simulating the appearance of different types of materials.
+I am also interested in rendering natural environments, 
+cinematographic lighting, and a new formulation
+of rendering using scattering as the fundamental concept.
+Examples are our work on simulating
+<A HREF="http://www.graphics.stanford.edu/papers/bssrdf">skin</A>
+and 
+<A HREF="http://www.graphics.stanford.edu/papers/hair">hair</A>.
+Along with Ren Ng, Marc Levoy and Mark Horowitz, we have
+developed a light field camera which allows focusing to be
+controlled after a photograph has been taken.
+
+</UL>
+
+<H3>Talks</H3>
+<P>
+Here is a sampling of invited talks.
+<UL>
+<LI><A HREF="http://www.graphics.stanford.edu/~hanrahan/talks/realistic-abstract">
+Realistic or Abstract Imagery: The Future of Computer Graphics?</A> (Eurographics 2005 Capstone, HVEI2004, EI2005, Adobe)</LI>
+<LI><A HREF="http://www.graphics.stanford.edu/~hanrahan/talks/selfillustrating">
+Self-Illustrating Phenomena</A> (Visualiation 2004 Capstone)</LI>
+<LI><A HREF="http://www.graphics.stanford.edu/~hanrahan/talks/gp2">
+Stream Programming Environments</A> (GP^2 Workshop)</LI>
+<LI><A HREF="http://www.graphics.stanford.edu/~hanrahan/talks/why">
+Why is Graphics Hardware so Fast?</A> (IBM, Intel, Microsoft, MERL, Princeton)</LI>
+<LI><A HREF="http://www.graphics.stanford.edu/~hanrahan/talks/hairskin">
+Simulating Natural Materials</A> (Computer Forum 2002)</LI>
+<LI><A HREF="http://www.graphics.stanford.edu/~hanrahan/talks/factoring">
+Factoring Light Fields</A> (Computer Vision Workshop 2002)</LI>
+<LI><a href="http://www-graphics.stanford.edu/~hanrahan/talks/todrawatree">
+To Draw A Tree</a> (Information Visualization 2001 Keynote)</LI>
+<LI><a href="http://www-graphics.stanford.edu/~hanrahan/talks/visualcomputerII">
+The Visual Computer II</a> (ATT Visualization Day 2001)</LI>
+<LI><a href="http://www-graphics.stanford.edu/~hanrahan/talks/rtsl/slides">
+Real Time Shading Languages</a> (Graphics Hardware 1999 Keynote)</LI>
+<LI><a href="http://www-graphics.stanford.edu/~hanrahan/talks/trompeloeil/slides">
+Modern Trompe l'oeil</a> (Visualization 1998 Keynote)</LI>
+<LI><a href="http://www-graphics.stanford.edu/~hanrahan/talks/visualcomputer">
+The Visual Computer</a> (State-of-the-Field Talk at Supercomputing)</LI>
+<LI><a href="http://www-graphics.stanford.edu/~hanrahan/talks/rwb/slides">
+The Responsive Workbench</a> (Distinguished Lecture, Univ of Utah)</LI>
+<LI><a href="http://www-graphics.stanford.edu/~hanrahan/talks/lightfield/">
+Light Field Rendering </a> (My last SIGGRAPH Talk?) </LI>
+</UL>
+
+<H3>Teaching</H3>
+Past courses:
+<UL>
+<LI>Visualization 
+<A HREF="http://www.graphics.stanford.edu/courses/cs448b-02-winter">2002</A>,
+<A HREF="http://www.graphics.stanford.edu/courses/cs448b-04-winter">2004</A>,
+<A HREF="http://www.graphics.stanford.edu/courses/cs448b-06-winter">2006</A>
+<LI>Modeling, Rendering and Perceiving Appearance (with Hendrik Lensch)
+<A HREF="http://www.graphics.stanford.edu/courses/cs448-05-winter/">2005</A>
+<LI>Advanced Rendering
+<A HREF="http://www.graphics.stanford.edu/courses/cs448-02-fall/">2002</A>
+<LI>Real-Time Graphics Architectures (with Kurt Akeley).
+<A HREF="http://www.graphics.stanford.edu/courses/cs448a-01-fall">2001</A>
+<LI>Appearance Models for Computer Graphics and Vision (with Jitendra Malik)
+<A HREF="/courses/cs448c-00-fall">2000</A>
+<LI>Experiments in Digital Television
+<A HREF="http://www.graphics.stanford.edu/courses/cs448-98-fall">2000</A>
+<A HREF="http://www.graphics.stanford.edu/courses/cs448a-00-winter">2000</A>
+<LI>Interactive Workspaces (with Armando Fox and Terry Winograd)
+<A HREF="http://www.graphics.stanford.edu/courses/cs448a-99-fall">1999</A>
+<LI>Mathematical Methods for Computer Graphics (with Eric Veach and Denis Zorin)
+<A href="http://www-graphics.stanford.edu/courses/cs448-97-fall/">1997</A>
+<LI>Introduction to Computer Graphics
+<A HREF="http://www.graphics.stanford.edu/courses/cs248-98-fall">1998</A>
+</UL>
+
+<H3>
+Information
+</H3>
+<UL>
+    <LI>
+    <A HREF="schedule.html">
+        Schedule</A>
+    <LI>
+    <A HREF="http://www-graphics.stanford.edu/papers/author.html#PatHanrahan">
+	Papers</A> 
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,165 @@
+<html>
+<head>
+<TITLE>Tim Roughgarden's Homepage</TITLE>
+</head>
+<body>
+
+<h1> Tim Roughgarden </h1>
+<i>
+<dl>
+<dt>Assistant professor in the <a href="http://www.cs.stanford.edu">Computer
+ Science</a>  
+and (by courtesy) 
+<A HREF="http://www.stanford.edu/dept/MSandE/">Management Science and Engineering</A>
+Departments at <a href="http://www.stanford.edu/">Stanford
+ University</a>.  
+</dl>
+</i>
+
+<b>Research interests</b>: Algorithms, Network and Combinatorial
+Optimization, Game Theory.
+
+<p>
+
+<b>News:</b>
+<ul>
+<li>My book <A HREF="http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=0521872820"><em>Algorithmic Game
+Theory</em></A>, co-edited with Noam Nisan, Eva Tardos, and Vijay Vazirani,
+was published by Cambridge University Press in October 2007.
+<li>Thanks to our progressive-minded publisher,
+you can read the entire book online by clicking
+<a href="http://www.cambridge.org/journals/nisan/">here</A>
+(username=agt1user, password=camb2agt).
+<li><a href="agt/errata.pdf">Errata</a> from the first printing.
+</ul>
+
+<p>
+
+<b>Teaching (2008-2009)</b> 
+<ul>
+<li>Winter '09: 
+CS161, Design and Analysis of Algorithms
+<li>Fall '08: <A
+HREF="http://theory.stanford.edu/~tim/f08/f08.html">CS364A, 
+Algorithmic Game Theory</A>
+<li><A HREF="grad.html">Archived graduate courses</A>
+</ul>
+
+<p>
+
+<b>Local Theory Events</b> 
+<ul>
+<li><A HREF="http://research.microsoft.com/research/sv/games/BAGT/meeting5/">Bay Algorithmic Game Theory Symposium (BAGT)</A>, Google, April 11, 2008.
+<li><A HREF="http://research.microsoft.com/research/sv/bats2007/bats2007.htm">Bay Area Theory Symposium (BATS)</A>, Microsoft, November 30, 2007.
+<li><A HREF="http://theory.stanford.edu/~aflb/">AFLB</A> (i.e., the Stanford CS Theory Seminar), roughly every other Tuesday at 4 PM.
+</ul>
+
+<p>
+
+<b>Some Recent Papers</b>
+
+<ul>
+<li>P. Dhangwatnotai, S. Dobzinski, S. Dughmi, and T. Roughgarden, 
+<a href="papers/sparam.pdf"><em>Truthful Approximation Schemes for Single-Parameter Agents</em></a>, full version of FOCS '08 paper.
+<li>T. Roughgarden, 
+<a href="papers/tcs08.pdf"><em>An Algorithmic Game Theory
+Primer</em></a>, TCS '08 (invited survey).
+<li>J. D. Hartline and T. Roughgarden, 
+<a href="papers/burning.pdf"><em>Optimal Mechanism Design
+and Money Burning</em></a>, STOC '08.
+<li>S. Dobzinski, A. Mehta, T. Roughgarden, and M. Sundararajan,
+<a href="papers/IsShapley.pdf"><em>Is Shapley Cost Sharing Optimal?</em></a>, SAGT '08.
+<li>S. Chawla and T. Roughgarden, 
+<a href="papers/nw-pricing.pdf"><em>Bertrand Competition in Networks</em></a>, SAGT '08.
+<li>H. Chen, T. Roughgarden, and G. Valiant,
+<a href="papers/cspos.pdf">
+<em>Designing Networks with Good Equilibria</em></a>, full version of SODA '08 paper.
+<li>R. Krauthgamer and T. Roughgarden,
+<a href="papers/decompose.pdf">
+<em>Metric Clustering via Consistent Labeling</em></a>, SODA '08.
+</ul>
+
+<p>
+
+<b>Some Recent Talks</b>
+
+<ul>
+<li><a href="talks/shapley.pdf">Potentials and Approximation</a>,
+Shapley Lecture, Third World Congress of the Game Theory Society.
+<li><a href="talks/ssa08.pdf">From Bayesian Auctions
+to Approximation Guarantees</a>,
+invited lecture, Fourth Workshop on Ad Auctions.
+</ul>
+
+<p>
+
+<b>Selected Older Publications</b>  (<a href="chron.html">Full chronological list</a>)
+
+<ul>
+<li>A. Mehta, T. Roughgarden, and M. Sundararajan,
+<a href="papers/bmm.pdf">
+<em>Beyond Moulin Mechanisms</em></A>, full version of EC '07 paper.
+<li>T. Roughgarden and M. Sundararajan,
+<A HREF="papers/trade.pdf">
+<em>Quantifying Inefficiency in Cost-Sharing Mechanisms</em></A>, 
+full version of STOC '06 paper.
+<li>C. H. Papadimitriou and T. Roughgarden, <A
+HREF="papers/cor.pdf"><em>Computing Correlated Equilibria in Multi-Player
+Games</em></A>, JACM '08.
+<li>A. Gupta, A. Kumar, M. Pal, and T. Roughgarden, <A
+HREF="papers/simple.pdf"><em>Approximation Via Cost Sharing</em></A>,
+JACM '07.
+<li>T. Roughgarden.  
+<em><A
+HREF="http://mitpress.mit.edu/catalog/item/default.asp?tid=10339&ttype=2">
+Selfish Routing and the Price of Anarchy</em></A>, MIT Press, 2005.
+<li>T. Roughgarden,
+<A HREF="papers/indep.pdf"><em>The Price of Anarchy is Independent
+of the Network Topology</em></A>, JCSS '03.
+<li>T. Roughgarden,
+<A HREF="papers/nd_hard.pdf"><em>Designing Networks for
+Selfish Users is Hard</em></A>, JCSS '06. 
+<li>T. Roughgarden and E. Tardos,
+<A HREF="papers/routing.pdf"><em>How Bad is Selfish Routing?</em></A>,
+JACM '02.
+</ul>
+
+<p>
+
+<b>Music</b>
+
+<ul>
+<li>Back in the Stone Age I DJed at <A HREF="http://www-kzsu.stanford.edu">KZSU 90.1 FM.</A>
+<li>Top two reasons to live in the Bay Area: <A
+HREF="http://www.amoebamusic.com">#1</A>; <A HREF="http://www.aquariusrecords.org">#2</A>.
+</ul>
+
+
+<A NAME="contact"></A>
+<ADDRESS>Tim Roughgarden</ADDRESS>
+<ADDRESS>Stanford University</ADDRESS>
+<ADDRESS>Computer Science Department</ADDRESS>
+<ADDRESS>462 Gates Building</ADDRESS>
+<ADDRESS>353 Serra Mall</ADDRESS>
+<ADDRESS>Stanford, CA 94305</ADDRESS>
+<ADDRESS>P:(650)724-9147</ADDRESS>
+<ADDRESS>F:(650)725-4671</ADDRESS>
+<ADDRESS>"first name"@cs.stanford.edu</ADDRESS>
+
+<p>
+
+Admin:
+<ADDRESS>Wendy Cardamone</ADDRESS>
+<ADDRESS>Stanford University</ADDRESS>
+<ADDRESS>Computer Science Department</ADDRESS>
+<ADDRESS>461 Gates Building</ADDRESS>
+<ADDRESS>353 Serra Mall</ADDRESS>
+<ADDRESS>Stanford, CA 94305</ADDRESS>
+<ADDRESS>P:(650)725-2340</ADDRESS>
+<ADDRESS>F:(650)725-4671</ADDRESS>
+<ADDRESS>"first name + first letter of last name"@cs.stanford.edu</ADDRESS>
+
+
+
+<BR>
+<BR>

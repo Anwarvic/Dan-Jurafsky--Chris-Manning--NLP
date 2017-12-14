@@ -1,0 +1,313 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<META name="description" content="Home Page for Dan Jurafsky at Stanford University">
+<META name="keywords" content="Jurafsky, jurafsky, computational linguistics, speech recognition">
+   <title>Dan Jurafsky - Home Page</title>
+</head>
+
+<script type="text/javascript"><!-- 
+function obfuscate( domain, name ) { document.write('<a href="mai' + 
+'lto:' + name + '@' + domain + '">' + name + '@' + domain + '</' + 'a>'); }
+// --></script>
+
+
+<style type="text/css">
+<!--
+
+body {
+  font-size: 11pt;
+font-family: "Frutiger Linotype", Calibri, Georgia, "Garamond Book", "New Baskerville", "Times New Roman", Times, serif;
+}
+
+.header {
+font-size: 120%;
+font-family: "Frutiger Linotype", Calibri, "Myriad Web", "Myriad Roman", "Gill Sans", "Gill Sans MT", Arial, Helvetica, sans-serif;
+}
+
+.column_title{
+margin-bottom: 10px;
+}
+
+.secondaryLead {
+font-size: xx-small;
+}
+.smaller {font-size: 90%}
+.smaller-bold {font-size: 90%; font-weight: bold; }
+
+.header_text{
+font-size: 80%;
+}
+
+.course{
+margin-bottom: 20px;
+}
+
+.subtle-title {
+color: #333;
+display: block;
+
+} 
+
+.paper {
+margin-bottom: 10px;
+clear: right;
+}
+
+
+
+
+.title {
+	font-style: italic;
+	font-weight: bold;
+	text-align: right;
+	letter-spacing: 0.2em;
+	text-transform: lowercase;
+}
+a:link {
+	text-decoration: none;
+	color: #000066;
+}
+a:visited {
+	text-decoration: none;
+	color: #993333;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+body td {
+}
+
+-->
+</style></head>
+<!--body leftmargin=24 topmargin=0 text="#000000" bgcolor="#FFFFFF" link="#0000ED" vlink="#551A8A" alink="#FE0000" BACKGROUND="backstripe.gif"-->
+<body bgcolor="#ffffff">
+<table BORDER=0 CELLSPACING=0 CELLPADDING=3 WIDTH="750" >
+<tr valign=top>
+<td>
+<img src="aug3.jpg" style="float:left; padding: 0 0 0 0" width="160" border="1" /><br>
+
+</td>
+<td>
+<table>
+<tr><td><b><font size=+2>
+<span class="header_text">
+Dan Jurafsky</span></font></b>
+<small><br>
+</small>
+<span class="header_text">
+Associate Professor of
+<a href="http://www-linguistics.stanford.edu">Linguistics</a> 
+<small><br> </small>
+Associate Professor by Courtesy of
+<a href="http://www.cs.stanford.edu">Computer Science</a> 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<br><a href="http://www.stanford.edu">Stanford University</a>
+<br>
+<br>
+<br>
+</span>
+</td>
+<td>
+<span class="header_text">
+<script> obfuscate('stanford.edu','jurafsky'); </script>
+<br />
+margaret jacks hall 117<br />
+<small>FAX</small> +1 650 723 5666<br />
+<small>UPS</small> Linguistics Dept, Bldg 460, <br>
+&nbsp;
+&nbsp;
+&nbsp;
+450 Serra Mall, Stanford University, 
+<br>
+&nbsp;
+&nbsp;
+&nbsp;
+Stanford CA 94305-2150 USA<br></td>
+</span>
+</td>
+</table>
+<small>
+Dan and his colleagues in the
+<a href="http://nlp.stanford.edu">Stanford NLP group</a>,
+the Stanford Speech Lab,  and the
+<a href="http://www.stanford.edu/dept/linguistics/compling">stanford program in computational linguistics</a>,
+are interested in any area of machine and human processing of language,
+<a href="nlp.html">natural language processing</a>, 
+<a href="speech.html">speech recognition, speech synthesis, and dialogue</a>,
+and <a href="comppsych.html">computational psycholinguistics</a>,
+with an additional focus on <a href="chinese.html">chinese computational linguistics</a>.
+Dan organizes the
+<a href="nlpcourses.html">Stanford courses in NLP, speech, and computational linguistics</a>. 
+Dan is a <a href="http://www.macfound.org/site/c.lkLXJ8MQKrH/b.959463/k.9D7D/Fellows_Program.htm">MacArthur Fellow</a>. 
+</small>
+
+</td>
+<td>
+<small>
+<br></small>
+
+</font>
+</small>
+</td>
+<td>
+</td>
+<tr>
+<tr>
+
+
+
+<tr>
+<td valign=top>
+<font size=+1>
+<a href="bio.html">BIO</a> &nbsp;&nbsp;&nbsp;<br><small><br></small>
+<a href="cv.pdf">CV</a>
+&nbsp;&nbsp;&nbsp;<br><small><br></small>
+<a href="http://www.cs.colorado.edu/~martin/slp2.html"><img src="./slp2-cover.jpg" align=center height=80 border="0" ></a>
+&nbsp;&nbsp;&nbsp;<br><small><br></small>
+<a href="pubs.html">PUBS</a>
+&nbsp;&nbsp;&nbsp;<br><small><br></small>
+<a href="people.html">PEOPLE</a>
+&nbsp;&nbsp;&nbsp;<br><small><br></small>
+<a href="deadlines.html">WHERE'S DAN?</a> <br>
+</font>
+<br>
+</td>
+<td>
+<table CELLSPACING=0 CELLPADDING=3>
+<tr>
+<td valign=top width="40%">
+<small>2008/2009 TEACHING</small>
+<br>
+<br>
+
+<span class="body">
+
+<small> <small>WINTER</small> 2009</small>
+<br>
+<a href="http://www.stanford.edu/class/linguist180/">CS 124/LINGUIST 180:<br>
+From Languages to Information </a><br>
+<small><i>Tue/Thu 9:30-10:45, Terman 156</i></small><br>
+<br>
+<a href="http://www.stanford.edu/class/cs224s/">CS 224S/LINGUIST 281:<br>Speech Recognition and Synthesis</a><br>
+<small><i>Tue/Thu 3:15-4:30, Room 20-21G</i></small><br>
+<small><br></small>
+
+<small> <small>AUTUMN</small> 2008</small>
+<br>
+<a href="http://www.stanford.edu/class/linguist62n">
+LINGUIST 62n:<br> The Language of Food</a><br>
+<small><i>Tue/Thu 3:15-4:30pm, 126 Margaret Jacks Hall</i><br></small></a>
+
+
+<br>
+<a href="teaching.html">etc courses</a>
+</span>
+<br>
+<br>
+<br>
+<br>
+</td>
+<td valign=top width="40%">
+<small>RECENT PAPERS</small>
+<span class="header_text">
+<p>
+Alan Bell, Jason Brenier, Michelle Gregory, Cynthia Girand, and Dan Jurafsky. In press.
+<a href="jml08.pdf">Predictability Effects on Durations of Content and Function Words in Conversational English</a>. Journal of Memory and Language.
+<p>
+David Hall, Daniel Jurafsky,  and Christopher D. Manning. 2008.
+<a href="hallemnlp08.pdf">Studying the History of Ideas Using Topic Models.</a>
+In Proceedings of EMNLP 2008, 363-371.
+<p>
+Rion Snow, Brendan O'Connor, Daniel Jurafsky and Andrew Y. Ng. 2008. <a href="amt.pdf">Cheap and Fast - But is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks.</a> 
+In Proceedings of EMNLP 2008, 254-263.
+<p>
+Nathanael Chambers and Dan Jurafsky. 2008.
+<a href="emnlp08-global-time.pdf">Jointly Combining Implicit Constraints Improves Temporal Ordering.</a>
+In Proceedings of EMNLP 2008, 698-706.
+
+
+<p>
+Sharon Goldwater, Dan Jurafsky, and Christopher D. Manning.  2008. <a href="http://nlp.stanford.edu/pubs/sgwater08a.pdf">Which words are hard to recognize? Lexical, prosodic, and disfluency factors that increase ASR error rates</a>. In ACL/HLT 2008, 380-388.
+
+<p>
+Nathanael Chambers and Dan Jurafsky. 2008. <a href="narrative-chains08.pdf">Unsupervised Learning of Narrative Event Chains</a>. In ACL/HLT 2008.
+
+<p>
+Yun-Hsuan Sung, Constantinos Boulis, and Dan Jurafsky.  2008.
+<a href="adaptation.pdf">Maximum Conditional Likelihood Linear Regression and Maximum A
+Posteriori for Hidden Conditional Random Fields Speaker Adaptation</a>. IEEE ICASSP 2008. 4293-4296.
+
+<p>
+Vivek Kumar Rangarajan Sridhar, Ani Nenkova, Shrikanth Narayanan and Dan Jurafsky. 2008. <a href="sp08_v7.pdf">Detecting prominence in conversational speech: pitch accent, givenness and focus</a>. In Proceedings of Speech Prosody, Campinas, Brazil. 380-388.
+
+<p>
+Yun-Hsuan Sung, Constantinos Boulis, Christopher Manning and Dan Jurafsky.  2007.
+<a href="asru2007-hcrf.pdf">Regularization, Adaptation, and Non-Independent Features Improve Hidden Conditional Random Fields for Phone Classification</a>. In IEEE ASRU 2007. 347-352.
+<p>
+Rion Snow, Sushant Prakash, Daniel Jurafsky, and Andrew Y. Ng. 
+<a href="wordsenses_emnlp07.pdf">Learning to merge word senses</a>. In Proceedings of EMNLP 2007
+<p>
+Surabhi Gupta, John Niekrasz, Matthew Purver and Dan Jurafsky. 2007. Resolving "You" in Multi-Party Dialog. In Proceedings of the 8th SIGdial Workshop on Discourse and Dialogue, Antwerp, Belgium, September 2007.
+<p>
+Volker Strom, Ani Nenkova, Robert Clark, Yolanda Vazquez-Alvarez, Jason Brenier, Simon King, and Dan Jurafsky. 2007.
+<a href="is-p540.pdf">
+Modelling Prominence and Emphasis Improves Unit-Selection Synthesis</a>.
+Interspeech 2007.
+<p>
+Nathanael Chambers, Shan Wang and Dan Jurafsky. 2007.  
+<a href="acl07-chambers.pdf">
+Classifying Temporal Relations Between Events</a>. 
+Proceedings of ACL 2007 short papers, Prague, Czech Republic.
+
+<p>
+Surabhi Gupta, Matthew Purver and Dan Jurafsky.  2007.
+<a href="acl07-you.pdf">
+Disambiguating Between Generic and Referential "You" in Dialog.</a>
+Proceedings of ACL 2007 short papers, Prague, Czech Republic.
+
+
+<p>
+Surabhi Gupta, Ani Nenkova and Dan Jurafsky. 2007.
+<a href="acl07-llr.pdf">
+Measuring Importance and Query Relevance in Topic-focused Multi-document 
+Summarization.</a>
+Proceedings of ACL 2007 short papers, Prague, Czech Republic.
+
+<p>
+Ani Nenkova, Jason Brenier, Anubha Kothari, Sasha Calhoun, Laura Whitton, David Beaver, and Dan Jurafsky. 2007.
+<a href="N07-1002.pdf">
+To Memorize or to Predict: Prominence Labeling in Conversational Speech</a>.
+NAACL-HLT 2007.
+
+<p>
+Yuan Zhao and Dan Jurafsky. 2007.
+<a href="1164.pdf">
+The Effect of Lexical Frequency on Tone Production</a>. Proceedings
+of ICPhS 2007,  477-480.
+
+<p>
+Rion Snow, Dan Jurafsky, and Andrew Y. Ng. 2006.
+<a href="COLACL101.pdf">Semantic taxonomy induction from heterogenous evidence</a>.
+Proceedings of COLING/ACL 2006, Sydney. <font color="#FF 00 00">ACL Best Paper Award.</font>
+
+<p>
+<a href="pubs.html">etc pubs</a>
+</span>
+
+
+</tr>
+
+</table>
+</table>
+</blockquote>
+</table>

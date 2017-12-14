@@ -1,0 +1,366 @@
+<html>
+<BODY BACKGROUND="paper3.gif" TEXT="#000000" LINK="#00006f" VLINK="#003f00" ALINK="#7f0000">
+
+<A name="Start">
+
+<p>
+
+<TABLE BORDER=0 CELLSPACING=2 width="741">
+<TR>
+<TD WIDTH=246 VALIGN=Top>
+<font face="Comic Sans MS">
+<BR>
+<a name="Start" href="http://theory.stanford.edu/~rajeev/rajeev.jpg">
+<IMG SRC="http://theory.stanford.edu/~rajeev/rajeev.jpg" ALIGN="Center"
+height="150"></a> </font>
+</TD>
+<TD WIDTH=485 VALIGN="Left">
+<head>
+<font face="Comic Sans MS">
+<TITLE>Rajeev Motwani</TITLE>
+</head>
+</font><font face="Comic Sans MS">
+<BR>
+</font>
+<H1><font face="Comic Sans MS" color="#0000FF">Rajeev Motwani</font></H1>
+
+<P><font face="Comic Sans MS">Professor and Director of Graduate Studies<BR>
+ <A HREF= "http://www-db.stanford.edu">Database Group</A>/<A HREF=
+"http://infolab.stanford.edu">InfoLab</A>,
+ and
+ <A HREF="http://theory.stanford.edu/index.html">Foundations Group</A>
+ <BR>
+ <A HREF="http://www-cs.stanford.edu/">Computer Science Department</A><BR>
+ <A HREF="http://www.stanford.edu">Stanford University</A></font></P>
+<!--
+<P>
+Alfred P. Sloan Research Fellow
+<BR>
+NSF National Young Investigator
+</P>
+-->
+<P>
+<font face="Comic Sans MS">Ph.D. 1988 (<A HREF="http://www.cs.berkeley.edu">Computer Science</A>,
+<A HREF="http://www.berkeley.edu">U.C. Berkeley</A>)<BR>
+B.Tech. 1983 (<A HREF="http://www.cs.umd.edu/~gagan/IITK/index.html">Computer
+Science</A>,
+ <A HREF="http://www.iitk.ac.in">IIT Kanpur</A>)</font></P>
+</TD>
+</TR>
+</TABLE>
+<font face="Comic Sans MS">
+<BR>
+
+</a>
+<a name="Start" href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif">
+
+<IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a><A name="Start">
+
+
+
+</a> </font><font face="Comic Sans MS"><br>
+&nbsp;</font><table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFFFF" width="71%">
+  <tr>
+    <td width="100%"><font face="Comic Sans MS"><font color="#0000FF"><STRONG>Research Interests:</STRONG></font>
+    </font><font face="Comic Sans MS" size="2">Databases, data mining, information retrieval, and web searching.
+Privacy and security, particularly in the context of databases and
+information retrieval.
+Optimization and scheduling problems, particularly for
+applications in computer systems, compilers, and databases. Computational
+and combinatorial geometry with applications to robotics and vision.
+Computational biology and automated drug design.
+Design and analysis of algorithms with emphasis on approximations,
+online computations, and randomized algorithms, as well as related
+complexity theory. </font></td>
+  </tr>
+</table>
+&nbsp;<p><font face="Comic Sans MS">
+<A HREF="http://theory.stanford.edu/~rajeev/bio.html"><font color="#0000FF">Biographical Information</font></A><font color="#0000FF"> 
+
+<!--
+<A HREF = "#Contents"> Click here for contents menu</A>.
+
+<IMG SRC="gifs/line.red2.gif" ALT="-----">
+-->
+
+</font></font></p>
+<p><font face="Comic Sans MS">
+
+<a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif">
+
+<IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a> </font></p>
+<font face="Comic Sans MS">
+  <p align="left"><b><font face="Comic Sans MS" size="4" color="#0000FF">Table of
+<A name="Contents">
+Contents: </font></b>
+
+  </p>
+
+<DL>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/projects.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font color="#0000FF">Research Projects</font></A>
+<font size="2">(Algorithms, DataMining/Internet/Web/Search, Databases/Streams, Privacy, P2P, Drug Design, Robotics).</font></font></DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/students.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font color="#0000FF">Graduate Students</font></A>
+<font size="2">(Current and "Graduated"). </font></font> </DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/papers.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font color="#0000FF">Publications</font></A></font></DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/books.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif"  ALT="*" width="14" height="14"> <font color="#0000FF">Books
+& Book Chapters</font></A></font></DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/talks.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font color="#0000FF">Recent and Forthcoming 
+Talks</font></A></font></DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/courses.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font color="#0000FF">Teaching and Courses</font></A><font color="#0000FF">
+</font>
+(Autumn 08-09: <a href="http://theory.stanford.edu/~rajeev/cs365.html"><font
+color="#0000FF"> CS 365 - Randomized Algorithms</font></a>)
+ </DD>
+ <!--
+<DD><A href=http://www.stanford.edu/group/tbp/courseguide/CS_index.html><img src="gifs/"http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*">
+ Teaching Reviews. </A> </DD>
+-->
+</font>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/awards.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> <font
+color="#0000FF"> Selected Awards and Honors</font></A><font color="#0000FF">
+</font>
+<DD><font face="Comic Sans MS"><A href="#Services">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A> <font color="#0000FF">Professional Activities:
+</font></font>
+<DL>
+<DD><font face="Comic Sans MS"><A href="#Editor">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A>
+Journal Editorial Boards:&nbsp; </font>
+<font face="Comic Sans MS">
+<a href="http://tkdd.cs.uiuc.edu/">ACM Transactions on Knowledge Discovery from Data</a></font></DD>
+<DD><font face="Comic Sans MS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<A href="http://www.academicpress.com/www/journal/ss/sseb.htm">Journal
+of Computer and System Sciences</A></font></DD>
+<DD><font face="Comic Sans MS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<A href="http://www.siam.org/journals/sicomp.php">SIAM Journal
+on Computing</A></font></DD>
+<DD><font face="Comic Sans MS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.jdmr.org">VLDB Journal of Data Management Research</a></font></DD>
+<DD><font face="Comic Sans MS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.computer.org/tkde/index.htm">IEEE Transactions on Knowledge 
+and Data Engineering</a> (2002-2007)</font></DD>
+</dt>
+<DD><font face="Comic Sans MS"><A href="#CurrentCommittees">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif"
+ALT="*" width="14" height="14"></A> Current Program Committees</A>:
+<A href="http://www2009.org/"> WWW 2009</A>,
+<A href="http://www.siam.org/meetings/da09/"> SODA 2009</A>,
+<A href="http://www.sigkdd.org/kdd2009/"> KDD 2009</A>,
+<A href="http://www.se.cuhk.edu.hk/~wine2008/"> WINE 2008</A>,
+<A href="http://www.siam.org/meetings/calendar.php?id=275"> SIAM Annual Meeting 2008</A>,
+<A href="http://wsdm2008.org/."> WSDM 2008</A>,
+<A href="http://www.sigkdd.org/kdd2008/"> WebKDD 2008</A>.
+<BR>
+<font face="Comic Sans MS"><A href="#PastCommittees">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A>
+<A href=http://theory.stanford.edu/~rajeev/committees.html>Past Conference Program Committees</A> </font>
+</DD>
+<DD><font face="Comic Sans MS"><A href="#SIGACT">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A>
+Vice-Chair, Executive Committee, <A HREF="http://sigact.acm.com">ACM SIGACT</A> (2001-2005)
+</font>
+</DD>.
+</DL>
+</DL>
+<DD><font face="Comic Sans MS"><A href="#Mail">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"></A>
+Want to contact <A href="http://theory.stanford.edu/~rajeev/contact.html">me</A> or <A href="#Admin">my admin</A>?</font></DD>
+<DD><font face="Comic Sans MS"><A href="http://theory.stanford.edu/~rajeev/others.html">
+<img src="http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*" width="14" height="14"> Other Links.</A></DD>
+<!--
+<DD><A href="wwwstat/rajeev-index.html"><img src="gifs/"http://theory.stanford.edu/~rajeev/gifs/ball.red.gif" ALT="*"> Access Statistics.</A></DD>
+-->
+<A HREF = "http://theory.stanford.edu/people/rajeev/asha.html"> </A>
+<A HREF = "http://www.doteduventures.com"> </A>
+</font>
+<p>
+<a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif">
+
+<IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a>
+</p>
+<H3>
+<font color="#0000FF">Recent survey talks on </font> <A HREF="http://www-db.stanford.edu/stream">
+<font color="#0000FF">Data Streams</font></A><font color="#0000FF">: </font>
+</H3>
+<EM>Randomization for Massive and Streaming Data Sets</EM>
+<BR>
+<A HREF="http://forum.stanford.edu/events/annual-meeting-2003.html"> Stanford Computer Science Forum -
+Annual Affiliates Meeting</A>,
+Stanford, May 2003. 
+<BR>
+Here are the <A HREF="forum-2003-talk.ppt">slides</A> from this talk.
+</LI>
+<br>
+<br>
+<EM>Models and Issues in Data Stream Systems</EM>
+<BR>
+<A HREF="http://www-db.cs.wisc.edu/sigmodpods2002/"> PODS Plenary Talk
+at the ACM SIGMOD/PODS 2002 Conference</A>,
+June 2002.
+<BR>
+Here are the <A HREF="http://theory.stanford.edu/~rajeev/pods-short-talk.ppt">slides</A> from this talk.
+<br>
+If I had more time (say 3 hours :)), here are the
+<A HREF="http://theory.stanford.edu/~rajeev/pods-full-talk.ppt">slides</A> I would have used.
+<br>
+&nbsp;<font face="Comic Sans MS"><a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif"><IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a>
+<br>
+&nbsp;</font><table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFFFF" width="71%">
+  <tr>
+    <td width="60%"><font face="Comic Sans MS">
+
+<B>
+<A HREF="http://www.awlonline.com/product/0,2627,0201441241,00.html">
+    <font color="#0000FF">Introduction to Automata Theory, </font></A>
+    <font color="#0000FF"><br>
+    </font>
+<A HREF="http://www.awlonline.com/product/0,2627,0201441241,00.html">
+    <font color="#0000FF">Languages, and Computation</font></A></B><br>
+    (with Hopcroft and Ullman) <br>
+    Addison-Wesley, 2000.</font><p><font face="Comic Sans MS">
+<A HREF="http://www.awlonline.com/product/0,2627,0201441241,00.html"><br>
+<IMG SRC = "http://www.awlonline.com/coverimage/0201441241.jpg" width="180" height="276"></A><br>
+ 
+<BR>
+
+<A HREF="http://www-db.stanford.edu/~ullman"><font color="#0000FF">Jeff Ullman</font></A><font color="#0000FF"> maintains the
+    </font><a href="http://www-db.stanford.edu/~ullman/ialc.html">
+    <font color="#0000FF">book web
+    page</font></a><font color="#0000FF">.</font> <br>
+&nbsp;</font></td>
+    <td width="40%"><font face="Comic Sans MS">
+
+<B>
+<A HREF="http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=0521474655">
+    <font color="#0000FF">Randomized
+Algorithms</font></A></B><br>
+    (with Raghavan) <br>
+    Cambridge University Press, 1995. <br>
+    <br>
+<A HREF="http://www.cambridge.org/us/catalogue/catalogue.asp?isbn=0521474655">
+<br>
+<IMG SRC = "http://theory.stanford.edu/~rajeev/gifs/mybook.gif" width="189" height="284"></A><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br>
+&nbsp;</font></td>
+  </tr>
+</table>
+<font face="Comic Sans MS">
+
+<a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif">
+
+<IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a> </font>
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFFFF" width="71%" height="19">
+  <tr>
+    <td width="50%" height="19">
+
+<H3>
+<br>
+<A name="Mail">
+<font face="Comic Sans MS" color="#0000FF">Rajeev Motwani </font>
+</H3>
+<PRE><font face="Comic Sans MS">Department of Computer Science
+Room 474
+Gates Computer Science Building 4B
+Stanford University
+Stanford, CA 94305-9045
+
+<B>Phones:</B> 650-723-6045 (office)</font></a><font face="Comic Sans MS">
+<A name="Mail">             650-725-4671 (fax) </font></PRE>
+
+<A name="Mail">
+
+<H4>
+<span style="font-weight: 400">
+<font face="Comic Sans MS" color="#0000FF">"first name" AT cs.stanford.edu</font></span></H4>
+
+    </td>
+    <td width="50%" height="19">
+
+<H3>
+<br>
+<A name="Admin">
+<font face="Comic Sans MS">
+<EM style="font-style: normal">Admin:</EM> <font color="#0000FF">Lynda Harris
+</font></font>
+</H3>
+<PRE><font face="Comic Sans MS">Department of Computer Science
+Room 495
+Gates Computer Science Building 4B
+Stanford University
+Stanford, CA 94305-9045
+
+<B>Phones:</B> 650-723-4377 (office)</font></a><font face="Comic Sans MS">
+<a name="Admin">             650-725-4671 (fax) </a></font></PRE>
+
+<H4>
+<font face="Comic Sans MS" color="#0000FF"><span style="font-weight:
+400">"first name"@cs.stanford.edu</span></font></H4>
+
+    </td>
+  </tr>
+</table>
+<font face="Comic Sans MS">
+<a href="http://cs.stanford.edu/info/directions">
+Directions to Gates Building</a></font><p>
+<font face="Comic Sans MS"><a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif"><IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a> </font>
+</p>
+
+<P>
+<A href="#Start">
+<IMG src="http://theory.stanford.edu/~rajeev/gifs/uparrow.xbm" width="32" height="32">
+ Top of Rajeev Motwani's home page </A>.</P>
+
+<!--
+<TABLE BORDER=0 CELLSPACING=2 width="642">
+<TR>
+<TD WIDTH=445 VALIGN=Top>
+<P>
+<A href="#Start">
+<IMG src="http://theory.stanford.edu/~rajeev/gifs/uparrow.xbm" width="32" height="32">
+ Top of Rajeev Motwani's home page </A>.</P>
+</TD>
+<TD WIDTH=187 VALIGN="Left">
+Visitors since January 1, 1999:
+-->
+<!-- begin Ultimate Counter code -->
+<!-- Visit http://www.ultimatecounter.com for more info-->
+<!--
+<a href="http://home.qpt.com/counter.html">
+<img src="http://www.ultimatecounter.com/count/count.cgi?96201">
+</a>
+</TD>
+</TR>
+</TABLE>
+-->
+
+<a href="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif">
+
+<IMG SRC="http://theory.stanford.edu/~rajeev/gifs/line.red2.gif" ALT="-----" width="640" height="4"></a>
+</font></font>
+<!-- <P><IMG src="gifs/end2.gif"  align="Middle"></P>  -->
+<!-- BEGIN GOOGLE-ANALYTICS CODE -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1293697-1";
+urchinTracker();
+</script>
+<!-- END GOOGLE-ANALYTICS CODE -->
+
+<!-- BEGIN Jawed-tagging CODE -->
+<!-- -->
+<script src="http://tags.stanford.edu/tags.js"
+type="text/javascript"></script>
+<!-- -->
+<!-- END Jawed-tagging CODE -->
+</body>
+
+</HTML>

@@ -1,0 +1,474 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Monica Lam</title>
+</head>
+<body>
+<h2>Monica S. Lam&nbsp; <img src="lam-char.gif"><img
+src="sin-char.gif"><img src="ling-char.gif"></h2>
+<img src="lam-soe.jpg" border="1" align="left"> 
+<img src="monicalam.jpg" width="120" height="160" hspace="20"
+border="1" align="left"> 
+<img src="alps.jpg" width="238" height="166" hspace="20" border="1"
+align="left"> 
+<img src="alps.gif" hspace="20" border="1" align="left"> 
+Professor <br>
+<a href="http://www-cs.stanford.edu">Computer Science Department</a> <br>
+<a href="http://www.stanford.edu">Stanford University</a> <br>
+<br>
+<table cols="3">
+  <tbody>
+    <tr>
+      <td> Gates Building, Room 307<br>
+353 Serra Mall<br>
+Stanford University<br>
+CA 94305<br>
+      <a href="http://suif.stanford.edu/~lam/directions.html">(Directions) </a> </td>
+      <td> &nbsp;&nbsp;&nbsp;Phone: (650) 725-3714<br>
+&nbsp;&nbsp;&nbsp;Fax: (650) 725-6949<br>
+&nbsp;&nbsp;&nbsp;E-mail: lam at cs.stanford.edu<br>
+&nbsp;&nbsp;&nbsp;Administration Assistant: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
+ href="http://csl.stanford.edu/%7Edarlene/">Darlene Hadding</a> </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<h3>Research Interests</h3>
+<dd> Programming and computing systems. </dd>
+<dd> Program analysis, operating systems, security.  </dd>
+<hr>
+<h3>Current Research Projects</h3>
+<dd> <a href="http://cleanslate.stanford.edu/pomi2020/">
+POMI 2020 (Programmable Open Mobile Internet)
+</a></dd>
+
+<dd> <a href="http://suif.stanford.edu/research/analysis.html">
+Improving Program Robustness via Static Analysis and Dynamic
+Instrumentation.</a></dd>
+
+<h3>Recent Research Projects</h3>
+<dd> <a href="http://suif.stanford.edu/collective/index.html"> The
+Collective: an Appliance-Based Computing Architecture.</a></dd>
+<hr>
+<h3>Biography</h3>
+
+Monica Lam is a Professor in the Computer Science Department at
+Stanford University since 1988.  She received a B.Sc. from University
+of British Columbia in 1980 and a Ph.D. in Computer Science from
+Carnegie Mellon University in 1987.  She has worked in the areas of
+compiler optimization, software analysis to improve security,
+simplifying computing with virtualization.  
+
+<p>
+Her contributions compiler optimizations include software pipelining,
+data locality, parallelization.  The SUIF compiler infrastructure
+developed by her research group has been widely used by compiler
+researchers all around the world.  She helped found Tensilica in 1998,
+which specializes automatic generation of configurable processor cores
+and compilers from a high-level description.  
+
+<p>
+Her contributions in program analysis for security include tools for
+automatically detecting cross-site scripting and SQL injection bugs in
+Java/JSP web applications, which was based on a novel
+context-sensitive pointer alias analysis.  Other contributions include
+the bddbddb (BDD-based Deductive DataBase) analysis system, the PQL
+program query language, the Diduce dynamic root-cause analyzer, the
+Clouseau C++ memory leak detector, and the Cred buffer overrun
+detector.  She co-authored Compilers, Principles, Techniques, and
+Tools (2nd Edition), also known as the Dragon book, which was
+published in 2006.
+
+<p>
+In the area of simplifying computing, her Collective project developed
+the concept of a <a href="http://www.moka5.com">livePC</a>:
+subscribers of the livePC will automatically run the latest of the
+published PC virtual images with each reboot.  This approach allows
+computers to be managed scalably and securely.  In 2005, the group
+started a company called <a href="http://www.moka5.com">moka5</a> to
+transfer the technology to industry.
+
+<p> Monica is an ACM Fellow.  She received an NSF Young Investigator award in 1992, the ACM Most
+Influential Programming Language Design and Implementation Paper Award
+in 2001, an ACM SIGSOFT Distinguished Paper Award in 2002, and the ACM
+Programming Language Design and Implementation Best Paper Award in
+2004.  She was the author of two of the papers in "20 Years of PLDI--a
+Selection (1979-1999)", and one paper in the "25 Years of the
+International Symposia on Computer Architecture".
+
+<p> She chaired
+the ACM SIGPLAN Programming Languages Design and Implementation
+Conference in 2000, served on the Editorial Board of ACM Transactions
+on Computer Systems and numerous program committees for conferences on
+languages and compilers (PLDI, POPL), operating systems (SOSP), and
+computer architecture (ASPLOS, ISCA). </p>
+
+<hr>
+<h3>Current Students</h3>
+  <table cols="3" width="80%">
+    <tbody>
+        <td valign="top">
+        <dt><a href="http://cs.stanford.edu/~hangal">Sudheendra Hangal</a></dt></dl>
+          <dt><a href="http://www.stanford.edu/~mcmartin/">Michael
+          Martin</a></dt>
+        </td>
+
+        <td valign="top">
+        <dl>
+        <dt><a href="http://www.stanford.edu/~jiwon/">Jiwon Seo</a></dt>
+        <dt>Seok-Won Seong</a></dt>
+	        </dl>
+
+
+        <td valign="top">
+          <dt><a href="http://www.stanford.edu/%7Ecunkel/">Christopher
+Unkel</a> </dt>
+        </dl>
+
+        </td>
+
+
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+
+<h3>Courses</h3>
+CS 343, Spring 2008: <a
+href="http://suif.stanford.edu/~courses/cs343"> 
+Programmable Open Mobile Internet</a>  </br>
+CS 243, Winter 2008: <a href="http://cs243.stanford.edu/"> An Advanced
+Course in Compilers</a>  </br>
+CS 343, Spring 2007: <a href="http://cs343-spr0607.stanford.edu/index.php/Main_Page"> What Do Great Software Developers Know?</a>  </h3>
+<hr>
+  <h3>Recent Talks</h3>
+  <ul>
+   <li>
+<a href="http://suif.stanford.edu/%7Elam/collective07.pdf">Consumerizing
+PCs: from research to product</a>
+<br>
+        Distinguished Lectures, <br>
+        North Carolina State University, April 12, 2007,<br>
+        Northwestern Univesity, April 13, 2007. 
+   </li>
+
+    <li> 
+<a href="http://suif.stanford.edu/%7Elam/pods-slides05.ppt">Context-Sensitive Program Analysis as Database Queries</a>
+(<a href="http://suif.stanford.edu/%7Elam/pods-slides05.pdf">pdf</a>)
+<br>
+        Invited Tutorial, <br>
+	24th SIGMOD-SIGACT-SIGART Symposium on Principles of Database
+	Systems, <br>
+        June 13, 2005.</li>
+    <li> <a href="http://suif.stanford.edu/%7Elam/hm.pdf">
+Software Design Rules</a>,<br>
+        Bruce Nelson Distinguished Lecture,
+	Harvey Mudd College, <br>December 1, 2004. </li>
+
+    <li> <a href="http://suif.stanford.edu/%7Elam/dertouzos.pdf">
+Converting Cycles into Ease-of-Use and Robustness</a>,<br>
+        MIT Dertouzos Lecture, <br>February 13, 2003. </li>
+  </ul>
+  <hr>
+  <h3>Ph.D. Graduates</h3>  
+  <table cols="3" width="100%">
+    <tbody>
+      <tr vadtgn="Top" adtgn="Left" valign="top">
+        <td adtgn="Left">
+        <dl>
+<dt>Michael Wolf</dt>
+<dt><a href="http://www.eecs.harvard.edu/~smith/">Michael Smith</a>, Harvard</dt>
+<dt><a href="http://www-2.cs.cmu.edu/~tcm/">Todd Mowry</a>, CMU</dt>
+<dt><a href="http://www.cag.lcs.mit.edu/~rinard/">Martin Rinard</a>, MIT</dt>
+<dt>Daniel Scales, VMware</dt>
+<dt><a href="http://cag.csail.mit.edu/~saman/">Saman Amarasinghe</a>,
+MIT</dt>
+<dt>Jennifer Anderson, VMware</dt>
+</dl>
+</td>
+<td valign="top">
+<dl> 
+<dt>Robert Wilson, Tensilica</dt>
+<dt><a href="http://www.cs.columbia.edu/~nieh/">Jason Nieh</a>,
+Columbia University</dt>
+<dt><a
+href="http://www.intel.com/research/people/bios/liao_sh.htm">Shih-wei
+Liao</a>, Intel Research</dt>
+<dt>Brian Schmidt, Silicon Image</dt>
+<dt>Patrick Sathyanathan</dt>
+<dt>Amy Lim, Cadence</dt>
+</dl> 
+<td valign="top">
+<dl>
+<dt>Brian Murphy, Intel Research</dt>
+<dt>Jeffrey Oplinger, Sun Micro</dt>
+<dt><a href="http://suif.stanford.edu/~dlheine/">David 	 
+Heine</a>, Tensilica</a> </dt>
+<dt><a href="http://suif.stanford.edu/%7Elivshits/">V. Benjamin 
+Livshits</a>, Microsoft Research </dt>
+<dt>
+<dt><a href="http://www.stanford.edu/%7Ecsapuntz/">Constantine
+Sapuntzakis</a>, <a href="http://www.moka5.com">moka5</a></dt>
+<dt><a href="http://www.stanford.edu/~jwhaley/">John Whaley</a>, <a
+href="http://www.moka5.com">moka5</a></dt>
+</dl>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+
+<h3>Recent Publications</h3>
+<ol>
+
+
+<li> 
+Automatic Generation of XSS and SQL Injection Attacks with
+Goal-Directed Model Checking. <br>
+Martin, Michael C., Lam, M. S.<br>
+In <i> Proceedings of the 17<sup>th</sup> USENIX Security
+Symposium</i>,
+(San Jose, CA, 30 July-1 August, 2008), pages 31-43.
+</li> 
+
+<li>
+<a href="http://suif.stanford.edu/papers/popl08.pdf">
+Automatic Inference of Stationary Fields: a Generalization of Java's
+Final Fields.</a><br>
+C. Unkel and M. S. Lam,<br>
+In <i>Proceedings of the 35<sup>th</sup> Annual
+ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages</i>,
+(San Francisco, CA, 10-12 January 2008). ACM, 2008.</li>
+
+<li> 
+<a href="http://suif.stanford.edu/papers/pepm08.pdf">
+Securing Web Applications Using Static and Dynamic Information Flow Tracking,</a><br>
+M. S. Lam, M.C. Martin, V. B. Livshits, and J. Whaley, </br>
+In <i>
+ACM Sigplan 2008 Workshop on Partial Evaluation and Program
+Manipulation</i>, (Keynote address), January 2008.
+</li>
+</ol> 
+
+<h3>Selected Publications (<a href="http://suif.stanford.edu/~lam/chrono.html">in chronological order</a>)
+ </h3>
+ 
+<b>Security and Manageability</b>
+<ol>
+<li>
+<a href="http://suif.stanford.edu/papers/oopsla05pql.pdf">
+Finding Application Errors and Security Flaws Using PQL: a Program Query Language.</a> <br>
+Michael Martin, V. Benjamin Livshits, and Monica S. Lam<br>
+In <i> Proceedings of the Conference on Object-Oriented Programming,
+Systems, Languages and Applications (OOPSLA '05)</i>, 
+October 2005.  
+</li>
+<li>
+<a href="http://suif.stanford.edu/papers/usenixsec05.pdf">
+Finding Security Vulnerabilities in Java Applications Using Static
+Analysis</a></br> 
+V. Benjamin Livshits and Monica S. Lam<br>
+In <i> Proceedings of the 14th USENIX Security Symposium</i>, 
+August 2005. 
+</li>
+    <li> <a href="http://suif.stanford.edu/papers/nsdi05.pdf"> 
+The Collective: A Cache-Based System Management Architecture</a><br>
+R. Chandra, N. Zeldovich, C. P. Sapuntzakis and M. S. Lam 
+<br>
+In Proceedings of the Second Symposium on Networked Systems Design and
+Implementation, May 2005.
+</li>
+    <li><a href="http://suif.stanford.edu/papers/schmidt99.ps">The
+Interactive Performance of SLIM: A Stateless, Thin-Client Architecture</a> <br>
+B. K. Schmidt, M. S. Lam, and J. D. Northcutt <br>
+In Proceedings of the Seventeenth ACM Symposium on Operating Systems
+Principles, December 1999. <br>
+Published as <i>Operating Systems Review</i>, 34(5):32-47.
+    </li>
+</ol>
+
+<b>Program Analysis</b>
+  <ol start=5>
+
+<li> 
+<a href="http://suif.stanford.edu/papers/icse06-preprint.pdf">
+Static Detection of Leaks in Polymorphic Containers. </a><br>
+David Heine and Monica S. Lam<br> 
+In <i> Proceeding of the 28th International Conference on Software
+Engineering</i>, (Shanghai, China, 20-28 May, 2006), pages 252-261.
+
+<li>
+<a href="http://suif.stanford.edu/papers/pods05.pdf">Context-Sensitive Program Analysis as Database Queries</a><br>
+Monica S. Lam, John Whaley, V. Benjamin Livshits, Michael C. Martin,
+Dzintars Avots, Michael Carbin and Christopher Unkel.<br>
+In Proceedings of the 24th SIGMOD-SIGACT-SIGART Symposium on
+Principles of Database Systems, 
+June, 2005. (Invited Tutorial). 
+
+<li><a href="http://suif.stanford.edu/papers/pldi04.pdf">
+Cloning-Based Context-Sensitive Pointer Alias Analysis Using Binary
+Decision Diagrams 
+</a><br>
+John Whaley and Monica S. Lam<br>
+In Proceedings of the ACM SIGPLAN 2004 Conference on Programming
+Language Design and Implementation,
+June 2004. <br>
+ACM Programming Language Design and Implementation Best
+Paper Award, 2004. 
+   </li>
+    <li> <a href="http://suif.stanford.edu/papers/pldi03d.pdf"> A
+Practical Flow-Sensitive and Context-Sensitive C and C++ Memory Leak
+Detector</a><br>
+D. L. Heine and M. S. Lam<br>
+In Proceedings of the ACM SIGPLAN 2003 Conference on Programming Language
+Design and Implementation, June 2003.
+    </li>
+    <li><a href="http://suif.stanford.edu/papers/Diduce.pdf"> Tracking
+Down Software Bugs Using Automatic Anomaly Detection</a><br>
+S. Hangal and M. S. Lam<br>
+In Proceedings of the 24th International Conference on Software Engineering,
+May 2002.(<a href="http://suif.stanford.edu/papers/Diduce.ps.gz">gzip'ed
+postscript</a>).
+    </li>
+</ol>
+
+
+<b>Parallelization and Locality Optimization</b>
+<ol start=10>
+    <li><a href="http://suif.stanford.edu/papers/lim2001.pdf"> Blocking
+and Array Contraction Across Arbitrarily Nested Loops Using Affine
+Partitioning</a> <br>
+A. W. Lim, S.-W. Liao and M. S. Lam<br>
+In Proceedings of the ACM SIGPLAN Symposium on Principles and Practice of
+Parallel Programming, June 2001.
+    </li>
+
+    <li><a href="http://suif.stanford.edu/papers/lim99.pdf"> 
+An Affine Partitioning Algorithm to Maximize Parallelism and Minimize Communication
+</a> <br>
+A. W. Lim, G. I. Cheong and M. S. Lam<br>
+In Proceedings of the 13th ACM SIGARCH International Conference on
+Supercomputing, June, 1999, pp. 228-237.
+    </li>
+
+    <li><a href="http://suif.stanford.edu/papers/lim98.ps">Maximizing
+Parallelism and Minimizing Synchronization with Affine Partitions</a> <br>
+A. W. Lim and M. S. Lam <br>
+Parallel Computing, Vol. 24, Issue 3-4, May 1998, Pages 445-475. (<a
+ href="http://suif.stanford.edu/papers/lim98.pdf">PDF</a>)<br>
+(A preliminary version appeared as Maximizing Parallelism and
+Minimizing Synchronization with Affine Transform, in the Conference
+Record of the 24th Annual ACM SIGPLAN-SIGACT Symposium on Principles of
+Programming Languages, January, 1997.)
+    </li>
+    <li><a href="http://suif.stanford.edu/papers/hall96.ps">Maximizing
+Multiprocessor Performance with the SUIF Compiler</a><br>
+M. W. Hall, J. M. Anderson, S. P. Amarasinghe, B. R. Murphy, S.-W.
+Liao, E. Bugnion and M. S. Lam<br>
+IEEE Computer, December 1996.<br>
+(A special issue on multiprocessors).
+    </li>
+    <li><a href="http://suif.stanford.edu/papers/mhall95a/paper.html">Detecting
+Coarse-Grain Parallelism Using an Interprocedural Parallelizing
+Compiler </a> (<a
+ href="http://suif.stanford.edu/papers/mhall95a/sc95.ps">PostScript</a>)<br>
+M. W. Hall, S. P. Amarasinghe, B. R. Murphy, S. Liao, and M. S. Lam, <br>
+In Proceedings of Supercomputing '95, December 1995.
+    </li>
+    <li><a href="http://suif.stanford.edu/papers/anderson93/paper.html">Global
+Optimizations for Parallelism and Locality on Scalable Parallel Machines</a>
+(<a href="http://suif.stanford.edu/papers/anderson93.ps">PostScript</a>)<br>
+J. M. Anderson and M. S. Lam <br>
+In Proceedings of the ACM SIGPLAN'93 Conference on Programming Language
+Design and Implementation, June, 1993.
+    </li>
+    <li><a href="http://suif.stanford.edu/papers/mowry92/tech.html">Design
+and Evaluation of a Compiler Algorithm for Prefetching</a> (<a
+ href="http://suif.stanford.edu/papers/mowry92.pdf"> PDF</a>) <br>
+T. C. Mowry, M. S. Lam and A. Gupta <br>
+In Proceedings of the Fifth International Conference on Architectural
+Support for Programming Languages and Operating Systems, October, 1992.
+    </li>
+    <li><a href="http://suif.stanford.edu/papers/wolf91a.pdf">A Data
+Locality Optimizing Algorithm</a> <br>
+M. E. Wolf and M. S. Lam <br>
+In Proceedings of the ACM SIGPLAN'91 Conference on Programming Language
+Design and Implementation, June 1991.<br>
+ACM Most Influential PLDI Paper Award, 2001.<br>
+Included in 20 Years of PLDI (1979-1999): A Selection, 2004.
+(<a href="http://suif.stanford.edu/papers/lam03-cache.pdf">A retrospective</a>). 
+    </li>
+    <li>
+<a href="http://suif.stanford.edu/papers/lam-sp.pdf">
+ Software Pipelining: An Effective Scheduling Technique for VLIW
+Machines.</a><br>
+M. Lam. <br>
+In Proceedings of the SIGPLAN 88 Conference on Programming Language Design
+and Implementation, June 1988, pp. 318-328.<br>
+Included in 20 Years of PLDI (1979-1999): A Selection, 2004.  
+(<a href="http://suif.stanford.edu/papers/lam03-sp.pdf">A retrospective</a>). 
+      <p> </p>
+    </li>
+</ol>
+<b>Architecture</b>
+<ol start=19>
+    <li><a href="lam92/paper.html">Limits of Control Flow on Parallelism</a>
+(<a href="http://suif.stanford.edu/papers/lam92.ps">PostScript</a>) <br>
+M. S. Lam and R. P. Wilson <br>
+In Proceedings of the 19th Annual International Symposium on Computer
+Architecture, May, 1992.
+    </li>
+    <li><a href="http://suif.stanford.edu/papers/lam91.ps">The Cache
+Performance and Optimizations of Blocked Algorithms</a> <br>
+M. S. Lam, E. E. Rothberg and M. E. Wolf <br>
+In Proceedings of the Fourth International Conference on Architectural
+Support for Programming Languages and Operating Systems, April 1991.
+    </li>
+    <li> The Warp Computer: Architecture, Implementation and
+Performance. <br>
+M. Annaratone, E. Arnould, T. Gross, H. T. Kung, M. Lam, and O.
+Menzilcioglu <br>
+IEEE Transactions on Computers, December 1987, C-36, 12, pp. 1523-1538. <br>
+(A preliminary version appeared as Warp Architecture and
+Implementation, which appeared in the <i>Proceedings of the 13<sup>th</sup>
+Annual Symposium on Computer Architecture</i>, (Tokyo, Japan, 2-5 June
+1986). pp. 346-356. <br>
+Included in 25 Years of the International Symposia on Computer
+Architecture, 1998.) </li>
+  </ol>
+  </ol>
+  <hr>
+  <ul>
+  <li><a href="http://suif.stanford.edu/">The SUIF Research Group Home
+Page</a>
+  <li><a href="http://suif.stanford.edu/collective">The Collective Research Group Home
+Page</a>
+  <li><a href="http://suif.stanford.edu/papers/">Publications</a>
+  <li><a href="http://suif.stanford.edu/%7Elam/cv.htm">Curriculum
+  Vitae</a>
+  </ul>
+  <hr width="100%"> </dd>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

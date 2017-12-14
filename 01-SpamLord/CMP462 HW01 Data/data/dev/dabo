@@ -1,0 +1,185 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<base href="http://crypto.stanford.edu/~dabo/index.html">
+<title>Dan Boneh</title>
+</head>
+
+<body background="background.gif" text="#000000" link="#00006F" vlink="#003F00"
+alink="#7F0000">
+
+<div align="left">
+ 
+
+
+<table border="0" cellspacing="0" cellpadding="15">
+
+<tr> 
+   <td></td>
+
+
+
+<td>
+<a href="pubs.html" 
+	onMouseOver="pubs.src='icons/pubsON.gif';"
+	onMouseOut="pubs.src='icons/pubs.gif';">
+	<img border="0" src="icons/pubs.gif" alt="Publications" name="pubs"></a> <BR>
+<a href="#courses"
+	onMouseOver="courses.src='icons/coursesON.gif';"
+	onMouseOut="courses.src='icons/courses.gif';">
+	<img border="0" src="icons/courses.gif" alt="Courses" name="courses"></a> <BR>
+<a href="http://crypto.stanford.edu" 
+	onMouseOver="students.src='icons/studentsON.gif';"
+	onMouseOut="students.src='icons/students.gif';">
+	<img border="0" src="icons/students.gif" alt="Students" name="students"></a>
+</td>
+
+
+
+<tr>
+   <td bgcolor="#000080">&nbsp;</td>
+   <td>
+
+<h1 align="left"><font face="Comic Sans MS" color="#000000">
+Dan Boneh</font></h1>
+
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img src="icons/devil01.gif" width="62" height="61"> </p>
+
+<address align="left">
+  dabo@cs.stanford.edu 
+</address>
+
+<p align="left">Professor of 
+<a href="http://cs.stanford.edu">Computer Science</a>
+and <a href="http://ee.stanford.edu">Electrical Engineering</a>, <a
+href="http://www.stanford.edu">Stanford University</a>. </p>
+
+<h2><font face="Comic Sans MS">Conferences</font></h2>
+<p>Some conferences and journals I am currently involved with.
+<ul>
+  <li><a href="http://www.usenix.org/events/sec08/index.html">Usenix Security 2008</a>
+  <li><a href="http://www.usenix.org/events/upsec08/cfp/">Usenix Usable Security '08</a>
+  <li><a href="http://www.iacr.org/conferences/crypto2009/">Crypto 2009</a>
+  <li>General chair <a href=http://crypto.stanford.edu/tcc09>TCC 2009</a></li>
+  <li>Editor of <a href="http://link.springer.de/link/service/journals/00145/">Journal of 
+     Cryptology</a>.</li>
+<br>
+</ul>
+
+<hr>
+
+<h4><font face="Comic Sans MS">Address</font></h4>
+
+<ul>
+  <li>Mail: Computer Science Dept., Gates 475, Stanford, CA, 94305-9045 </li>
+  <li>Office: CS Building, Gates 475. </li>
+  <li><a href=http://forum.stanford.edu/visitors/directions/gates.php>Directions</a> to the Gates building.
+</ul>
+
+<h4><font face="Comic Sans MS">Telephone</font> <img src="icons/phone.gif"
+align="absmiddle" hspace="10" width="34" height="29"> </h4>
+
+<ul>
+  <li>Office: (650) 725-3897 </li>
+  <li>Fax: (650) 725-4671 </li>
+</ul>
+
+<hr>
+
+<h2><font face="Comic Sans MS">Research Interests</font></h2>
+
+<p>My main research focus is on applied cryptography, and network security. </p>
+
+<p>Here is a list of my <strong><a href="pubs.html">publications</a></strong> and current <a
+href="http://crypto.stanford.edu/">students and research group</a>.</p>
+
+<p>Take a look at our <a href="http://crypto.stanford.edu/seclab/">Security Lab</a>. We
+are also running a biweekly <a href="http://crypto.Stanford.EDU/seclab/sem.html">security
+seminar</a>.</p>
+
+<h3><font face="Comic Sans MS"><a name="courses"></a>Courses</font></h3>
+
+<ul>
+  <li><font face="Arial"><a href="cs55N"><b>CS55N</b></a>
+    (freshmen seminar)</font>:
+    Ten ideas in computer security and cryptography
+    <ul>
+      <li><a href="http://crypto.stanford.edu/~dabo/courses/cs55N_fall05/">Fall
+        05</a>.</li>
+      <li><a href="http://crypto.stanford.edu/~dabo/courses/cs55N_fall03/">Fall
+        03</a>.</li>
+      <li><a href="http://crypto.stanford.edu/~dabo/courses/cs99M_fall99/">Fall
+        99</a>.</li>
+    </ul>
+    <p>&nbsp;</li>
+
+  <li><a href="http://crypto.stanford.edu/cs155"><font face="Arial"><b>CS155</b></font></a>: Computer and
+    network security
+    <ul>
+      <li><a href="http://crypto.stanford.edu/cs155">Spring 08.</a></li>
+      <li><a href="http://crypto.stanford.edu/cs155old/cs155-spring07">Spring 07.</a></li>
+      <li><a href="http://crypto.stanford.edu/cs155old/cs155-spring06">Spring 06.</a></li>
+      <li><a href="http://crypto.stanford.edu/cs155old/cs155-spring05">Spring 05.</a></li>
+      <li><a href="http://crypto.stanford.edu/cs155old/cs155-spring04">Spring 04.</a></li>
+      <li><a href="http://crypto.stanford.edu/cs155old/cs155-spring03">Spring 03.</a></li>
+      <li><a href="http://crypto.stanford.edu/cs155old/cs155-spring02">Spring 02.</a></li>
+    </ul>
+    <p>&nbsp;</li>
+
+  <li><a href="cs255"><font face="Arial"><b>CS255</b></font></a>: Introduction to cryptography.&nbsp;
+    <ul>
+      <li><a href="courses/cs255_winter09/"> Winter 09</a>.</li>
+      <li><a href="courses/cs255_winter08/"> Winter 08</a>.</li>
+      <li><a href="courses/cs255_winter07/"> Winter 07</a>.</li>
+      <li><a href="courses/cs255_winter06/"> Winter 06</a>.</li>
+      <li><a href="courses/cs255_winter05/"> Winter 05</a>.</li>
+      <li><a href="courses/cs255_winter04/"> Winter 04</a>.</li>
+      <li><a href="courses/cs255_winter03/"> Winter 03</a>.</li>
+      <li><a href="courses/cs255_winter02/"> Winter 02</a>.</li>
+      <li><a href="courses/cs255_winter01/"> Winter 01</a>.</li>
+      <li><a href="courses/cs255_winter00/"> Winter 00</a>.</li>
+      <li><a href="courses/cs255_winter99/"> Winter 99</a>.</li>
+      <li><a href="courses/cs255_winter98/">Winter 98</a>.</li>
+    </ul>
+    <p>&nbsp; </li>
+  <li><a href="cs355"><font face="Arial"><b>CS355</b></font></a>: Topics in cryptography.
+    <ul>
+      <li><a href="courses/cs355_fall07/">Fall 07</a>.</li>
+      <li><a href="courses/cs355_fall04/">Fall 04</a>.</li>
+      <li><a href="courses/cs355_fall02/">Fall 02</a>.</li>
+      <li><a href="courses/cs355_spring00/">Spring 00</a>.</li>
+      <li><a href="courses/cs355_fall98/">Fall 98</a>.</li>
+    </ul>
+    <p>&nbsp;
+ </li>
+  <li><a href="http://www.stanford.edu/class/cs161/"><font face="Arial"><b>CS161</b></font></a>: <font size="3">Design
+    and Analysis of Algorithms</font>
+    <ul>
+      <li><a href="courses/cs161_fall01/">Fall 01</a>.</li>
+      <li><a href="courses/cs161_spring01/">Spring 01</a>.</li>
+    </ul>
+    <p>&nbsp;
+ </li>
+</ul>
+
+<hr>
+
+<h3><a href="links.html"><font face="Comic Sans MS">Links</font></a></h3>
+
+<p>Some  <a href="links.html">links</a> related to cryptography
+and life in general.  </p>
+
+
+      </td>
+  </table>
+<hr>
+<address>
+  <a href="http://crypto.stanford.edu">Applied crypto group</a>, 
+  <a href="http://www.cs.stanford.edu/">CS Department</a>, 
+  <a href="http://www.stanford.edu">Stanford University</a> 
+</address>
+</body>
+</html>

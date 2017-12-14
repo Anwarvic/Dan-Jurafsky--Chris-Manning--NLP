@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>Serafim Batzoglou's Website</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+// -->
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+.style2 {font-family: Arial, Helvetica, sans-serif}
+-->
+</style>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" onLoad="MM_preloadImages('research.jpg','students.jpg','pub.jpg','courses.jpg','links.jpg')">
+<div id="Layer1" style="position:absolute; left:0px; top:0px; width:1345px; height:72px; z-index:2; background-color: #000000; layer-background-color: #000000; background-image: url(background.jpg); layer-background-image: url(background.jpg); border: 1px none #000000; visibility: visible;"> 
+  <img src="logo.jpg" >
+</div>
+<div id="Layer2" style="position:absolute; left:0px; top:58px; width:123px; height:1556px; z-index:1; background-color: #9F9F9F; layer-background-color: #9F9F9F; border: 1px none #000000; background-image:   url(menu.jpg); layer-background-image:   url(menu.jpg)">
+  <p>&nbsp;</p>
+  <p><a href="research.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Research','','research.jpg',1)"><img src="research2.jpg" name="Research" width="120" height="30" border="0"></a><a href="students.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Students','','students.jpg',1)"><img src="students2.jpg" name="Students" width="120" height="30" border="0"></a><a href="publications.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Publications','','pub.jpg',1)"><img src="pub2.jpg" name="Publications" width="120" height="30" border="0"></a><a href="courses.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Courses','','courses.jpg',1)"><img src="courses2.jpg" name="Courses" width="120" height="30" border="0"></a><a href="links.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Links','','links.jpg',1)"><img src="links2.jpg" name="Links" width="120" height="30" border="0"></a><img src="home.jpg" width="120" height="30"></p>
+</div>
+<div id="Layer3" style="position:absolute; left:219px; top:123px; width:629px; height:433px; z-index:4">
+  <div align="center">
+    <div align="center">
+      <table border="0" width="97%" height="764">
+        <tbody>
+          <tr>
+            <td height="305" bordercolorlight="#FFFFFF" bordercolordark="#FFFFFF"><div align="center">
+				<img border="0" src="SerafimBoston.jpg" width="275" height="361"></div></td>
+          </tr>
+          <tr>
+            <td>
+			<p align="center">&nbsp;</p>
+			<p align="center"><span class="style2"><strong><font size="+1">Serafim Batzoglou</font></strong><br>
+                <em style="font-style: normal">Associate Professor</em></span></p>
+			<p align="center">&nbsp;</p>
+			</td>
+          </tr>
+          <tr>
+
+            <td height="64"><div align="justify"><FONT size=2 face="Arial">&nbsp;</font></div>
+			<div align="justify"><FONT size=2 face="Arial">I am interested in the applications of computer science to molecular biology. My current research focuses on alignment algorithms, comparative genomics, sequence assembly, gene regulation, and networks of protein interactions.</span> 
+				</font>
+            </div>
+			<div align="justify"><FONT size=2 face="Arial">&nbsp;</font></div>
+			<div align="justify"><FONT size=2 face="Arial">&nbsp;</font></div>
+			<div align="justify"><FONT size=2 face="Arial">&nbsp;</font></div>
+			<div align="center"><FONT size=2 face="Arial">Computer Science 
+				Department</font></div>
+			<div align="center"><FONT size=2 face="Arial">James H. Clark Center</font></div>
+			<div align="center"><FONT size=2 face="Arial">318 Campus Drive, RM 
+				S266</font></div>
+			<div align="center"><FONT size=2 face="Arial">Stanford CA 94305-5428</font></div>
+			<div align="center"><FONT size=2 face="Arial">&nbsp;</font></div>
+			<div align="center"><FONT size=2 face="Arial"><b>email:</b> serafim at cs dot stanford dot edu</font></div>
+			<div align="center"><FONT size=2 face="Arial"><b>Phone:</b> (650) 723-3334&nbsp; <b>Fax: </b>(650) 725-1449</font></div>
+			<div align="justify"><FONT face="Arial"><div align="center"></font>
+				<FONT size=2 face="Arial">&nbsp;</div>
+				<div align="center">&nbsp;</div>
+				<div align="center">&nbsp;</div>
+				<div align="center"><b><a href="CV.pdf">CV</a></b><p>&nbsp;</p>
+					<p><b>Awards</b></p>
+					<a href="http://www.sloan.org/report/2004/research_fellowships.shtml">Alfred P. Sloan Fellowship</a><p>
+					<a href="http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5262">NSF CAREER Award</a></p>
+					<a href="mitComputing.pdf">MIT Technology Review 
+					Magazine, 100 Top Young Technology Innovators 2003</a></span></div>
+				<p><br>
+            </div></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p align="center"><FONT size=1 face="Arial">&copy; 2003 Designed and developed by Marina Sirota</font></p>
+    <p align="center">&nbsp;</p>
+  </div>
+</div>
+<div id="Layer5" style="position:absolute; left:0px; top:0px; width:120px; height:74px; z-index:5"></div>
+</body>
+</html>

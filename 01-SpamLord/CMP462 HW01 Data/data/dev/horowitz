@@ -1,0 +1,92 @@
+<HTML>
+<HEAD>
+<TITLE>Mark A. Horowitz's Home Page
+</TITLE>
+<META NAME="description" CONTENT="Professor Mark Horowitz's Home Page">
+<META NAME="keywords" CONTENT="processor design, multiprocessor
+architecture, high speed links, computer aided design, VLSI design">
+</HEAD>
+
+<BODY>
+<P><IMG ALIGN=TOP IMG SRC="images/markhorowitz.jpg">
+<H1>Mark Horowitz</H1>
+
+<P>
+Director of <A HREF="http://csl.stanford.edu">Computer Systems Laboratory</A>
+at <A HREF="http://www.stanford.edu">Stanford University</A>,<P>
+Yahoo Founder's Professor of <A HREF="http://ee.stanford.edu">Electrical
+Engineering</A> and <A HREF="http://cs.stanford.edu">Computer Science</A>.
+<BR>
+<BR>
+Mark Horowitz received his BS and MS in Electrical Engineering from MIT in
+1978,
+and his PhD from Stanford in 1984.  Since 1984 he has been a professor at
+Stanford working in the area of digital integrated circuit design.  While
+at Stanford he has led a number of processor designs including MIPS-X,
+one of the first processors to include an on-chip instruction cache,
+<A HREF="http://www-flash.stanford.edu/torch"> Torch</A>, a
+statically-scheduled, superscalar processor and
+<A HREF="http://www-flash.stanford.edu"> Flash</A>, a flexible DSM machine.
+He has also
+worked in a number of other chip design areas including high-speed memory
+design, high-bandwidth interfaces, and fast floating point.  In 1990 he
+took leave from Stanford to help start <A HREF="http://www.rambus.com">
+Rambus Inc</A>, a company designing high-bandwidth memory interface technology.
+<HR>
+<H1>Research Interests</H1>
+Mark Horowitz's research interests are in the areas of digital circuit design,
+VLSI systems, computer architecture and interesting IO devices. Current
+research projects include:
+
+<p><A HREF="http://mos.stanford.edu/">
+Prof. Horowitz's Graduate Students Webpage</A>
+
+<p>Architecture
+<UL>
+<LI><A HREF="http://www-vlsi.stanford.edu/smart-memories/">Smart Memories</A>
+<LI><A HREF="http://graphics.stanford.edu/projects/array/">Stanford Multi-Camera Array</A>
+</UL>
+
+<p>Circuits
+<UL>
+<LI><A HREF="http://www-vlsi.stanford.edu/links/elink.htm">Electrical Links</A>
+<LI><A HREF="http://www-vlsi.stanford.edu/links/oplink.html">Optical Links</A>
+<LI><A HREF="http://www-vlsi.stanford.edu/powersupply">Power/Ground Noise</A>
+<LI><A HREF="http://www-vlsi.stanford.edu/optimization">Circuit Optimization</A>
+</UL>
+<HR>
+<H1>Selected Publications and Talks</H1>
+<UL>
+<LI><A HREF="http://mos.stanford.edu/cgi-bin/papers.cgi?paper#CAD">CAD</A>
+<LI><A HREF="http://mos.stanford.edu/cgi-bin/papers.cgi?paper#Circuits">Circuits</A>
+<LI><A
+HREF="http://mos.stanford.edu/cgi-bin/papers.cgi?paper#High-speed links">High-Speed links</A>
+<LI><A HREF="http://mos.stanford.edu/cgi-bin/papers.cgi?paper#Low-power">Low
+Power</A>
+<LI><A
+HREF="http://mos.stanford.edu/cgi-bin/papers.cgi?paper#Architecture">Architecture</A>
+</UL>
+<HR>
+<H1>Courses</H1>
+<UL>
+<LI><A
+HREF="http://www.stanford.edu/class/ee271/">EE271</A>&nbsp;&nbsp;&nbsp;&nbsp;  Introduction to VLSI Systems
+<LI><A HREF="http://www.stanford.edu/class/ee272/">EE272A</A>&nbsp;
+Design Projects in VLSI Systems
+<LI>EE272B&nbsp; Testing and Simulation of VLSI Systems
+<LI><A
+HREF="http://www.stanford.edu/class/ee371/">EE371</A>&nbsp;&nbsp;&nbsp;&nbsp;  Advanced VLSI Circuit Design
+</UL>
+<HR>
+<H1>Contact Information</H1>
+<ADDRESS>Mark Horowitz
+<BR>Room 306, Gates Computer Science Building,
+<BR>353 Serra Mall,
+<BR>Stanford, CA 94305
+<BR>ph  : (650)725-3707
+<BR>fax : (650)725-6949
+</ADDRESS>
+<BR>email : <img src="/group/contact/horowitz.jpg">
+<HR>
+Last Modified : 4/28/05
+

@@ -1,0 +1,257 @@
+<html>
+<head>
+<title>
+Marc Levoy's Home Page
+</title>
+</head>
+<body>
+
+<h1>Marc Levoy</h1>
+
+<table>
+<tr>
+<td width=225>
+<!--
+<a href=Marc_Museum2.jpg>
+<img src="Marc_Museum2_35-light.gif"></a>
+-->
+<img src="marc-kamikochi-jul06-cbalessh.jpg"></a>
+<br>
+Professor,
+<br>
+jointly appointed in<br>
+Computer Science and<br>
+Electrical Engineering
+</td>
+
+<td width=375>
+<dl>
+<dt>	<b>Affiliations:</b>
+<dd>	<a href="http://graphics.stanford.edu">
+	Computer Graphics Laboratory</a>
+<dd>	<a href="http://csl.stanford.edu">
+	Computer Systems Laboratory</a>
+<dd>	<a href="http://cs.stanford.edu">
+	Computer Science Department</a>
+<dd>	<a href="http://ee.stanford.edu/ee.html">
+	Electrical Engineering Department</a>
+<dd>	<a href="http://soe.stanford.edu/">
+	School of Engineering</a>
+<dd>	<a href="http://www.stanford.edu/">
+	Stanford University</a>
+<dt>	<b>Office:</b>
+<dd>	Gates Computer Science Building<br>
+	Room 366, Wing 3B
+<dd>	Stanford University
+<dd>	Stanford, CA  94305
+<dd>	Press here for <a href=/lab_directions.html>directions</a>.
+<dt>	<b>Personal data:</b>
+<dd>	Born in New York City
+<dd>	B. Architecture, Cornell, 1976
+<dd>	M.S. in Architecture, Cornell, 1978
+<dd>	PhD in Computer Science, Univ. North Carolina, 1989
+</dl>
+</td>
+<td width=300>
+<dl>
+<dt>	<b>Office hours:</b>
+<dd>	Tuesday & Thursday, 11:00 - 12:15
+<dt>	<b>Phone:</b>
+<dd>	(650) 725-4089
+<dd>	(650) 723-0033 (fax)
+<dt>	<b>Email (the best way to reach me):</b>
+<dd>	<img src=email-address-cs.jpg>
+<dt>	<b>Web address:</b>
+<dd>	http://graphics.stanford.edu/~levoy/
+	<br><br>
+<dt>	<b>Administrative assistants:</b>
+<dd>	Ada Glucksman
+<dd>	(650) 725-3724
+<dd>	<em>ada&#x40;graphics.stanford.edu</em>
+	<br><br>
+<dd>	Melissa Rivera
+<dd>	(650) 724-6865
+<dd>	<em>melissa&#x40;graphics.stanford.edu</em>
+</dl>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<h3>Biographical sketch</h3>
+
+Marc Levoy is a Professor of Computer Science and (jointly) Electrical
+Engineering at Stanford University.  He received a Bachelor's and Master's in
+Architecture from Cornell University in 1976 and 1978, and a PhD in Computer
+Science from the University of North Carolina at Chapel Hill in 1989.  In the
+1970's Levoy worked on computer animation, developing an early
+computer-assisted cartoon animation system.  This system was used by
+Hanna-Barbera Productions from 1983 until 1996 to produce The Flintstones,
+Scooby Doo, and other shows.  In the 1980's Levoy worked on volume rendering, a
+family of techniques for displaying sampled three-dimensional functions, for
+example computed tomography (CT) or magnetic resonance (MR) data.  In the
+1990's he worked on technology and algorithms for digitizing three-dimensional
+objects.  This led to the Digital Michelangelo Project, in which he and a team
+of researchers spent a year in Italy digitizing the statues of Michelangelo
+using laser scanners.  His current interests include light field sensing and
+display, computational photography, and applications of computer graphics in
+microscopy and biology.  Awards: Charles Goodwin Sands Medal for best
+undergraduate thesis (1976), National Science Foundation Presidential Young
+Investigator (1991), ACM SIGGRAPH Computer Graphics Achievement Award (1996),
+ACM Fellow (2007).  Recent professional service: Papers Chair of SIGGRAPH 2007.
+
+<ul>
+<li>
+Details about the <a href=sands_award.html>Sands Medal</a>
+and my work in cartoon animation.<br>
+<li>
+Citation for the
+<a href=award.html>Computer Graphics Achievement Award</a>.<br>
+<li>
+<a href=cv_public.pdf>Curriculum vita</a> (PDF, no links to papers).
+</ul>
+
+<p>
+<hr>
+
+<h3>Professional stuff</h3>
+
+<big>
+<ul>
+<li><a href=publications.html><big>List of publications</big></a>
+<small>(with pictures, abstracts, and links to papers)</small>
+<br><br>
+<li><a href=research.html>Summary of my current research</a>
+<small>(text-only, with links)</small>
+<li><a href=teaching.html>Current and recent teaching</a>
+<li><a href=/talks/>Slide sets</a> <small>(mine and others)</small>
+</big>
+<br><br>
+<li><a href=/projects>Links to all of our lab's research projects</a>
+<li><a href=/papers>Links to our lab's technical publications</a>
+<li><a href=/people.html>The people in our laboratory</a>
+</ul>
+
+<p>
+<hr>
+
+<h3>Personal stuff:</h3>
+<ul>
+<li>	Louis Fabian Bachrach's nice 1997
+	photographs of me (<a href=Marc_Museum2_35-light.gif>here</a> and
+	<a href=Marc_Museum1-light-cs.jpg>here</a>)
+	for the Computer Museum in Boston (now closed),
+<li>	I do occasionally wear something besides blue dress shirts.
+	Here are shots with other shirts, from
+	<a href=marc-sanjacinto-aug01-scesh.jpg>August 2001</a> and
+	<a href=marc-levoy-siggraph03-eew400.jpg>July 2003</a>.
+<li>	Yes, that's a <a href=http://www.deathride.com/>Death Ride</a>
+	T-shirt	in the third shot.  I also rode in 2005,
+<!--
+	<a href=images/deathride03-carson-balssh.jpg>2003</a>
+-->
+	and yes, I finished all 5 passes - 15,000 feet of climbing.
+	That's why I'm smiling in this official ride
+	<a href=images/deathride05-carson-ssh.jpg>photograph</a>,
+	taken at the top of Carson Pass after 12 hours of cycling.
+<li>	Some <a href="/group_photos.html">
+	group photos</a> with colleagues and students
+<li>	A small collection of
+	<a href=http://picasaweb.google.com/marclevoy>
+	digital and computational photographs</a> I've taken.
+<li>	Photographic essays about personal aspects of my 1998-99
+	<a href="/projects/mich/mich.html#private collection">
+	sabbatical in Italy</a>
+<li>	During my year abroad, I
+	<a href=/projects/mich/learning-to-carve>
+	learned to carve</a>
+	in marble.
+<li>	Sculptures by
+	<a href="chesler/chesler.html">my mother</a>,
+	who unlike me has real talent.
+<li>	I've been measuring and rendering 3D objects for a long time.<br>
+	Here are some drawings I made in college for the
+	<a href=habs-drawings>Historic American Buildings Survey</a>.
+<li>	I still like finding and measuring old objects,
+	especially if it involves getting dirty.<br>
+	This photographic essay describes a week I spent on an
+	<a href=/projects/forma-urbis/dig-in-rome/>archaeological dig
+	in the Roman Forum</a>.
+<li>	My favorite interview, by Noah Adams of
+	National Public Radio's
+	All Things Considered, June 13, 2000.<br>
+	(Click to hear the interview using RealAudio at
+	<a href="http://www.npr.org/
+	ramfiles/atc/20000613.atc.09.ram">14.4Kbs</a> or
+	<a href="http://www.npr.org/
+	ramfiles/atc/20000613.atc.09.rmm">28.8Kbs</a>, or as a
+	<a href="/projects/mich/publicity/
+	npr-atc-13jun00/npr-atc-13jun00.WAV">.wav file</a>.)<br>
+	This
+	<!--<a href=siggraph-2003-interview.htm>-->
+	<a href=http://www.siggraph.org/conferences/REPORTS/s2003/interviews/levoy.html>interview</a>
+	at SIGGRAPH 2003, by Wendy Ju, runs a close second.
+<li>	I also liked the cover of the
+	<a href=images/sig01-cover-h800.jpg>Siggraph 2001 proceedings</a>.
+	The image is from a paper (in the proceedings) on
+	<a href=/papers/bssrdf>subsurface scattering</a>,
+	co-authored with Henrik Wann Jensen, Steve Marschner, and Pat Hanrahan.
+	And check out this <a href=images/three-milks-sssh.jpg>milk</a>.
+	Or this <a href=images/three-milks-ssh.jpg>large version</a>.
+	This paper won an Academy Award in 2004.
+<li>	However, not everything went smoothly at Siggraph 2001.
+	A more-strenuous-than-expected after-Siggraph hike
+	inspired Pat Hanrahan's and my students to create this humorous
+	<a href=/public_photos/san_jacinto_2001/movie_poster.jpg>
+	movie poster</a>.
+	Click here for the
+	<a href=/group_photos.html#sanjacinto01>innocent version</a>
+	of this story.  And here for the
+	<a href=/public_photos/san_jacinto_2001/>real story</a>.
+<li>	A lot of my research relates to volume data.
+	The cause may be genetic.  My mother's cousin, <!-- <a
+	href=http://www.nmr.mgh.harvard.edu/people_chesler.htm> --> David
+	Chesler is credited with the first demonstration of <em>filtered
+	backprojection</em>, the dominant method used in computed tomography
+	(CT) and positron emission tomography (PET) for combining multiple
+	projections to yield 3D medical data.  Here is a <a
+	href=http://www.mit.edu/~glb/node4.html>description</a> of his
+	contributions.<br>
+<li>	My father's genes also seem to be guiding my research tastes.
+	Optics has been in my family for four generations.  My father Barton
+	Monroe Levoy and my grandfather Monroe Benjamin Levoy were opticians
+	and sellers of eyeglasses (<a href=history-of-tura-2006.jpeg>Tura</a>).
+	My great-grandfather Benjamin Monroe Levoy sold cameras, microscopes,
+	and other optical instruments in New York City a century ago.  Here is
+	a piece of <a href=images/bmlevoy-stationary-ssh.jpg>stationary</a>
+	from his store.  This specimen of a <a
+	href=images/mandible-noarray-cssh.jpg>silkworm mouth</a>, believed to
+	be from one of his microscope slide collections, appears in our
+	SIGGRAPH 2006 paper on <a
+	href=http://graphics.stanford.edu/papers/lfmicroscope/>light field
+	microscopy</a>.
+</ul>
+
+<p>
+<hr>
+
+<table width=800>
+<tr>
+<td>
+<b><a href=/copyright.html>&copy; 1994-2006
+Marc Levoy</a></b><br>
+Last update:
+
+November 24, 2008 06:39:33 PM
+</td>
+<td align=right>
+<!--timing test 2/7/04
+<img src=images/cartoon-train-s.gif></a>
+-->
+</td>
+</tr>
+</table>
+
+</body>
+</html>

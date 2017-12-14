@@ -1,0 +1,259 @@
+<!DOCTYPE doctype PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+
+<head>
+
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+   <title>Zohar Manna's home page</title>
+
+
+   <meta http-equiv="Keywords" content="Zohar Manna, Zohar, Manna, Professor, Stanford, Computer Science, Formal Methods, 
+                                       Program Verification, Program Analysis, Reactive Systems" />
+  
+  <meta http-equiv="Description" content="Home Page of Prof. Zohar Manna" />
+
+  <LINK REL="icon" type="image/gif" href="images/logo.gif" />
+  <LINK REL="stylesheet" type="text/css" media="all" href="main.css"/>
+</head>
+
+<body>
+
+<table border="0" width="90%">
+<tbody>
+<tr> <td> <img src="images/zohar.gif" height="150" width="120">
+<tr> <td style="font-size: 18pt" ><strong> Zohar Manna </strong></td>
+<tr> <td style="font-size: 16pt"><strong> Professor of Computer Science</strong></td>
+</tbody>
+</table>
+<p>
+
+<table border="0">
+<tbody>
+<tr><td><strong> Mailing Address:</strong>  
+<tr><td><td>  Gates Building, Room 481,
+<tr><td><td>  Stanford University,
+<tr><td><td>  Stanford,
+<tr><td><td> CA 94305
+<tr><tr><tr>
+
+<tr><td> <strong> Email:</strong><td><a href="mailto:manna@cs.stanford.edu">manna@cs.stanford.edu</a>
+<tr><tr><tr>
+
+<tr><td> <strong> Phone:</strong><td> (650) 723-4364
+<tr><tr><tr>
+
+<tr><td> <strong> Fax: </strong><td> (650) 725-4671
+</tbody>
+</table>
+
+
+<hr>
+<h2>
+<font color="#800000">Research Interests</font></h2>
+<table border="0">
+<tbody>
+<tr> <td> Automated deduction: decision procedures, theorem proving,
+automated-based techniques. 
+<tr><td> Semantics, specification, and verification of reactive, embedded, real-time, and hybrid systems. 
+<tr><td> Systematic development, automatic synthesis and control.
+<tr><td> Temporal logic and its applications. Automatic and machine-supported
+verification systems. Static analysis.
+</tbody>
+</table>
+
+<p>The <a href="http://www-step.stanford.edu/">STeP (Stanford Temporal
+Prover)</a> system supports the computer-aided formal verification of
+reactive, real-time and hybrid systems based on their temporal specification.
+
+<br>
+</p>
+
+<!-- <hr> -->
+<!-- <h2> -->
+<!-- <font color="#800000">The <a href="http://theory.stanford.edu/~zm/react.html">REACT</a> -->
+<!-- Group:</font></h2> -->
+
+<!-- <ul> -->
+
+<!-- <li> Senior Research Associate</li> -->
+
+<!-- <ul> -->
+<!-- <li> -->
+<!-- <a href="http://www.cs.stanford.edu/~sipma">Henny Sipma</a></li> -->
+<!-- </ul> -->
+
+<!-- <li> -->
+<!-- Ph.D. Students</li> -->
+
+<!-- <ul> -->
+
+<!-- <li> <a href="http://theory.stanford.edu/~cesar">Cesar Sanchez</a></li> -->
+
+<!-- <li> <a href="http://theory.stanford.edu/~arbrad"> Aaron Bradley</a></li> -->
+
+<!-- </ul> -->
+<!-- </ul> -->
+
+<hr>
+
+<h2>
+<font color="#800000">Selected Books</font></h2>
+<ul>
+<ul>
+<li>
+<a href="http://www.springer.com/978-3-540-74112-1"><img
+src="coc.jpg"></a> Aaron R. Bradley and Zohar Manna. <i>
+<a href="http://www.springer.com/978-3-540-74112-1">The Calculus of
+Computation: Decision Procedures with Applications to Verification</a></i>. Springer, 2007.</li>
+</ul>
+</ul>
+<ul>
+<ul>
+<li>
+<a href="http://theory.stanford.edu/~zm/mtc-dover.jpg"><img
+src="mtc-dover.jpg" border="0" height="160" width="120"></a> Zohar Manna. <i><a href="http://citeseer.ist.psu.edu/context/83730/0">Mathematical
+Theory of Computation.</a> (Reprint)</i>, Dover, 2003.</li>
+</ul>
+</ul>
+<ul>
+<ul>
+<li> Zohar Manna and Amir Pnueli. <i> Temporal Verification of Reactive Systems:
+Progress.</i> Unpublished, 1996. Click <a href="tvors3.html">here</a> to download.</li>
+</ul>
+</ul>
+
+<ul>
+<ul>
+<li>
+<a href="http://theory.stanford.edu/~zm/img_0618.jpg"><img src="images/img_0618_small.jpg" border="0" height="160" width="120"></a>
+Zohar Manna and Amir Pnueli. <a href="http://citeseer.ist.psu.edu/context/18302/0"><i>Temporal
+Verification of Reactive Systems: Safety.</i> </a>Springer-Verlag, 1995.</li>
+</ul>
+</ul>
+
+<ul>
+<ul>
+<li>
+<a href="http://theory.stanford.edu/~zm/deductive-programming.jpg"><img src="images/deductive-programming.jpg" border="0" height="160" width="120"></a>Zohar Manna and Richard Waldinger. <i><a href="http://citeseer.ist.psu.edu/context/53834/0">The
+Deductive Foundations of Computer Programming.</a></i> Addison-Wesley,
+1993.</li>
+</ul>
+</ul>
+
+<ul>
+<ul>
+<li>
+<a href="http://theory.stanford.edu/~zm/img_0619.jpg"><img src="images/img_0619_small.jpg" border="0" height="160" width="120"></a>
+Zohar Manna and Amir Pnueli.
+<i><a href="http://citeseer.ist.psu.edu/context/9751/0">The
+Temporal Logic of Reactive and Concurrent Systems:Specification.</a></i>
+Springer-Verlag, 1992.</li>
+</ul>
+</ul>
+<ul>
+<ul>
+<li>
+<a href="http://theory.stanford.edu/~zm/mtc-mcgrawhill.jpg"><img
+src="mtc-mcgrawhill.jpg" border="0" height="160" width="120"></a> Zohar Manna. <i><a href="http://citeseer.ist.psu.edu/context/83730/0">Mathematical
+theory of computation.</a></i> McGraw Hill, 1974</li>
+<p>
+<table border="0">
+<tbody>
+<tr> Translations:
+<tr> <td><a href="mtc-images/mtc-czech.jpg"><img
+src="mtc-images/mtc-czech-small.jpg" border="0" height="160" width="120" >
+</a><td><a href="mtc-images/mtc-italian.jpg"><img
+src="mtc-images/mtc-italian-small.jpg" border="0" height="160" width="120">
+</a> <td><a href="mtc-images/mtc-japanese.jpg"><img
+src="mtc-images/mtc-japanese-small.jpg" border="0" height="160" width="120">
+</a><td><a href="mtc-images/mtc-hungarian.jpg"><img
+src="mtc-images/mtc-hungarian-small.jpg" border="0" height="160" width="120">
+</a><td><a href="mtc-images/mtc-bulgarian.jpg"><img
+src="mtc-images/mtc-bulgarian-small.jpg" border="0" height="160" width="120">
+</a><td><a href="mtc-images/mtc-russian.jpg"><img
+src="mtc-images/mtc-russian-small.jpg" border="0" height="160" width="120">
+</a>
+<tr> <td> Czech<td> Italian <td> Japanese <td> Hungarian <td> Bulgarian <td> Russian
+</tbody>
+</table>
+
+</ul>
+</ul>
+<ul>
+<hr>
+<h2>
+<font color="#0000ff"><a href="http://theory.stanford.edu/~zm/new-papers.html">Selected
+publications online</a></font></h2>
+
+<hr>
+<h2>
+<font color="#0000ff"><a
+href="http://theory.stanford.edu/~srirams/Zohar/Ztree.html"> Doctoral
+Descendants</a></font></h2>  &nbsp; <a
+href="http://www.springerlink.com/app/home/issue.asp?wasp=1exdm0d7n83vqnca11a0&referrer=parent&backto=journal,180,1471;linkingpublicationresults,id:105633,1"><img
+src="festschrif-lncs.jpg" border="0"></a>
+<i><a
+href="http://www.springerlink.com/app/home/issue.asp?wasp=1exdm0d7n83vqnca11a0&referrer=parent&backto=journal,180,1471;linkingpublicationresults,id:105633,1">Verification:
+Theory and Practice (Dedicated to Zohar Manna on his 64th Birthday).</a></i>
+Springer-Verlag, LNCS 2772, 2004.
+
+<hr>
+<h2>
+<font color="#800000">Recent Courses</font></h2>
+
+<ul>
+<li>
+
+<b><font color="#008800"><a  href="cs156/slides">CS156</a></font>
+</b>(Winter 2008) <i>Calculus of Computation</i>.  This course presents an
+introduction to software verification. It covers the foundation of reasoning
+about programs from first principles: specifications and program annotations
+are represented by first-order logic formulas; program statements are
+represented by first-order transformation relations.  It also covers decision
+procedures for arithmetic over the reals, for arithmetic over the integers,
+for recursive data structures and arrays, and for combinations of theories.</li>
+
+<li>
+<b><font color="#008800">CS 157</font></b> <i>Introduction
+to logic for computer science</i>. An elementary exposition, from a computational
+point of view, of propositional logic, predicate logic, axiomatic theories,
+and theories with equality and induction. Basic notions: interpretations,
+models, validity, proof. Automated deduction: polarity, skolemization,
+unification, resolution, equality, strategy along with applications.</li>
+
+<li>
+<b><font color="#008800"><a  href="cs256/slides">CS 256</a></font></b> (Spring 2008) <i>Formal
+methods for reactive and concurrent systems</i>. This course covers specification
+and verification of reactive systems, that is, systems that maintain an
+ongoing interaction with their environment. Verification methods are presented
+for proving that such reactive systems meet their specifications, expressed
+in temporal logic. Verification methods include deductive methods based
+on theorem proving, as well as algorithmic methods based on model checking.
+The course also places emphasis on temporal logics , their expressive power
+and the applications of automata theory in formal methods.</li>
+
+<li><b><font color="#008800">CS 357</font></b>
+<i>Topics
+in Formal Methods. </i>This course covers specification and verification
+of reactive systems, with emphasis on real-time and hybrid systems. Verification
+methods are discussed for proving that such reactive systems meet their
+specifications, with emphasis on methods that combine deductive and algorithmic
+techniques, tree and alternating automata and their applications to Formal
+Methods.</li>
+</ul>
+
+<hr>
+<br> 
+<br> 
+<p><a href="http://www-step.stanford.edu/"><img src="images/step.gif" border="0" height="73" width="85"></a><a href="http://www-step.stanford.edu/">The
+<b>STeP
+Group</b> home page</a>
+</p><p><a href="http://www.stanford.edu/"><img src="images/stanford.gif" height="64" width="78"></a><a href="http://www.stanford.edu/">
+The <b>Stanford</b> home page</a>.
+</p><p><a href="http://www-cs.stanford.edu/"><img src="images/logo.gif" height="56" width="74"></a><a href="http://www-cs.stanford.edu/">
+The <b>Computer Science Department</b> home page</a>.
+</p><p><a href="http://theory.stanford.edu/"><img src="images/logo_002.gif" height="56" width="72"></a><a href="http://theory.stanford.edu/">
+The <b>Theory Division</b> home page</a>.</p></ul>
+
+</body></html>

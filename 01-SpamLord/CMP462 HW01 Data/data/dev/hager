@@ -1,0 +1,213 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Dr. Gregory D. Hager - Dept of Computer Science - The Johns Hopkins University</title>
+<link rel="stylesheet" href="default.css" type="text/css" />
+<script type="text/javascript" src="http://www.jhu.edu/~homepage/scripts/rollover.js"></script>
+<script language="JavaScript" type="text/javascript" src="http://www.jhu.edu/~homepage/scripts/globals.js"></script>
+<script language="VBScript" type="text/vbscript" src="http://www.jhu.edu/~homepage/scripts/vb.txt"></script>
+<script language="JavaScript1.1" type="text/javascript" src="http://www.jhu.edu/~homepage/scripts/detect.js"></script>
+</head>
+
+<body>
+    
+<table width="100%"  border="0" cellspacing="0" cellpadding="0" summary="this is the layout table that centers the page layout">
+	<tr>
+		<td class="leftside">&nbsp;</td>
+		<td width="840">
+
+<table width="840" border="0" align="center" cellpadding="0" cellspacing="0" summary="this table contains the navigation">
+	<tr>
+		<td width="600"><img src="images/logo-top.jpg" width="600" height="100" alt="John Hopkins University Logo" /></td>
+		<td width="240" bgcolor="#040419" class="searchbox">
+			<!--form action="http://webapps.jhu.edu/searchformhandler.cfm" method="post">
+				<label for="search"></label>
+				<input type="text" id="searchstring" 
+name="searchstring" style="width:150px;" />
+				<input type="submit" name="Submit" value="search" /><br />
+				<input type="radio" name="mode" value="topic" checked><label for="topic">Topics</label> &nbsp;&nbsp;&nbsp;
+				<input type="radio" name="mode" value="person"><label for="person">People</label>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://webapps.jhu.edu/jhuniverse/search/advanced_search/">Advanced</a>
+			</form-->
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="topnav">
+		<ul>
+			<li><a href="http://webapps.jhu.edu/jhuniverse/information_about_hopkins/" onMouseover="dropdownmenu(this, event, menu1, '175px')" onMouseout="delayhidemenu()">About Johns Hopkins</a></li>
+			<li><a href="http://webapps.jhu.edu/jhuniverse/admissions/" onMouseover="dropdownmenu(this, event, menu2, '175px')" onMouseout="delayhidemenu()">Admissions</a></li>
+			<li><a href="http://webapps.jhu.edu/jhuniverse/schools_centers_affiliates/" onMouseover="dropdownmenu(this, event, menu3, '175px')" onMouseout="delayhidemenu()">Schools and Centers</a></li>
+			<li><a href="http://webapps.jhu.edu/jhuniverse/academics/" onMouseover="dropdownmenu(this, event, menu4, '175px')" onMouseout="delayhidemenu()">Academics</a></li>
+			<li><a href="http://webapps.jhu.edu/jhuniverse/news_and_publications/" onMouseover="dropdownmenu(this, event, menu5, '175px')" onMouseout="delayhidemenu()">News</a></li>
+			<li><a href="http://webapps.jhu.edu/jhuniverse/arts_&_culture/">Arts and Culture</a></li>
+			<li><a href="http://webapps.jhu.edu/jhuniverse/JHU_athletics/" onMouseover="dropdownmenu(this, event, menu6, '175px')" onMouseout="delayhidemenu()">Athletics</a></li>
+		</ul>
+		</td>
+	</tr>
+</table>
+<table width="840" border="0" cellspacing="0" cellpadding="0" align="center" summary="this is the main layout table">
+	<tr valign="top">
+		<td colspan="2" valign="top" style="background-color:#000000;">
+<!--url's used in the movie-->
+<!--text used in the movie-->
+<img src=images/main_image2.jpg>
+<img src=images/navbar.gif>
+		</td>
+		<td class="navright">
+	 
+			<h1>Contact Info</h1>
+			<ul>
+
+        <li> <a href="http://www.jhu.edu">3400 N. Charles St.</a></li>
+	<li> <a href="http://www.jhu.edu">Johns Hopkins University </a></li>
+				<li><a href="http://www.jhu.edu">Baltimore, MD 21218-2686</a></li>
+
+				<li><a
+				href="http://www.cs.jhu.edu/">Room
+				121</a></li>
+
+<li><a	href="http://www.wse.jhu.edu/">Computational
+			Sciences and Engineering Bldg</a></li>
+
+
+				<li><a href="http://www.cs.jhu.edu/">phone: (410) 516-5521</a></li>
+				<li><a href="http://www.cs.jhu.edu/">fax: (410) 516-5553</a></li>
+				<li><a href="https://www.cs.jhu.edu">hager at cs dot jhu dot edu</a></li>
+				<li><a href="http://www.cs.jhu.edu/~hager/">http://www.cs.jhu.edu/~hager</a></li>
+
+			</ul>
+ 		  </td>
+ 	</tr>
+	<tr>
+		<td class="leftnav">
+       
+			<h1>Navigation</h1>
+			<ul class="navleft">
+				<li><a href="http://www.cs.jhu.edu">Dept. of Computer Science</a></li>
+				<li><a href="http://www.cs.jhu.edu/~hager/Public/CV/newlongvita.pdf">Curriculum Vitae</a></li>
+				<li><a href="index.html#Office_hrs">Office Hours</a></li>
+				<li><a href="http://www.cs.jhu.edu/CIRL/">CIRL Lab</a></li>
+				<li><a href="index.html#Research">Research</a></li>
+				<li><a href="index.html#Teaching">Teaching</a></li>
+				<li><a href="index.html#Other">Other</a></li>
+				<li><a href="http://www.cs.jhu.edu/people">CS Directory</a></li>
+				<li><a href="http://www.cs.jhu.edu/research">CS Research</a></li>
+				<li><a href="http://www.cs.jhu.edu/academics">CS Academics</a></li>
+				<li><a href="http://www.wse.jhu.edu">Whiting School of Engineering</a></li>
+				<li><a href="http://www.jhu.edu">Johns Hopkins University</a></li>
+				<li><a href="http://www.cs.jhu.edu/search/">Search JHU CS</a></li>
+			</ul>
+			<a href="http://jobber.cs.jhu.edu/~hager/calendar"><img src="images/calendar.jpg" alt="calendar of events" width="170" height="158" border="0"></a>
+		  
+		  </td>
+		<td class="content">
+		
+			<h1 class="todayhdr"><a href="http://webapps.jhu.edu/jhuniverse/today">Welcome!</a></h1><link rel="stylesheet" type="text/css" href="default.css" />
+
+
+<div class="today">
+<a href="http://www.cs.jhu.edu/~hager/index.html">
+	<img src="images/hager_button.jpg" alt="Who I Am"></a>
+<h2>&raquo; Who I am</h2>
+<p align=justify>I am a professor in the <a
+href=http://www.cs.jhu.edu>Computer Science Department</a> at <a
+href=http://www.jhu.edu>The Johns Hopkins University</a>. My principal
+areas of research are computer vision and robotics, and my application
+interests these days are in the area of medical devices and
+human-machine systems. I direct the  <a
+href=http://www.cs.jhu.edu/CIRL>Computational Interaction and Robotics
+Lab (CIRL)</a>. I am also the deputy directory of the <a
+href=http://www.nsf.gov>NSF</a> <a
+href=http://www.cisst.org>Engineering Research Center for
+Computer-Integrated Surgical Systems and Technology (CISST)</a>. I was
+elected a Fellow of the IEEE in 2006 for my contributions to computer vision and robotics.
+</p>
+</div>
+
+
+<div class="today">
+	<a name="Research"></a><img src="images/cirl_button.jpg" alt="Research">
+<h2>&raquo; Research</h2>
+<ul>
+	<li><a href=http://www.cs.jhu.edu/CIRL>The Computation Interaction and Robotics Lab</a></li>
+	<li><a href=http://www.cs.jhu.edu/CIRL/publications.html>Recent publications</a> | <a href=http://www.cs.jhu.edu/~hager/Public/Publications>Some older publications</a></li>
+	<li><a href=http://www.cs.jhu.edu/~hager/ftp_area/objpose.tar.gz>Matlab code demonstrating efficient, convergent pose estimation</a></li>
+	<li><a href=http://www.smokinjays.org>JHU Robocup</a></li>
+</ul>
+<br>
+</div> 
+
+<div class="today">
+	<a name="Teaching"></a><img src="images/teaching.jpg" alt="Teaching">
+<h2>&raquo; Teaching</h2>
+<ul align=justify>
+	<li><a href=http://www.ugrad.cs.jhu.edu/~cs461/>600.461 - Computer Vision</a></li>
+	<li><a href=http://www.cs.jhu.edu/~hager/Teaching/cs336>600.336 - Algorithms for Sensor-Based Robotics</a></li>
+	<li><a href=http://www.cs.jhu.edu/~hager/Teaching/cs226>600.226 - Data Structures</a></li>
+</ul>
+<br>
+</div>
+
+<div class="today">
+	<a name="Other"></a><img src="images/other_button.jpg" alt="Other Relevant Tidbits">
+<h2>&raquo; Other Relevant Tidbits</h2>
+<ul align=justify>
+        <li> <a
+	href="http://quadsearch.csd.auth.gr/ssearch.php?m=1&wtl=1&frop=1&lan=1&tos=2&pp=1&query=gd%2Bhager&query2=&search=Search&sst=1&st4=1&ResPerPage=500&a1=1"> My impact factor.</a> This is quite sensitive to how you enter my name; this one works ok; there are a couple of articles that are not mine with 0 or 1 citataions in this list and a few missing papers.
+
+	<li>We have formed the <a href=http://lcsr.jhu.edu/>Laboratory
+		for Computational Sensing and Robotics</a> which us
+		sited in the new <a
+		href=http://engineering.jhu.edu/~cse-building>Computational
+		Science and Engineering Building</li> 
+
+		<li>I am on the steering committee for the <a href=http://engineering.jhu.edu/I4M/>I4M Initiative</a> which is a collaboration between the <a href=http:/www.wse.jhu.edu>Whiting School of Engineering</a> and <a href=http://www.jhmi.jhu.edu/>Johns Hopkins Medical Institutions</li>
+</ul>
+</div>
+
+</td>
+		<td class="highlights">
+			<img src="images/highlights.gif" alt="highlights header graphic" width="210" height="24" /><div class="highlightsbox"><link rel="stylesheet" type="text/css"
+href="default.css" />
+
+ 
+<div class="highlightsbox">
+	<h1>Office and Directions</h1>
+	<p> I am located in 121 CSEB. Driving directions are <a
+	href=http://lcsr.jhu.edu/Contact_Us/Directions> here </a>.
+	<a name="Office_hrs"></a><h1>Office Hours</h1>
+<p>I have office hours Friday afternoon from 1-4 p.m., time
+permitting. If you want a guaranteed time, contact me.</p> 
+<h1><a href="http://www.cs.jhu.edu/~hager/Public/CV/newlongvita.pdf">C.V. (pdf)</a></h1>
+</div>
+</div></td>
+ 	</tr>
+	<tr>
+			<td><img src="images/bot-left.gif" width="210" height="31" alt="Johns Hopkins University" /></td>
+		<td class="footer">
+     	<br /><img src="images/bot-middle.gif" width="400" height="1" alt="Johns Hopkins University" />
+   		</td>
+			<td><img src="images/bot-right.gif" width="225" height="31" alt="Johns Hopkins University" /></td>
+ 	</tr>
+ </table>
+ 
+	  </td>
+		<td class="rightside"><p>&nbsp;</p>
+	    </td>
+	</tr>
+</table>
+
+<table width="840" border="0" align="center" cellpadding="5" cellspacing="0" class="footersub">
+  <tr>
+    <td><br>
+      <br>
+      <a href="http://www.jhu.edu/news_info/policy/copyright.html">&copy; The
+      Johns Hopkins University. All rights reserved.</a><br>
+Baltimore, Maryland. 410-516-8000.</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>

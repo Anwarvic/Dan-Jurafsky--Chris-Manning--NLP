@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title></title>
+</head>
+
+<body bgcolor="fffff7">
+
+<center>
+
+<img src="blackbox.gif" border=0 usemap="#menumap">
+<p>
+Prof. Prabhakar is on partial leave from January 1, 2006, through June 30, 2006.
+
+</center>
+
+<map name="menumap">
+
+<area shape="rect" coords="110,100,165,120" href="http://ee.stanford.edu">
+<area shape="rect" coords="20,123,95,135" href="http://ee.stanford.edu">
+<area shape="rect" coords="100,123,205,135" href="http://cs.stanford.edu">
+<area shape="rect" coords="25,139,125,152"
+href="http://ee.stanford.edu/ee/address.html">
+<area shape="rect" coords="25,154,135,170" href="http://www.stanford.edu">
+<area shape="rect" coords="25,224,140,240"
+href="mailto:balaji@stanford.edu">
+<area shape="rect" coords="350,94,425,112"
+href="http://simula.stanford.edu/index.html">
+<area shape="rect" coords="350,135,415,156" href="courses.html">
+<area shape="rect" coords="350,175,455,200" href="publications.html">
+<area shape="rect" coords="350,220,385,240" href="bio.html">
+</map>
+<address></address>
+</body> </html>

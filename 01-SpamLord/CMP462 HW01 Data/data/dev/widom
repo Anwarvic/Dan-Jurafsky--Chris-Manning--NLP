@@ -1,0 +1,387 @@
+<html>
+<head>
+<title>Jennifer Widom's Home Page</title>
+</head>
+<body bgcolor="#FFFFFF">
+<font face="arial" size=2>
+
+<center>
+<table border=0 cellpadding=27 cellspacing=2>
+<tr><td><img align=top src="http://infolab.stanford.edu/~widom/photos/portrait.jpg">
+<td><h2>
+<font color="#BB0000" face="trebuchet ms">
+Jennifer Widom<br></h2>
+<h4>Fletcher Jones Professor<br>Depts. of Computer Science and EE<br> Stanford University
+</font>
+</h3>
+</table>
+
+<br><a href="#bio"><big><b>Bio</big></b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#info"><big><b>Info</big></b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#newstuff"><big><b>News</big></b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#talks"><big><b>Talks</big></b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#projects"><big><b>Research</big></b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#students"><big><b>Students</big></b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href="#companies"><big><b>Companies</big></b></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+<a href="#personal"><big><b>Personal</big></b></a>
+
+<p><a
+href="http://infolab.stanford.edu/~widom/answers.html">Frequently-asked
+Questions</a></center>
+
+<a name="bio">
+<table border=0 cellpadding=4 cellspacing=10 width="100%">
+<tr><td width="100%" bgcolor="#ccccff"><font face="Trebuchet MS">
+<b><center>Biographical Sketch</b></center>
+</font></td></tr>
+</table>
+
+Jennifer Widom is the Fletcher Jones Professor of Computer Science at
+Stanford University. She received her Bachelors degree from the
+Indiana University School of Music in 1982 and her Computer Science
+Ph.D. from Cornell University in 1987. She was a Research Staff Member
+at the IBM Almaden Research Center before joining the Stanford faculty
+in 1993. Her research interests span many aspects of nontraditional
+data management. She is an ACM Fellow and a member of the National
+Academy of Engineering, she received the ACM SIGMOD Edgar F. Codd
+Innovations Award in 2007 and was a Guggenheim Fellow in 2000, and she
+has served on a variety of program committees, advisory boards, and
+editorial boards. <a
+href="http://infolab.stanford.edu/~widom/WidomCV.html">Complete CV
+here</a> <br><br>
+
+<a name="info">
+<table border=0 cellpadding=4 cellspacing=10 width="100%">
+<tr><td width="100%" bgcolor="#ccccff"><font face="Trebuchet MS">
+<b><center>General Information</b></center>
+</font></td></tr>
+</table>
+
+<UL>
+
+<P><LI> Department of Computer Science<br>
+        Gates Building 4A<br>
+        Stanford University<br>
+        Stanford, CA  94305-9040<br>
+        Phone: 650-723-7690, Fax: 650-725-2588<br>
+        Email: widom@<!--die!-->cs <!-- spam pigs!--> stanford <!-- die --> edu<br>
+        Administrator: <a href="http://infolab.stanford.edu/people/siroker.html">Marianne Siroker</a>, siroker@cs.stanford.edu, 650-723-0872<br>
+        Office: Gates Building #422 (<a href="http://infolab.stanford.edu/db_pages/directions.html">directions</a>)
+
+<P><LI> <a href="http://infolab.stanford.edu/~widom/schedule.html">Weekly schedule<a/>
+
+<P><LI> Fall quarter course: <a href="http://infolab.stanford.edu/~widom/cs145">CS145 - Introduction to Databases</a>
+
+<LI> Winter quarter seminar: <a href="http://infolab.stanford.edu/infoseminar/index.html">CS545 - InfoSeminar</a>
+
+<LI> Spring quarter course: <a href="http://infolab.stanford.edu/~widom/cs346">CS346 - Database System Implementation</a> <i>(not offered spring '09)</i>
+
+<P><LI> <a href="http://infolab.stanford.edu/~widom/pubs.html">
+Publications</a> (or use the <a href="http://pub-db.stanford.edu">InfoLab publication server</a>)
+
+<P><LI> Stanford <a href="http://infolab.stanford.edu/">InfoLab</a> home page (formerly the Database Group)
+
+<LI> The InfoLab <a href="http://infoblog.stanford.edu/">InfoBlog</a>, launched May 2008
+
+<LI> Stanford <a href="http://www-cs.stanford.edu/">Computer Science Department</a> home page
+</UL>
+
+<a name="newstuff">
+<table border=0 cellpadding=4 cellspacing=10 width="100%">
+<tr><td width="100%" bgcolor="#ccccff"><font face="Trebuchet MS">
+<b><center>New Items</b></center>
+</font></td></tr>
+</table>
+
+<center>
+<i>Updated June 2008</i>
+</center>
+
+<UL>
+
+<p><li> Following the spirit of the times, students in our research
+group recently launched a blog, aptly named the <a
+href="http://infoblog.stanford.edu/">InfoBlog</a>. Even faculty are
+getting in on the act: I posted a <a
+href="http://infoblog.stanford.edu/2008/07/database-research-principles-revealed.html">discussion
+and summary</a> of my SIGMOD 2007 <i>Research Principles Revealed</i>
+talk.
+
+<p><li> In a recent <a
+href="http://acm.org/sigmod/record/issues/0609/p57-column-winslett.pdf">interview</a>
+(pdf) in <a href="http://acm.org/sigmod/record/issues/0609/">SIGMOD
+Record</a>, I "speak out on luck, what constitutes success, when to get
+out of an area, the importance of choosing the right husband,
+outlandish vacations, how hard it is to be an assistant professor, and
+more".
+
+<p><li> Here's a document containing <a href="paper-writing.html">Tips
+for Writing Technical Papers</a> -- derived from a lunch presentation
+I gave on the topic.
+
+<p><li> Along the same lines, when I was PC Chair for SIGMOD '05 I
+wrote up some <a
+href="http://infolab.stanford.edu/~widom/conference-talks.html">Tips
+for a Good Conference Talk</a>.
+
+</UL>
+
+<a name="talks">
+<table border=0 cellpadding=4 cellspacing=10 width="100%">
+<tr><td width="100%" bgcolor="#ccccff"><font face="Trebuchet MS">
+<b><center>Recent Talks</b></center>
+</font></td></tr>
+</table>
+
+<ul>
+
+<p><li> At the <a href="http://sigmod07.riit.tsinghua.edu.cn/">SIGMOD
+2007</a> conference I gave an invited talk entitled <i>Research
+Principles Revealed</i>. Here are the slides in <a
+href="http://i.stanford.edu/~widom/principles.ppt">PowerPoint</a> and
+<a href="http://i.stanford.edu/~widom/principles.pdf">pdf</a>.
+
+<p><li> At the <a
+href="http://www-db.cs.wisc.edu/cidr/cidr2007/index.html">CIDR
+2007</a> conference, two anonymous speakers, "Prof. Short"
+and "Dr. Tall", gave a short talk entitled <i>The Blind Leading the
+Blind</i>. Here are the slides in <a
+href="http://infolab.stanford.edu/~widom/BLB.ppt">PowerPoint</a> and <a
+href="http://infolab.stanford.edu/~widom/BLB.pdf">pdf</a>, and a <a
+href="http://infolab.stanford.edu/~widom/BLB.jpg">photo</a>.
+
+<P><LI> My current research talks are usually drawn from <i>Trio: A
+System for Data, Uncertainty, and Lineage</i> (slides in <a
+href="http://infolab.stanford.edu/~widom/trio-talk.ppt">PowerPoint</a> or <a
+href="http://infolab.stanford.edu/~widom/trio-talk.pdf">pdf</a>).
+
+<br>I also sometimes talk about <i>The Stanford Data Stream Management
+System</i> (slides in <a
+href="http://infolab.stanford.edu/~widom/stream-talk.ppt">PowerPoint</a> or
+<a href="http://infolab.stanford.edu/~widom/stream-talk.pdf">pdf</a>).
+
+</ul>
+
+<a name="projects">
+<table border=0 cellpadding=4 cellspacing=10 width="100%">
+<tr><td width="100%" bgcolor="#ccccff"><font face="Trebuchet MS">
+<b><center>Research Projects</b></center>
+</font></td></tr>
+</table>
+
+<h5> Current project </h5>
+
+<UL>
+
+<LI> <a href="http://infolab.stanford.edu/trio">Trio</a>: A DBMS for
+integrated management of data, accuracy, and lineage
+
+</UL>
+
+<h5> Past projects </h5>
+<UL>
+
+
+<LI> <a href="http://infolab.stanford.edu/lore">LORE</a>: A database
+management system for XML
+
+<LI> <a href="http://infolab.stanford.edu/stream">STREAM</a>: STanford
+stREam dAta Manager
+
+<LI> <a href="http://infolab.stanford.edu/trapp">TRAPP</a>: Tradeoff in Replication Precision and Performance
+
+<LI> <a href="http://infolab.stanford.edu/warehousing/warehouse.html">
+WHIPS</a>: Building and maintaining data warehouses
+
+<LI> <a href="http://infolab.stanford.edu/wsms">WSMS</a>: A Web
+Service Management System
+
+<LI><A HREF = "http://infolab.stanford.edu/wsq">WSQ/DSQ</A>
+(pronounced "wisk-disk"): Integrating database queries and Web
+searches.
+
+</UL>
+
+<a name="students">
+<table border=0 cellpadding=4 cellspacing=10 width="100%">
+<tr><td width="100%" bgcolor="#ccccff"><font face="Trebuchet MS">
+<b><center>Students and Post-Docs</b></center>
+</font></td></tr>
+</table>
+
+<h5> Current Ph.D students </h5>
+
+<UL>
+<LI><a href="http://www.stanford.edu/~paraga/">Parag Agrawal</a>
+<li><a href="http://infolab.stanford.edu/~anishds/">Anish Das Sarma</a>
+<li><a href="http://www.stanford.edu/~rmikeda/">Robert Ikeda</a>
+<li><a href="http://infolab.stanford.edu/~ragho/">Raghotham Murthy</a>
+<li> Hyunjung Park
+</UL>
+
+<h5> Graduated Ph.D. students </h5>
+<UL>
+
+<LI><a href="http://infolab.stanford.edu/~usriv/">Utkarsh Srivastava</a> (<a href="http://infolab.stanford.edu/~hector/photos/2006/CSGrad06/036.htm">2006</a>)
+<ul>
+<li> Thesis: <i><a href="http://dbpubs.stanford.edu/pub/2006-20">Efficient Query Processing for Modern Data Management</a></i>
+<li> Employment: <a href="http://research.yahoo.com">Yahoo! Research</a>
+</ul>
+
+<LI><a href="http://research.microsoft.com/~arvinda/">Arvind Arasu</a> (<a href="http://infolab.stanford.edu/~hector/photos/2005/grad05/a094.htm">2006</a>)
+<ul>
+<li> Thesis: <i><a href="http://dbpubs.stanford.edu/pub/2006-6">Continuous Queries over Data Streams</a></i>
+<li> Employment: <a href="http://research.microsoft.com/dmx/">Microsoft Research</a>
+</ul>
+
+<LI> <a href="http://www.cs.duke.edu/~shivnath">Shivnath Babu</a> (<a href="http://infolab.stanford.edu/~hector/photos/2005/grad05/a101.htm">2005</a>)
+<ul>
+<li> Thesis: <i><a href="http://dbpubs.stanford.edu/pub/2005-24">Adaptive Query Processing in Data Stream Management Systems</a></i>
+<li> Employment: Faculty member, <a href="http://www.cs.duke.edu/">Duke University</a>
+</ul>
+ 
+<LI> <a href="http://www-2.cs.cmu.edu/~olston/">Christopher Olston</a> (<a href="http://infolab.stanford.edu/~hector/photos/2003/csGrad/a051.htm">2003</a>)
+<ul>
+<li> Thesis: <i>Approximate Replication</i> (<a href="http://infolab.stanford.edu/~widom/theses/olston.ps">postscript</a> and <a href="http://infolab.stanford.edu/~widom/theses/olston.pdf">pdf</a>)
+<li> Employment: <a href="http://research.yahoo.com">Yahoo! Research</a>
+</ul>
+ 
+<LI> <a href="http://infolab.stanford.edu/~cyw">Claire (Yingwei) Cui</a> (2001)
+<ul>
+<li> Thesis: <i><a href="http://dbpubs.stanford.edu/pub/2001-56">Lineage Tracing in Data Warehouses</a></i>
+<li> Employment: <a href="http://www.google.com">Google</a>
+</ul>
+
+<LI> <a href="http://www.cs.duke.edu/~junyang/">Jun Yang</a> (2001)
+<ul>
+<li> Thesis: <i>Temporal Data Warehousing</i> (<a href="http://infolab.stanford.edu/~widom/theses/yang.ps">postscript</a>)
+<li> Employment: Faculty member, <a href="http://www.cs.duke.edu/">Duke University</a>
+</ul>
+
+<LI> <a href="http://infolab.stanford.edu/~royg">Roy Goldman</a> (2000)
+<ul>
+<li> Thesis: <i>Integrated Query and Search of Databases, XML, and the Web</i> (<a href="http://infolab.stanford.edu/~widom/theses/goldman.ps">postscript</a>)<br>(winner of Stanford C.S. Department Arthur Samuel Thesis Award)
+<li> Employment: <a href="http://www.mobspin.com">Mobspin</a>
+</ul>
+
+<LI> <a href="http://infolab.stanford.edu/~mchughj">Jason McHugh</a> (2000)
+<ul>
+<li> Thesis: <i>Data Management and Query Processing for Semistructured Data</i> (<a href="http://infolab.stanford.edu/~widom/theses/mchugh.ps">postscript</a>)
+<li> Employment: <a href="http://www.amazon.com">Amazon</a>
+</ul>
+
+<LI> <a href="http://www.quass.org/dallan.html">Dallan Quass</a> (1997)
+<ul>
+<li> Thesis: <i>Materialized Views in Data Warehouses</i> (<a href="http://infolab.stanford.edu/~widom/theses/quass.ps">postscript</a>)
+<li> Employment: <a href="http://www.folg.org/">Foundation for On-Line Genealogy</a>
+</ul>
+
+<LI> Ashish Gupta (1994, co-advised by Jeff Ullman)
+<ul>
+<li> Thesis: <i>Partial Information Based Integrity Constraint Checking</i> (<a href="http://infolab.stanford.edu/pub/gupta/1994/thesis.ps">postscript</a>)
+<li> Employment: <a href="http://www.helionvc.com">Helion Ventures</a>
+</ul>
+
+<LI> Elena Baralis (1994 Politecnico di Torino, co-advised by Stefano Ceri)
+<ul>
+<li> Thesis: <i>An Algebraic Approach to the Analysis and Optimization of
+Active Database Rules</i>
+<li> Employment: Faculty member, <a href="http://www.polito.it">Politecnico di Torino</a>
+</ul>
+
+</ul>
+
+<!-- 
+<a name="companies">
+<table border=0 cellpadding=4 cellspacing=10 width="100%">
+<tr><td width="100%" bgcolor="#ccccff"><font face="Trebuchet MS">
+<b><center>Current Company Affiliations</b></center>
+</font></td></tr>
+</table>
+
+<UL>
+
+<li> Advisory board: <a href="http://www.abrevity.com">Abrevity</a>
+<li> Consultant: <a href="http://www.streambase.com">StreamBase</a>
+
+</UL>
+-->
+
+<a name="personal">
+<table border=0 cellpadding=4 cellspacing=10 width="100%">
+<tr><td width="100%" bgcolor="#ccccff"><font face="Trebuchet MS">
+<b><center>Personal</b></center>
+</font></td></tr>
+</table>
+
+<UL>
+
+<P><LI> Jennifer is married to <a
+href="http://theory.stanford.edu/~aiken/">Alex Aiken</a>.  They have
+two children: <a
+href="http://infolab.stanford.edu/~widom/photos/tim.jpg">Tim</a> (age
+10-1/2 as of this long-ago photo - spring '06) and <a
+href="http://infolab.stanford.edu/~widom/photos/emily.jpg">Emily</a>
+(age 9 as of this long-ago photo - spring '06). Here are Tim and Emily
+<A HREF =
+"http://infolab.stanford.edu/~widom/photos/book.jpg">enjoying some
+light reading</a> in their early years.
+
+<p><LI> Worldwide adventure travel is a major hobby for our family:
+
+<UL>
+
+<p><li> Here's a <a
+href="http://infolab.stanford.edu/~widom/travel.html">log with selected
+photos</a> from our travels, a list of <a
+href="http://infolab.stanford.edu/~widom/travelfavs.html">off-the-beaten-path
+travel favorites</a>, and a <a
+href="http://infolab.stanford.edu/~widom/travelquote.html">travel
+quote</a> I really like.
+
+<P><LI> In 2007-08 we took a <a
+href="http://infolab.stanford.edu/~widom/yearoff.html">Year Off for
+Travel</a>. I wrote a set of "<a
+href="http://infolab.stanford.edu/~widom/travelogs.html">travelogs</a>"
+as we went.
+
+<P><LI> Long ago I wrote an essay on <a
+href="http://infolab.stanford.edu/~widom/under4.html">Adventure Travel
+with Children Under Four</a>.  It evolved into an <a
+href="http://www.gorp.com/gorp/eclectic/family/expert/widom.htm">article
+about our family travels</a> by Alice Cary that appeared in the Great
+Outdoor Recreation Pages online magazine (<a
+href="http://www.gorp.com">www.gorp.com</a>). Subsequently I wrote two
+addenda to the original essay: <a
+href="http://infolab.stanford.edu/~widom/4to6.html">Adventure Travel
+with Children Ages 4-6</a>, and <a
+href="http://infolab.stanford.edu/~widom/cruising.html">Bareboat
+Cruising with Young Children</a>. Except for the <a
+href="http://infolab.stanford.edu/~widom/travelogs.html">Year Off
+Travelogs</a>, since then my essays haven't kept pace with the ages
+and travel activities of my children.
+
+</UL>
+
+<P><LI> <a href="http://www.widom.com">Widom Family Home Page</a>
+
+<P><LI>I host the web page for the <a href="http://infolab.stanford.edu/~widom/PABlue97g/">Palo Alto Blue 97 Girls</a> CYSA soccer team.
+
+<!-- Here are some of my son <a href="http://infolab.stanford.edu/~widom/tim">Tim's creations</a> -->
+
+<!-- <p><li><small>Review of <a href="http://infolab.stanford.edu/~widom/sealife.html">SeaLife ReefMaster</a> underwater cameras. (<i>Summary: don't buy one</i>)</small> -->
+
+</UL>
+</ul>
+
+<table border=0 cellpadding=4 cellspacing=10 width="100%">
+<tr><td width="100%" bgcolor="#ccccff"><font face="Trebuchet MS" color="ffffff">
+<center><i>widom@cs.stanford.edu</i></center>
+</font></td></tr>
+</table>
+<!-- Stanford Tags Project -->
+<script src="http://tags.stanford.edu/tags.js" type="text/javascript"></script>
+<!-- Stanford Tags Project -->
+
+</body>
+</html>

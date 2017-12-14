@@ -1,0 +1,191 @@
+<HTML>
+<HEAD>
+<TITLE>Nick Parlante's Home</TITLE>
+</HEAD>
+
+<body>
+
+<h1><img src=nick-lecture-2005.jpg  width=250 other ="Nick_Desk_95.jpeg" align = "middle" > Nick
+Parlante</h1>
+
+<p>
+At present, my most interesting project is
+<a href=http://javabat.com/>javabat.com</a> which is an experimental
+online code-practice tool, where you can play with little sections of code in the browser.
+
+<p>I'm a lecturer in the CS department, and I also work part-time
+at <a href=http://www.google.com>the world's greatest search engine</a>.
+
+
+<p>
+<table>
+<tr>
+<td valign=top>
+
+
+<ul>
+  <li><a href=http://www.stanford.edu/class/cs108/>CS108</a> "Object Oriented
+Systems" which is all about
+applying Java and OOP to large projects
+  <li><a href=http://www.stanford.edu/class/cs193i/>CS193i</a> 
+"Internet Technologies" which is a
+programmer's tour of the combination of tcp/ip,
+sockets, HTTP, HTML, CGI, and other standards which make
+up the Internet.
+</ul>
+</td>
+<td valign=top>
+
+<ul>
+ <li><a href=http://nifty.stanford.edu/>The Nifty Assignments</a>
+archive. Run as part of the ACM CSE, this is a neat library
+of great assignments gathered from instructors all over.
+Each year, there's a Nifty Assignments session I run at
+the SIGCSE conference. Applications etc. are done in the Summer.
+
+
+<li><a href=http://cslibrary.stanford.edu/109/>The Greatest
+Pointer Recursion Problem of All Time</a>
+
+ <li><a href=http://cslibrary.stanford.edu/>The CS Library</a> project
+which edits together CS education materials. There are some
+extremely popular documents here on linked lists, binary trees, etc..
+<img src=http://cslibrary.stanford.edu/smallbinky.gif align=right></li>
+
+  <li><a href=http://cslibrary.stanford.edu/104/>The Binky Pointer Video</a>
+the infamous Claymation animated short about pointers.
+
+
+  <li><a href=http://www.stanford.edu/class/cs108/JavaDocFast.html>JavaDoc Fast</a>
+are you tired of hunting through Java Docs the lame old way? Try my super
+wizz-o way that uses Javascript to actually do something useful.
+
+  <li>To help waste time playing the greatest board game ever invented, Settlers of Catan,
+ here's a <a href=http://www-cs-students.stanford.edu/~nick/settlers/>free settlers dice</a> application that rolls the dice for you and graphs it all
+
+  <li>An <a href=http://www-cs-students.stanford.edu/~nick/dice/DiceOddsSettlers.html>analysis</a> of the dice odds in Settlers, for those who are truly addicted
+to the game
+
+</ul>
+</td>
+</tr>
+</table>
+
+<p>
+EMail: <A HREF="mailto:nick.parlante@cs.stanford.edu">nick.parlante@cs.stanford.edu</a><br>
+Phone: (650) 725-4727<br>
+Office: Gates 190 -- first floor in the South facing "B" wing.<br>
+My current office hours are always listed on the course pages
+of whatever I'm teaching, but in fact I'm generally
+around Mon, Wed, Fri. Feel free to call or stop by. <br>
+<a href = "gates_map.GIF">Map to my office.</a>
+
+<hr>
+
+
+Below here is embarassingly old material, back from when I was
+a dishevled Grad student, as opposed to my new persona
+as a cranky, dishevled old man. At one time, I had a promising
+career writing party flyers, such as from
+the infamous <a href=http://www-cs-faculty.stanford.edu/~nick/bhh/96_6_SpringFling.pdf>Spring Fling</a> party
+
+<blockquote>
+Consider the words... "sunny, "tropical,"
+"tawny," and of course "fruity!" -- no other
+big house in the greater Menlo Park area
+comes to mind quicker than the Big Happy
+Home (especially when you add in words
+like "couch," "ESPN," and "burrito.")
+</blockquote>
+
+
+<h3>Who is this guy anyway?</h3><p>
+
+Of course everyone's personality can be reduced to a paragraph! I like
+talking, reading, playing, teaching, snacking, and building things
+which seems to match up pretty well with my job as a lecturer in the
+Computer Science department. The funniest thing every said about me
+was by Liz Peters who described me as... "He's 5'8, but he plays 5'9."
+These little self-personality-summaries combine all the charm of
+writing a college application essay with all the truthfulness and
+self-deception of a singles add-- so I'll leave it at that and you're
+welcome to track me down and say hello in person which is pretty easy
+since I have office hours that are deserted except right before
+assignments.
+
+<a name = "bhh">
+
+<p>
+I used to live in a big blue house in the Big Happy Home (<a
+href = #bhh>BHH</a>) in Menlo Park with a bunch of cheerful young
+folks/hoodlums-- where "young" is defined in the traditional way to be
+however old I am currently. Then our landlord decided that he wanted
+to move back in, which began the tale of horror of finding a place to
+live in the Bay Area. That unholy epic ended with our finding the BHH
+2.0, and the whole tragedy is amply documented in my haiku ("Evil
+Ex-Landlord") found on the flyer for our BHH 2.0 housewarming party in
+the <a href = bhh/>BHH Document Archive</a>.
+
+<h3>Big Happy Home<img src = "bhh2.50.jpeg" align = "middle"></h3>
+The great and brave story of the BHH 2.0 ends in the swampy atmosphere of
+a little drama I call "booted out by landlord, yet again," for which
+there is no haiku as yet, but there is a flyer.
+
+<p>
+The official <A href =
+"http://www-cs-students.stanford.edu/~pchang/bhh.html">BHH page</a> is
+now a living ruin -- our Mrs. Bates -- a testament to a time back when
+we were fun! There's a secondary <a href =
+"http://www-cs-faculty.stanford.edu/~nick/bhh/">BHH Documents</a> archive
+including old party flyers that help reinforce the past-tense nature
+of my fun-having days!
+
+<a name = "quotes">
+<h3>Quotes</h3>
+<p> I've put in some more 108 type quotes now that I'm teaching it for the umpteenth time. 
+
+<blockquote>
+
+<p>
+"Committees can criticize, but they cannot create."
+(Ogilvy on Advertising)
+
+<p>
+"Sleep optional but not recommended."
+-CS107 student 
+
+<p>
+"Logic is a system whereby one may go wrong with confidence."
+-Charles Kettering 
+
+<p>
+"We don't have time to stop for gas--
+ we're already late."
+-Old software project planning proverb via Mike Cleron
+
+<p>
+"Experience is what you get when you didn't get what you wanted."
+-Unknown
+
+<p>
+"Plan to throw one away."
+- Fred Brooks
+
+<p>
+"The two most important tools an architect has are the eraser in the drawing room and the sledge hammer on the construction site."
+- Frank Lloyd Wright
+
+<p>
+"Hardware is just software that's hard to edit."
+- Unknown
+
+<p>
+"This time for sure."
+- Common phrase among computer programmers and used-car salespeople.
+
+</blockquote>
+
+</body>
+
+</HTML>
+

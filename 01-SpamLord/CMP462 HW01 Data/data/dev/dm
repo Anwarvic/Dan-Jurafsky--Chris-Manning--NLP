@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Home page of David Mazieres">
+<meta name="keywords" content="David,Mazieres,Mazi&egrave;res">
+<TITLE>
+David Mazi&egrave;res
+</TITLE>
+<!--
+<script type="text/javascript" src="home/tremble.js"></script>
+-->
+</HEAD>
+
+<body text="#ff0000" bgcolor="#ffffff" link="#ff0000" vlink="#ff0000" alink="#0000ff">
+
+<center>
+</center>
+
+<table border=0 cellspacing=0 cellpadding=0 align=center>
+<col width="*">
+<col width="386">
+<col width="*">
+
+<tr>
+<th colspan=3>
+<font size="+4">&quot;Professor&quot; David Mazi&egrave;res</font>
+</th>
+</tr>
+
+<tr>
+<td align=right valign=bottom height=200>
+<a href="bio.txt"><font size="+3">Bio</font></a>,
+<a href="cv.pdf"><font size="+3">Vita</font></a><br>
+<br>
+</td>
+
+<td rowspan=3>
+<img alt="Picture of the professor" width=386 height=600 src=enter.gif>
+</td>
+
+<td>
+<br>
+</td>
+</tr>
+
+
+
+<tr>
+
+<td align=right>
+<font size="+3"><a
+href="home/classes.html">Classes</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><br>
+</td>
+
+
+<td align=left valign=bottom>
+<a href="home/papers/"><font size="+3">Papers</font></a><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<!--
+<td valign=top>
+<br><br>
+<font size="+3"><a href="addr/">Email</a></font><br>
+</td>
+-->
+
+<td align=left valign=top>
+<br>
+<br>
+<!--
+<a href="home/software.html"><font size="+3">Software</font></a><br>
+-->
+<a href="addr/"><font size="+3">Email</font></a><br>
+<br>
+<br>
+<a href="home/contact.html"><font size="+3">Contact</font></a><br>
+</td>
+
+</tr>
+
+<tr>
+<td></td>
+<td align=right>
+<font color=black size=-4>Photo credit:  Lori Bode, <a
+href="http://squink.us/">Squink Industries</a></font>
+</td>
+</tr>
+
+<tr>
+<td colspan=3 align=center>
+<a href="/"><font size="+3" color=violet>Secure Computer Systems
+group</font></a>
+</td>
+</tr>
+
+</table>
+
+</BODY>
+</HTML>

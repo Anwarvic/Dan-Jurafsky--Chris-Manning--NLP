@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Eric Roberts: Home Page</title>
+</head>
+<body>
+<img src="images/EricInClass.gif">
+
+<p>
+Photo credit: Josh Barnes
+
+<h1>Eric Roberts</h1>
+
+
+Professor of Computer Science <br>
+Gates 202 <br>
+<a href="http://www.stanford.edu/">Stanford University</a> <br>
+Stanford, CA  94305-9015 <br>
+
+650-723-3642 <br>
+650-723-6092 [FAX] <p>
+
+<table border=0 cellspacing=0 cellpadding=0>
+<tr><td>Office hours for Autumn 2008-09: Tuesdays 9:30-11:30</td>
+<!--
+                     <td>Tuesdays 10:30-12:00</td></tr>
+<tr><td>&nbsp;</td>  <td>Wednesdays 3:00-4:30</td>
+--></tr>
+</table>
+
+<h4>Links:</h4>
+<ul>
+<li><a href="courses/index.html">Courses</a>
+<li><a href="books/index.html">Books</a>
+<li><a href="papers/index.html">Papers</a>
+<li><a href="talks/index.html">Talks</a>
+<li><a href="bio.html">Biographical sketch</a>
+<li><a href="cv.html"><i>Curriculum vitae</i></a> [<a href="cv.pdf">pdf</a>]
+</ul>
+
+<hr>
+
+<p>
+
+<address>Eric Roberts, <a href="mailto:eroberts@cs.stanford.edu">eroberts@cs.stanford.edu</a></address>
+
+</body>
+</html>

@@ -1,0 +1,704 @@
+</head><body bgcolor="#ffffff"  text="#000000"  link="#0000e0" vlink="551a8b" alink="ff0000">
+<title>Dawson Engler</title>
+
+<h1> Dawson Engler </h1>
+<p>
+<img src="pic2-www.jpg" height=300>
+<br>
+Associate Professor 
+<br>
+Computer Science and Electrical Engineering
+<br>
+Gates Building 3A-314
+<br>
+353 Serra Mall
+<br>
+Stanford University
+<br>
+Stanford, CA 94305-9030
+<br>
+<address>engler WHERE stanford DOM edu</address>
+
+<hr>
+
+
+<br>
+<br>
+I am a joint EE/CS associate professor.   Before that, I was an 
+irresponsible 
+<a href="http://pdos.lcs.mit.edu/~engler">graduate
+student</a> in <a href="http://www.pdos.lcs.mit.edu/~kaashoek/">
+Frans Kaashoek's</a> <a href="http://www.pdos.lcs.mit.edu/">PDOS
+group</a> at <a href="http://web.mit.edu">MIT's</a> <a
+href="http://lcs.mit.edu">Lab for Computer Science</a>, where I co-founded
+the <a href="http://www.pdos.lcs.mit.edu/exo/">exokernel operating system
+project</a>, which formed the basis of my thesis work.
+I now I have my own students, 
+who
+sometimes listen to me:
+<ul>
+<li> <a href="http://www.stanford.edu/~cristic/">Cristian Cadar</a> <br>
+<li> <a href="http://minormatter.com/zr/">Daniel Dunbar</a> <br>
+<li> <a href="http://www.stanford.edu/~pgbovine/">Philip Guo</a> <br>
+<li> <a href="http://metacomp.stanford.edu/~kremenek/">Ted Kremenek</a><br>
+<li> <a href="http://www.stanford.edu/~yjf/">Junfeng Yang</a> <br>
+</ul>
+This is our most recent paper, and one of the very best we've done in
+the past ten years:
+<ul>
+<a href="klee-osdi-2008.pdf">
+Klee: Unassisted and Automatic Generation of High-Coverage Tests for
+Complex Systems Programs.
+</a>
+Cristian Cadar, Daniel Dunbar, Dawson Engler, to appear: Operating System
+Design and Implementation (OSDI), Dec, 2008.  (Best paper award.)
+
+</ul>
+
+My research focuses on effective, automatic methods for finding
+lots of bugs in real code.  We have used three main approaches:
+system-specific static analysis, implementation-level model checking, and
+most recently, using symbolic execution to automatically generate
+high-coverage tests.
+The following papers 
+give a reasonable overview of the first two approaches (the Klee paper
+above describes that last):
+<ul>
+<li>
+eXplode: a Lightweight, General System for Finding Serious
+Storage System Errors, Junfeng Yang, Can Sar, and Dawson Engler,
+Proceedings of the 7th Symposium on Operating System Design and
+Implementation, 2006.  (<a href="explode-osdi06.ps">postscript</a>,
+<a href="explode-osdi06.pdf">PDF</a>) <br>
+<br>
+
+<li>
+Bugs as Deviant Behavior: A General Approach
+to Inferring Errors in Systems Code
+(<a href="deviant-sosp-01.ps">postscript</a>)
+(<a href="deviant-sosp-01.pdf">PDF</a>).
+Slides:  
+   <a href="sosp01-belief.ps">PS</a>,  
+   <a href="sosp01-belief.pdf">PDF</a>,  
+   <a href="sosp01-belief.ppt">PPT</a>.  
+Dawson Engler, David Yu Chen, Seth Hallem, Andy Chou, and Benjamin Chelf.
+Appeared in: Proceedings of the Eighteenth  ACM Symposium on Operating Systems Principles, 2001.<br>
+
+This paper has some of my favorite ideas, though unfortunately I can't
+say the same for the writing.  If a static checking person was going to
+read just one of our papers this should be it: I've used its ideas in
+every static checker I've built since writing it, typically more
+than once.  I've never seen a checker that could not be improved by
+using its trick of belief analysis to infer what to check or what the
+state of a checked system is based on
+what programmers seem to believe.
+<br>
+<br>
+
+<li>
+Checking System Rules Using
+        System-Specific, Programmer-Written Compiler Extensions (Best Paper)
+(<a href="mc-osdi.ps">postscript</a>)
+(<a href="mc-osdi.pdf">PDF</a>).
+Slides:
+   <a href="osdi00-talk.ps">PS</a>,  
+   <a href="osdi00-talk.pdf">PDF</a>,  
+   <a href="osdi00-talk.ppt">PPT</a>.  
+Dawson Engler, Benjamin Chelf, Andy Chou, and Seth Hallem. Appeared
+in: Proceedings of the 4th Symposium on Operating System Design and
+Implementation.<br> 
+This paper
+discusses a set of small extensions that found
+roughly 500 bugs in Linux, OpenBSD, and the Xok exokernel.  The extensions
+were usually less than 100 lines.   Our current static checking systems
+are much more powerful, but the basic approach is roughly the same.
+
+I co-founded a company, <a href="http://coverity.com">Coverity</a>,
+several years ago with three of my students
+(Seth Hallem, Andy Chou and Ben Chelf) to commercialize this static
+checking work.  Coverity has 500+ customers and 130+ employees.
+A free trial of the tool can be obtained <a
+href="http://www.coverity.com/html/free_trial.php">here</a>.
+
+</ul>
+</ul>
+
+This paper describes the main thing I did before bug finding:
+<ul>
+<li>
+<a href="sosp-95.ps">
+Exokernel: An Operating System Architecture for Application-Level Resource Management</a>,<br>
+Dawson R. Engler, M. Frans Kaashoek and James W. O'Toole<br>
+
+This paper appeared in SOSP95 (<a href="exo-sosp-talk.ps"> slides are
+available here</a>).  It is the most detailed description of
+what an exokernel is, but is rather dense.  The SOSP paper from 1997 (below)
+has real application numbers and several years of experience, plus a cool
+trick for incrementally verifying untrusted deterministic code.
+<br><br>
+</ul>
+
+
+
+<h4> Some recent talks </h4>
+<ul>
+
+<li>
+EXEcution generated Executions: Automatically generating inputs of death.
+(<a href="exe.ps">postscript</a>,
+<a href="exe.pdf">PDF</a>,
+<a href="exe.ppt">PPT</a>).    A 30 minute talk on our latest project:
+automatically generating concrete inputs that blow up real code.<br>
+
+<li>
+Weird things that surprise academics trying to commercialize
+a static checking tool.
+(<a href="spin05-coverity.ps">postscript</a>,
+<a href="spin05-coverity.pdf">PDF</a>,
+<a href="spin05-coverity.ppt">PPT</a>).    This is part of
+an invited talk at SPIN05 and CONCUR05.<br>
+
+<li>
+Using model checking and execution generated tests to find bugs in 
+real code
+(<a href="usenix-security05.ps">postscript</a>,
+<a href="usenix-security05.pdf">PDF</a>,
+<a href="usenix-security05.ppt">PPT</a>).  
+  Invited talk, Usenix Security 2005.<br>
+
+<li>
+Static analysis versus model checking for bug finding
+(<a href="softmc03-talk.ps">postscript</a>,
+<a href="softmc03-talk.pdf">PDF</a>,
+<a href="softmc03-talk.ppt">PPT</a>).  
+  Keynote, SoftMC 2003.<br>
+
+<li>
+Finding bugs with system-specific static analysis
+(<a href="paste02-talk.ps">postscript</a>,
+<a href="paste02-talk.pdf">PDF</a>,
+<a href="paste02-talk.ppt">PPT</a>).  Keynote, PASTE 2002.<br>
+
+
+<li>
+How to find lots of bugs with system-specific static analysis.
+(<a href="suny-distinguished-lecture.ps">postscript</a>,
+<a href="suny-distinguished-lecture.pdf">PDF</a>,
+<a href="suny-distinguished-lecture.ppt">PPT</a>).  Distinguished lecture, SUNY Stonybrook, 2001.<br>
+</ul>
+
+Below are the rest of our papers...
+
+<h4> Automatic generation of high-coverage tests. </h4>
+<ul>
+<li>
+Under-constrained execution: making automatic code destruction easy and
+scalable,
+Dawson Engler and Daniel Dunbar,
+International Symposium on Software Testing and Analysis (ISSTA),
+2007.
+(<a href="issta07v-engler.pdf">PDF</a>)
+<br>
+<br>
+
+
+<li>
+EXE: Automatically Generating Inputs of Death, 
+(<a href="exe-ccs-06.ps">postscript</a>)
+(<a href="exe-ccs-06.pdf">PDF</a>)
+Cristian Cadar,
+Vijay Ganesh,
+Peter M. Pawlowski,
+David L. Dill,
+Dawson R. Engler, 13th ACM Conference on Computer and Communications Security, 2006.
+<br>
+<br>
+
+<li>
+Automatically generating malicious disks using symbolic execution,
+Junfeng Yang, Can Sar, Paul Twohey, Cristian Cadar, and Dawson Engler.
+(<a href="sp-ieee-06.pdf">PDF</a>) (<a href="sp-ieee-06.ps">postscript</a>),
+IEEE Security and Privacy, 2006.
+This paper uses a system we built, EXE, to automatically generate disk
+images of death that, when mounted, will cause a file system to crash.
+Many systems now let untrusted users mount files as file systems, which
+opens them up to all sorts of exploits, given the somewhat erratic input
+checking done by current file system code.  <br>
+<br>
+
+<li>
+Automatic test case generation by executing code on symbolic inputs.
+A technical report containing our SOSP05 submission gives preliminary
+results: Execution generated test cases: how to make systems code crash
+itself, CSTR-2005-04 (<a href="cstr-3.25.5.pdf">pdf</a>).  The trick
+is simple and cute.  A shortened version appeared as an invited paper
+in SPIN05 (<a href="spin05.pdf">pdf</a>).  The two EXE papers given above
+are probably better to read.
+</ul>
+
+<h4> Software model checking </h4>
+<ul>
+
+<li>
+Using Model Checking to Find Serious File System Errors  (Best Paper)
+(<a href="osdi04-fisc.ps">postscript</a>)
+(<a href="osdi04-fisc.pdf">PDF</a>),
+<br>
+Junfeng Yang, Paul Twohey, Dawson Engler, and
+Madanlal Musuvathi, Operating System Design and Implementation (OSDI) 2004.  
+<br>
+Describes FiSC,  a file system model checking tool.  We applied it to
+three widely-used, heavily-tested file systems: ext3, JFS, and ReiserFS.
+We found serious bugs in all of them, 32 in total.  Most have led to
+patches within a day of diagnosis.  For each file system, FiSC found
+demonstrable events leading to the unrecoverable destruction of metadata
+and entire directories, including the file system root directory ``/''.
+The actual bugs we found are
+<a href="http://keeda.stanford.edu/~junfeng/osdi-fisc-bugs.html">here</a>.
+<br>
+
+
+<li>
+Model-checking large network protocol implementations
+(<a href="nsdi04.ps">postscript</a>)
+(<a href="nsdi04.pdf">PDF</a>),
+Dawson Engler and
+Madanlal Musuvathi.  Proceedings of the First Conference
+on Network System Design and Implementation (NSDI), 2004.  
+Describes the challenges
+in model checking
+50K lines of TCP code.  One of the surprising
+results was that it was easier to run the entire Linux kernel in Madan's
+CMC model checker than extract out TCP in a stand-alone version.<br>
+<br>
+
+<li>
+Static analysis versus software model checking for bug finding
+(<a href="engler-vmcai04.ps">postscript</a>)
+(<a href="engler-vmcai04.pdf">PDF</a>).  Extended version with better
+formatting: 
+(<a href="engler-vmcai04-extended.ps">postscript</a>)
+(<a href="engler-vmcai04-extended.pdf">PDF</a>), <br>
+Dawson Engler and
+Madanlal Musuvathi.<br>
+Invited paper for VMCAI04.  It describes some of our experiences finding
+bugs with both model checking and static analysis, including some of
+the less pleasant aspects of both. Slides are available:  
+<a href="vmcai04-talk.ps">postscript</a>,
+<a href="vmcai04-talk.pdf">PDF</a>,
+<a href="vmcai04-talk.ppt">PPT</a>.  
+<br>
+
+<br>
+The paper is a reworked version of a invited paper for the SoftMC 
+2003 workshop:
+"Some lessons from using static analysis and software model checking for bug finding"
+(<a href="softmc03.ps">postscript</a>)
+(<a href="softmc03.pdf">PDF</a>), Madanlal Musuvathi and Dawson R. Engler. 
+The writing could be better, but some of the tables are reasonable.
+<br>
+Slides are available:  
+<a href="softmc03-talk.ps">postscript</a>,
+<a href="softmc03-talk.pdf">PDF</a>,
+<a href="softmc03-talk.ppt">PPT</a>.  
+<br><br>
+
+<li>
+CMC: A pragmatic approach to model checking real code
+(<a href="osdi2002.ps">postscript</a>)
+(<a href="osdi2002.pdf">PDF</a>)
+, <br>
+Madanlal Musuvathi, David Y.W. Park, Andy Chou, Dawson R. Engler,
+David L. Dill.  <br> Appeared in OSDI 2002.  A model checker that can
+check C code directly,
+dispensing with the need to write a specification.  We applied it
+to three
+different AODV routing protocol implementations, where it found roughly
+one bug per 300 lines of code.<br><br>
+
+<li>
+A Simple Method for Extracting Models from Protocol Code
+(<a href="isca-2001.ps">postscript</a>)
+(<a href="isca-2001.pdf">PDF</a>)
+,<br>
+David Lie, Andy Chou, Dawson Engler, and David Dill<br> Appeared
+in ISCA 2001. It
+shows how to check deeper properties than possible with static analysis
+by
+using 
+MC to automatically extract specifications (models) from actual C code and then running these models through a formal verifier.
+<br><br>
+</ul>
+
+<h4> Using Statistical Analysis for Bug Finding </h4>
+
+<ul>
+<li>
+From Uncertainty to Belief: Inferring the
+  Specification Within,
+Ted Kremenek, Paul Twohey, Godmar Back, Andrew Ng, Dawson Engler,
+Proceedings of the 7th Symposium on Operating System Design and
+Implementation, 2006.
+(<a href="osdi2006-inference.pdf">PDF</a>)
+<br> 
+
+<li>
+Correlation Exploitation in Error Ranking
+(<a href="fse2004-feedbackrank.ps">postscript</a>)
+(<a href="fse2004-feedbackrank.pdf">PDF</a>)
+,<br>
+Ted Kremenek, Ken Ashcraft, Junfeng Yang and Dawson Engler.  To appear:
+Foundations of Software Engineering (FSE) 2004.  This paper demonstrates a
+error ranking scheme that uses machine learning to 
+reduce the observed
+false positive rate from 2 to 8 times as compared to random ranking.
+It exploits the fact that both true error and false positives cluster.
+I.e., given a group of related error messages, if one is a true error
+it is likely that the others are bugs as well. Similarly, if one is a
+false positive, it is likely the others are false positives as well.
+<br> <br>
+
+<li>
+Z-Ranking: Using Statistical Analysis to Counter the Impact of 
+Static Analysis Approximations
+(<a href="sas-camera-ready.ps">postscript</a>)
+(<a href="sas-camera-ready.pdf">PDF</a>)
+,<br>
+Ted Kremenek and Dawson Engler.  Appeared in SAS 2003.  A simple
+technique for detecting when static analysis makes a mistake. 
+The basic
+intuition: the most trustworthy analysis decisions are those
+that lead to many successful checks and relatively few errors.  Analysis
+mistakes tend to flag many errors and have few successful checks.
+<br> <br>
+
+</ul>
+
+<h4> (Reasonably) generic static analysis for bug finding </h4>
+
+<ul>
+
+<li>
+MECA: an Extensible, Expressive System and Language for Statically Checking Security Properties (<a href="ccs03-meca.pdf">PDF</a>)
+<br>
+Junfeng Yang, Ted Kremenek, Yichen Xie, and Dawson Engler.  Proceedings of
+the 10th ACM conference on Computer and communication security (ACM CCS),
+2003.  Flexible annotations plus methods for propagating them in a way
+that does not require much manual labor nor kill you with false positives.
+<br><br>
+
+<li>
+RacerX: Effective, Static Detection of Race Conditions and Deadlocks
+(<a href="racerx-sosp03.ps">postscript</a>)
+(<a href="racerx-sosp03.pdf">PDF</a>)
+<br>
+Dawson Engler and Ken Ashcraft.  Appeared in SOSP 2003.  Has about 20 tricks
+or so (unlockset analysis is the coolest) to help find racers and deadlocks.
+Slides are available:  
+   <a href="sosp03-racerx.ps">PS</a>,  
+   <a href="sosp03-racerx.pdf">PDF</a>,  
+   <a href="sosp03-racerx.ppt">PPT</a>.  
+<br><br>
+
+<li>
+ARCHER: Using Symbolic, Path-sensitive Analysis to Detect Memory Access Errors
+(<a href="p150-xie.ps">postscript</a>)
+(<a href="p150-xie.pdf">PDF</a>)
+<br>
+Yichen Xie, Andy Chou, and Dawson Engler.
+To appear in FSE 2003.   
+<br><br>
+
+<li>
+Using Redundancies to Find Errors (Award Paper)
+(<a href="tse-redundant.ps">postscript</a>)
+(<a href="tse-redundant.pdf">PDF</a>)
+<br>
+Yichen Xie and Dawson Engler<br> To appear in TSE.  Finds funny bugs by
+looking for redundant operations (dead code, unused assignments, etc.).
+From empirical measurements, code with such redundant errors is 50-100%
+more likely to have hard errors.  Also describes how to check for
+redundancies to find holes in specifications.
+<br><br>
+It is an expanded version of an identically titled award 
+paper
+(<a href="p401-xie.ps">postscript</a>)
+(<a href="p401-xie.pdf">PDF</a>)  that appeared in Foundations of
+Software Engineering (FSE) 2002.
+<br>
+<br>
+
+<li>
+An Empirical Study of Operating Systems Errors
+(<a href="metrics-sosp-01.ps">postscript</a>)
+(<a href="metrics-sosp-01.pdf">PDF</a>)
+,<br>
+Andy Chou, Junfeng Yang, Benjamin Chelf, Seth Hallem, and Dawson Engler<br>
+Appeared in SOSP 01. 
+<br>
+<br>
+
+</ul>
+
+
+<h4> Metacompilation (MC) </h4>
+
+<ul>
+
+<li>
+A System and Language for Building System-Specific, Static Analyses
+(<a href="p27-hallem.ps">postscript</a>)
+(<a href="p27-hallem.pdf">PDF</a>),<br>
+Seth Hallem, Benjamin Chelf, Yichen Xie, and Dawson Engler<br>
+Appeared in PLDI 2002.
+The best description of our MC system.  Focuses on 
+interprocedural analysis, ranking, and simple path sensitivity 
+to suppress false paths.  
+<br><br>
+
+
+
+<li>
+Using Programmer-Written Compiler Extensions to Catch Security Holes
+(<a href="sp-ieee-02.ps">postscript</a>)
+(<a href="sp-ieee-02.pdf">PDF</a>)
+<br>
+Ken Ashcraft and Dawson Engler<br>
+Appeared in IEEE Security and Privacy 2002.  Uses metacompilation
+extensions to find over 100 security holes in Linux and BSD.
+<br><br>
+
+<li>
+How to Write System-specific, Static Checkers in Metal
+(<a href="paste02.ps">postscript</a>)
+(<a href="paste02.pdf">PDF</a>),<br>
+Benjamin Chelf, Seth Hallem, and Dawson Engler<br>
+Invited paper for PASTE'02.
+A simple tutorial on writing extensions.  Does not introduce new
+ideas, but gives concrete examples that helps understand some of
+the previous papers.
+<br><br>
+
+
+
+<li>
+Using Meta-level Compilation to Check FLASH Protocol Code
+(<a href="mc-asplos.ps">postscript</a>)
+(<a href="mc-asplos.pdf">PDF</a>)
+,<br>
+Andy Chou, Benjamin Chelf, Dawson Engler, and Mark Heinrich<br>
+This paper appeared in ASPLOS 2000.
+It is a case study of using MC to check the Stanford FLASH machine's
+embedded cache coherence protocol code. 
+<br><br>
+
+<li>
+<a href="tse-magik.ps">
+Interface Compilation: Steps toward Compiling Program Interfaces as
+Languages,</a><br>by Dawson R. Engler<br>
+
+This paper appeared in Transactions on Software Engineering.
+It proposes and explores the metaphor of metacompilation, and
+provides the beginnings of a programming methodology for exploiting it.
+It is a more developed version of the paper below.<br><br>
+
+<li>
+<a href = "magik.ps"> 
+Incorporating application semantics and control into compilation,
+</a><br> by Dawson R. Engler<br>
+This paper appeared in the First Conference on Domain-specific Languages
+in 1997.  
+It contains much of the ideology that drove the later 
+MC work.
+For an abstract, click <a href="magik-abstract.html">here</a>.
+
+</ul>
+
+<h4> Exokernel Papers </h4>
+
+<ul>
+
+<li>
+<a href="sosp-95.ps">
+Exokernel: An Operating System Architecture for Application-Level Resource Management</a>,<br>
+Dawson R. Engler, M. Frans Kaashoek and James W. O'Toole<br>
+
+This paper appeared in SOSP95 (<a href="exo-sosp-talk.ps"> slides are
+available here</a>).  It is the most detailed description of
+what an exokernel is, but is rather dense. 
+A more long-winded version of this paper is available in the form of
+<a href="msthesis.ps"> my masters thesis </a> (though the material is
+about 6 months behind that in the SOSP paper). 
+
+<br>
+<br>
+
+<li>
+<a href="exo-tocs.pdf"> Fast and flexible application-level networking on exokernel systems</a>,<br>
+by Gregory R. Ganger, Dawson R. Engler, M. Frans
+Kaashoek, Hector Brice~no, Russell Hunt, Thomas Pinckney.  Appeared 
+in TOCS 20(1): 49-83 (2002)<br><br>
+
+<li>
+<a href="sosp-97.ps">
+Application Performance and Flexibility on Exokernel Systems</a>,<br>
+  M. Frans Kaashoek, Dawson R. Engler, Gregory R. Ganger,
+  H'ector M. Brice~no, Russell Hunt, David Mazi`eres, Thomas Pinckney,
+  Robert Grimm, John Jannotti, and Kenneth Mackenzie,
+  Proceedings of the Fifteenth ACM Symposium on
+  Operating Systems Principles (SOSP).  October, 1997. <br><br>
+
+This paper validates the earlier SOSP paper, which was big on religion
+and microbenchmarks and a bit light on application numbers.
+It also has a cool use of deterministic Turing machines that lets an
+exokernel trust applications to track what they own without understanding
+how they do so.  Slides are available <a href="sosp97-talk.ps">
+here</a>. <br><br>
+
+<li>
+<a href="hotos-jeremiad.ps">
+Exterminate All Operating System Abstractions</a>,<br>
+Dawson R. Engler and M. Frans Kaashoek<br>
+
+This is a flamy paper describing the philosophical underpinnings of the
+exokernel approach.  It appeared in HotOS-V<br>
+
+</ul>
+
+
+<h4> Dynamic code generation Papers </h4>
+
+The following papers discuss several dynamic code generation systems.<br><br>
+
+<ul>
+
+<li>
+<a href="derive-usenix01.pdf">
+     Reverse-Engineering Instruction Encodings</a><br>
+      by Wilson C. Hsieh, Dawson R. Engler, and Godmar Back.  This paper
+      appeared in the proceedings of the 2001 USENIX Annual Technical
+      Conference. It uses a cool trick to automatically extract
+      instruction encodings from a system assembler.  It's genesis was
+	the fact that writing a binary encoder for the x86 is an
+	unredeemably disgusting experience.<br><br>
+
+<li>
+<a href="vcode-pldi.ps">
+vcode: a retargetable, extensible, very fast dynamic code generation system</a>,<br> 
+by Dawson R. Engler<br>
+
+
+<a href="http://www.pdos.lcs.mit.edu/~engler/pldi96-abstract.html">This paper 
+appeared in PLDI '96.</a> Slides are available <a href="vcode-pldi-talk.ps">
+here </a>.  <br>
+
+vcode is a portable system to generate executable code at runtime.  It
+generates code in approximately 10 instructions per generated instruction,
+and is easily extendible by clients.   A tutorial describing it can be
+obtained by clicking <a href="vcode-tutorial.ps">here</a>.  
+A beta version of the system is also <a href="latest-vcode-release.tar.Z"> 
+available</a>.
+To get on the vcode mailing list, please email engler@lcs.mit.edu.
+<a href="http://www.pdos.lcs.mit.edu/~engler/pldi96-abstract.html">Click
+here for a bit more information.</a><br><br> <br>
+
+<li>
+<a href="tickc.pdf">
+`C and tcc: A Language and Compiler for Dynamic Code Generation
+</a>,<br>
+by Massimiliano Poletto, Wilson C. Hsieh, Dawson Engler, and M. Frans Kaashoek.<br>
+This paper appeared in ACM Transactions on Programming Languages and Systems, 21(2), March 1999.  Reprinted in  Taha, W. and T. Sheard: 1997, `Multi-Stage Programming with Explicit Annotations'. in (ACM, 1997), pp. 203--217.
+<br>
+
+<li>
+<a href="pldi-tickc.ps">
+`C: A Language for High-Level, Efficient, and Machine-independent<br>
+Dynamic Code Generation</a>,<br>
+by Dawson R. Engler, Wilson C. Hsieh and M. Frans Kaashoek.<br>
+This paper appeared in POPL 1996.  Slides are available 
+<a href="tickc-popl-talk.ps"> here</a>. <br>
+
+<li>
+<a href="tickc-pldi-submit.ps">
+tcc: A System for Fast, Flexible, and High-level Dynamic Code Generation</a><br>
+by Massimiliano Poletto, Dawson R. Engler and M. Frans Kaashoek.<br>
+This paper appeared in PLDI 1997. A preliminary release of the tcc
+compiler can be obtained from 
+<a href="http://www.pdos.lcs.mit.edu/tickc/">the tickc homepage</a>.<br>
+
+<li>
+<a href="wcsss.ps">
+tcc: A Template-Based Compiler for `C</a><br>
+by Massimiliano Poletto, Dawson R. Engler and M. Frans Kaashoek.<br>
+This paper appeared in WCSSS 1996.  A preliminary release of the tcc
+compiler can be obtained from
+<a href="http://www.pdos.lcs.mit.edu/tickc/">the tickc homepage</a>.<br><br>
+
+<li>
+<a href="dcg.ps">
+DCG: An Efficient, Retargetable Dynamic Code Generator</a>,<br> 
+
+by Dawson R. Engler and Todd A. Proebsting.<br>
+This paper appeared in ASPLOS 94 (<a href="dcg-asplos-talk.ps">
+click here for slides</a>). The system it describes
+has been superseded by <a href="pldi96-abstract.html"> vcode</a>.<br>
+
+</ul>
+
+<h4> Networking papers </h4>
+
+The following three papers discuss a network
+system built on top of the exokernel.<br><br>
+
+<ul>
+<li>
+<a href="sigcomm96.ps">
+ASHs:  Application-specific handlers for high-performance messaging</a>,<br>
+by
+<a href="http://www.pdos.lcs.mit.edu/~kerr/">
+Deborah A. Wallach</a>,
+<a href="http://www.pdos.lcs.mit.edu/~engler/">
+Dawson R. Engler</a>,
+and <a href="http://www.pdos.lcs.mit.edu/~kaashoek/">
+M. Frans Kaashoek</a>. <br>
+
+The paper appeared in 
+<a href="http://www.acm.org/sigcomm/sigcomm96/index.html">
+ACM Communication Architectures, Protocols, and Applications (SIGCOMM '96)</a>.
+Portions of its implementation are more thoroughly explored in:
+<br>
+
+<li>
+<a href="ash-osdi.ps">
+Design and Implementation of a Modular, Flexible, and Fast System for
+Dynamic Protocol Composition</a>,
+by
+<a href="http://www.pdos.lcs.mit.edu/~engler/">
+Dawson R. Engler</a>,
+<a href="http://www.pdos.lcs.mit.edu/~kerr/">
+Deborah A. Wallach</a>,
+and <a href="http://www.pdos.lcs.mit.edu/~kaashoek/">
+M. Frans Kaashoek</a>.  <br><br>
+
+<li>
+<a href="dpf-sigcomm96.ps">
+DPF: Fast, Flexible Message Demultiplexing using Dynamic Code Generation</a>,<br>
+by
+<a href="http://www.pdos.lcs.mit.edu/~engler/">
+Dawson R. Engler</a>
+and <a href="http://www.pdos.lcs.mit.edu/~kaashoek/">
+M. Frans Kaashoek</a>. <br>
+
+The paper appeared in 
+<a href="http://www.acm.org/sigcomm/sigcomm96/index.html">
+ACM Communication Architectures, Protocols, and Applications (SIGCOMM '96)</a>. 
+Slides from the talk are available <a href="dpf-talk.ps"> here</a>. 
+A beta release of the system is available <a href="dpf.tar.gz"> here</a>.
+DPF is described more fully 
+<a href="dpf.html"> here</a>.
+<br>
+<br>
+
+<a href="246.ps"></a>.
+
+<address>engler WHERE stanford DOM edu</address>

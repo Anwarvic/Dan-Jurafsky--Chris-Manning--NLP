@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Personal webpage" />
+	<meta name="keywords" content="Christos, Christoforos, Kozyrakis, Stanford,
+EE, CS" />
+	<meta name="author" content="Christos Kozyrakis" />
+	<link rel="stylesheet" type="text/css" href="christos.css" title="christos" media="screen,projection" />
+	<title>Christos (Christoforos) Kozyrakis </title>
+</head>
+
+<body>
+<div id="container" >
+	<div id="header">
+		<h1>Christos Kozyrakis</h1>
+		<h2>Assistant Professor, EE & CS, Stanford University</h2>
+	</div>
+
+	<div id="navigation">
+		<ul>
+			<li class="selected"><a href="index.html">Home</a></li>
+			<li><a href="research.html">Research</a></li>
+			<li><a href="teaching.html">Teaching</a></li>
+			<li><a href="papers.html">Publications</a></li>
+			<li><a href="software.html">Software</a></li>
+			<li><a href="students.html">Students</a></li>
+			<li><a href="links.html">Fun</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	</div>
+
+	<div id="content">
+<p> Christos Kozyrakis is an Assistant Professor of Electrical
+	  Engineering & Computer Science at <a href="http://www.stanford.edu" >Stanford University</a>. He
+	  works on architectures, runtime environments, and
+	  programming models for parallel computer systems. His
+	  current research focuses on transactional memory,
+	  architectural support for security, and power management
+	  techniques. He joined Stanford in 2002 after receiving a PhD
+	  in Computer Science from <a href="http://www.berkeley.edu" >UC Berkeley</a>. His alma mater is the
+	  <a href="http://www.uoc.gr" >University of Crete</a> in Greece. Christos' first name in full
+	  is "Christoforos"...</p>
+
+	  
+	  <h4>News and Updates</h4>
+
+	  <ul>
+	    <li>My elusive research and teaching <a href="summary.pdf" >summary</a>. </li>
+            <li>I was the program co-chair for the <a href="http://www.hotchips.org/hc20/main_page.htm" >20th Hot Chips Symposium</a>. </li>
+            <li> My talk on the <a href="publications/2008.case4htm.slides.pdf">Case for Hardware Support for Transactional Memory</a>. </li>
+	    <li> My notes on future directions for transactional memory research from panels at the <a href="publications/2007.htm_panel.transact.pdf" >Transact 2007 workshop</a>, the <a href="publications/2007.tmfuture.msrsummit.pdf" >2007 MSR Faculty Summit</a>, and the <a href="publications/2007.tm_panel.pp0pp07.slides.pdf" >PPoPP'07 conference</a>.  </li>
+	    <li>A good <a
+	    href="publications/2006.unlocking_concurrency.queue.pdf"
+	    >introduction to transactional memory</a> and the TM
+	    tutorial slides from the <a
+	    href="publications/2008.tm_tutorial.acaces.pdf">ACACES'08</a>
+	    summer school and the
+	    <a href="publications/2007.tm_tutorial.pact.pdf" >PACT'07</a> conference. </li>
+<li>A somewhat dated <a href="publications/tcc_overview.jan07.pdf" >overview</a> of the TCC project.  </li>
+<li>The <a href="http://csl.stanford.edu/%7Echristos/sw/phoenix" >Phoenix</a> system for MapReduce programming in multi-core systems. </li>
+<li>My version of the <a href="publications/BadCareer.pdf" >How to Have Bad Career as a Grad Student</a> talk. Check out the <a href="http://www.cs.berkeley.edu/~pattrsn/talks/nontech.html" >original</a> too.  </li>
+<li>If you are a student interested in working with me, read <a href="new_students.html" >this</a> first. </li>
+	    </ul>
+
+	  
+
+	</div>
+
+	<div id="subcontent">
+		<div class="small box">
+		  <p align="center"> <img src="pics/christos1.jpg" width=150></p>
+		 <!--	<strong>Note: </strong>This is a box. It can
+		be used for special messages both in the sidebar and
+		the content section. You could use it for special
+		notes and announcements, but also as a frame for
+		photos. This space can be used for a short website
+		presentation! -->
+		</div>
+
+
+		<h4>Useful Links</h4>
+<font size="-1">
+		<ul class="menublock">
+			<li><a
+		href="http://ee.stanford.edu">Electrical Engineering</a></li>
+			<li><a href="http://cs.stanford.edu">Computer
+		Science</a></li>
+			<li><a href="http://csl.stanford.edu">Computer
+		Systems Lab </a></li>
+			<li><a
+		href="http://ppl.stanford.edu">Pervasive Parallelism Lab</a></li>
+	<li><a
+		href="http://www.stanford.edu">Stanford
+		University</a></li>
+	      	<li><a
+		href="http://kastri.stanford.edu/wiki">Christos' Wiki</a></li>	</ul>
+</font>
+	
+	</div>
+
+	<div id="footer">
+		<p>&copy; 2008 Christos Kozyrakis | Original design by Andreas Viklund</p>
+	</div>
+
+	</div>
+</body>
+</html>

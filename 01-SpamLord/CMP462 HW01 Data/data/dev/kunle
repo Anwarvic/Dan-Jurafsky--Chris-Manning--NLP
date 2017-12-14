@@ -1,0 +1,361 @@
+<HTML>
+<HEAD>
+    <TITLE>Kunle's Homepage</TITLE>
+</HEAD>
+<BODY>
+<P><CENTER><IMG SRC="images/0105wsunf1.jpg" WIDTH="400" HEIGHT="506"
+ALIGN=bottom NATURALSIZEFLAG=
+"2" BORDER="2"></CENTER>
+<H1><CENTER>Kunle Olukotun</CENTER>
+</H1>
+<H1></H1>
+<H3><CENTER>Professor<BR>
+Department <A HREF="http://www-ee.stanford.edu/">Electrical
+Engineering</A>
+and <A HREF="http://www-cs.stanford.edu/">Computer Science</A><BR>
+<A HREF="http://www.stanford.edu/">Stanford University</A></CENTER>
+</H3>
+<H3><CENTER>Director<BR>
+<A HREF="http://ppl.stanford.edu/">Pervasive Parallelism Laboratory</A>
+</CENTER>
+</H3>
+<HR>
+<H2>Contact Information</H2>
+Office: Gates Hall 3A, Room 302<BR>
+ Phone:  (650) 725-3713<BR>
+ Fax:    (650) 725-6949<BR>
+ Email:  <A
+HREF="mailto:kunle@ogun.stanford.edu">kunle@ogun.stanford.edu</A><BR>
+<BR>
+
+Address: 
+<DL>
+<DD>Department of Electrical Engineering
+<DD>Stanford University
+<DD>Gates Hall 3A, Room 302
+<DD>Stanford, CA  94305-9030 USA
+</DL>
+
+Assistant: 
+<DL>
+<DD>Darlene Hadding
+<DD>Administrative Associate for Professor Kunle Olukotun
+<DD>Gates 4A-408, M/C 9040
+<DD>Phone: (650) 723-1430
+<DD>Fax: (650) 725-6949
+<DD><A
+HREF="mailto:darlene@csl.stanford.edu">darlene@csl.stanford.edu</A>
+</DL>
+
+Office hours:
+<DL>
+<DD>Please contact Darlene Hadding for the office hours for the current
+quarter.
+</DL>
+
+<HR>
+<H2>Research Interests</H2>
+
+I am interested in the design, performance analysis and verification
+of computers. Currently, I am leading the <A
+HREF="http://www-hydra.stanford.edu/">Hydra</A> single chip
+multiprocessor project and the <A
+HREF="http://tcc.stanford.edu">TCC</A> Transactional Coherence and
+Consistency project. I am also developing novel simulation, estimation
+and verification techniques for <A
+HREF="http://getafix.stanford.edu/cad/">system-level design</A>.
+
+<HR>
+<H2>Short Bio</H2>
+Kunle Olukotun is a Professor of Electrical Engineering and Computer
+Science at Stanford University and he has been on the faculty since
+1991.
+Olukotun is well known for leading the Stanford Hydra research project
+which developed one of the first chip multiprocessors with support for
+thread-level speculation (TLS). Olukotun founded Afara Websystems to
+develop high-throughput, low power server systems with chip
+multiprocessor technology. Afara was acquired by Sun Microsystems; the
+Afara microprocessor technology, called Niagara, is at the center of
+Sun's throughput computing initiative. Niagara based systems have
+become one of Sun's fastest ramping products ever. Olukotun is actively
+involved in research in computer architecture, parallel programming
+environments and scalable parallel systems. Olukotun currently co-leads
+the Transactional Coherence and Consistency project whose goal is to
+make parallel programming accessible to average programmers. Olukotun
+also directs the Stanford Pervasive Parallelism Lab (PPL) which seeks
+to proliferate the use of parallelism in all application areas.
+Olukotun is an ACM Fellow (2006) for contributions to multiprocessors
+on a chip and multi threaded processor design. He has authored many
+papers on CMP design and parallel software and recently completed a
+book on CMP architecture. Olukotun received his Ph.D. in Computer
+Engineering from The University of Michigan.
+<HR>
+<H2>Courses</H2>
+<UL>
+<LI><A HREF="http://cs315a.stanford.edu">CS315a Parallel Computer
+Architecture and Programming</A>
+<LI><A HREF="http://ee108b.stanford.edu/">EE108b Digital Systems II</A>
+<LI><A HREF="http://ee109.stanford.edu">EE109 Digital Design Lab</A>
+</UL>
+
+<HR>
+<H2>Current Students</H2>
+<UL>
+<LI><A HREF="http://www.stanford.edu/~nbronson/">Nathan Bronson</A>
+<LI><A HREF="http://carlstrom.com">Brian D. Carlstrom</A>
+<LI><A HREF="http://www.stanford.edu/~jaredc/">Jared A. Casper</A>
+<LI><A HREF="http://www.stanford.edu/~hchafi/">Hassan Chafi</A>
+<LI><A HREF="http://www.stanford.edu/~elektrik/">Ben Hertzberg</A>
+<LI><A HREF="http://www.stanford.edu/~skkim38/">Sang Kyun Kim</A>
+<LI><A HREF="http://www.stanford.edu/~njoroge/">Njuguna Njoroge</A>
+<LI><A HREF="http://www.stanford.edu/~tayo/">Tayo Oguntebi</A>
+<LI><A HREF="http://www.stanford.edu/~bschumit/">Brad Schumitsch</A>
+</UL>
+
+<HR>
+<H2>Selected Publications</H2>
+
+<H3>Chip Multiprocessors (CMPs)</H3>
+<UL>
+<LI><A HREF="publications/queue05.pdf">The Future of
+Microprocessors</A><BR>
+Kunle Olukotun and Lance Hammond<BR>
+ACM QUEUE Magazine, September 2005.
+<LI><A HREF="publications/hydra_Computer97.pdf">A Single-Chip
+Multiprocessor</A><BR>
+Lance Hammond, Basem A. Nayfeh  and Kunle Olukotun<BR>
+IEEE Computer Special Issue on "Billion-Transistor Processors",
+September 1997.<BR>
+<LI><A HREF="publications/hydra_ASPLOS_VII.pdf">The Case for a
+Single-Chip Multiprocessor</A><BR>
+Kunle Olukotun, Basem A. Nayfeh , Lance Hammond, Ken Wilson and
+Kun-Yung Chang<BR>
+Proceedings of the Seventh International Symposium on
+Architectural Support for Parallel Languages and Operating
+Systems, October 1996.<BR>
+</UL>
+
+
+<H3>Transactional Coherence and Consistency (TCC)</H3>
+<UL>
+<LI>Tradeoffs in Transactional Memory Virtualizations
+<BR>
+JaeWoong Chung, Chi Cao Minh, Austen McDonald, Hassan Chafi, Brian D.
+Carlstrom, Travis Skare, Christos Kozyrakis and Kunle Olukotun
+<BR>
+To appear in the Proceedings of the Eleventh International Conference
+on Architectural Support for Programming Languages and Operating
+Systems, San Jose, California, 21-25 October 2006.
+<LI><A HREF="publications/tcc_isca2006.pdf">
+Architectural Semantics for Practical Transactional Memory
+</A>
+<BR>
+Austen McDonald, JaeWoong Chung, Brian D. Carlstrom, Chi Cao Minh,
+Hassan Chafi, Christos Kozyrakis, Kunle Olukotun
+<BR>
+Proceedings of the 33rd Annual International Symposium on Computer
+Architecture, Boston, Massachusetts, June 17-21, 2006.
+<LI><A HREF="publications/tcc_pldi2006.pdf">
+The Atomos Transactional Programming Language
+</A>
+<BR>
+Brian D. Carlstrom, Austen McDonald, Hassan Chafi, JaeWoong Chung, Chi
+Cao Minh, Christos Kozyrakis, Kunle Olukotun
+<BR>
+&copy; ACM, (2006). This is the author's version of the work. It is
+posted here by permission of ACM for your personal use. Not for
+redistribution. The definitive version was published in the
+Proceedings of the ACM SIGPLAN 2006 Conference on Programming Language
+Design and Implementation, Ottawa, Canada, June 12, 2006.<BR>
+<LI><A HREF="publications/tcc_stmcs2006.pdf">
+The Software Stack for Transactional Memory: Challenges and
+Opportunities
+</A>
+<BR>
+Brian D. Carlstrom, JaeWoong Chung, Christos Kozyrakis, Kunle Olukotun
+<BR>
+First Workshop on Software Tools for Multi-Core Systems, Manhattan, New
+York, NY, 26 March 2006.
+<LI><A HREF="publications/tcc_hpca2006.pdf">
+The Common Case Transactional Behavior of Multithreaded Programs
+</A>
+<BR>
+JaeWoong Chung, Hassan Chafi, Chi Cao Minh, Austen McDonald, Brian D.
+Carlstrom, Christos Kozyrakis, and Kunle Olukotun
+<BR>
+12th International Symposium on High Performance Computer Architecture
+(HPCA), Austin, Texas, USA, 11-15 February 2006. 
+<LI><A HREF="publications/tcc_scool05.pdf">
+Transactional Execution of Java Programs
+</A>
+<BR>
+Brian D. Carlstrom, JaeWoong Chung, Hassan Chafi,
+Austen McDonald, Chi Cao Minh, Lance Hammond,
+Christos Kozyrakis, and Kunle Olukotun
+<BR>
+OOPSLA 2005 Workshop on Synchronization and Concurrency in
+Object-Oriented Languages (SCOOL), San Diego, California, USA, October
+16, 2005.
+<LI><A HREF="publications/tcc_pact2005.pdf">
+Characterization of TCC on Chip-Multiprocessors
+</A>
+<BR>
+Austen McDonald, JaeWoong Chung, Hassan Chafi, Chi Cao Minh, Brian D.
+Carlstrom, Lance Hammond, Christos Kozyrakis, and Kunle Olukotun
+<BR>
+The Fourteenth International Conference on
+Parallel Architectures and Compilation Techniques,
+Saint Louis, Missouri, September 19, 2005.
+<LI><A HREF="publications/tcc_ics2005.pdf">
+TAPE: A Transactional Application Profiling Environment
+</A>
+<BR>
+Hassan Chafi, Chi Cao Minh, Austen McDonald, Brian D. Carlstrom,
+JaeWoong Chung, Lance Hammond, Christos Kozyrakis, Kunle Olukotun
+<BR>
+The 19th ACM International Conference on Supercomputing,
+Cambridge, MA, Sunday, June 20, 2005.
+<LI><A HREF="publications/tcc_micro2004.pdf">
+Transactional Coherence and Consistency: Simplifying Parallel Hardware
+and Software
+</A>
+<BR>
+Lance Hammond, Brian D. Carlstrom, Vicky Wong, Michael Chen, Christos
+Kozyrakis, Kunle Olukotun
+<BR>
+Micro's Top Picks,
+IEEE Micro November/December 2004 (Vol. 24, No. 6).
+<LI><A HREF="publications/tcc_asplos2004.pdf">
+Programming with Transactional Coherence and Consistency (TCC)
+</A>
+<BR>
+Lance Hammond, Brian D. Carlstrom, Vicky Wong, Ben Hertzberg, Mike
+Chen,
+Christos Kozyrakis, and Kunle Olukotun
+<BR>
+Proceedings of the Eleventh International Conference on
+Architectural Support for Programming Languages and Operating Systems,
+Boston, Massachusetts, October 9-13, 2004.
+<LI><A HREF="publications/tcc_isca2004.pdf">
+Transactional Memory Coherence and Consistency
+</A>
+<BR>
+Lance Hammond, Vicky Wong, Mike Chen, Ben Hertzberg, Brian D.
+Carlstrom,
+John D. Davis, Manohar K. Prabhu, Honggo Wijaya, Christos Kozyrakis,
+and
+Kunle Olukotun
+<BR>
+Proceedings of the 31st Annual International Symposium on Computer
+Architecture, M&uuml;nchen, Germany, June 19-23, 2004.
+<BR>
+</UL>
+
+
+<H3>Niagara</H3>
+<UL>
+<LI><A HREF="publications/niagara_pact2006.pdf">
+Maximizing CMP Throughput with Mediocre Cores
+</A>
+<BR>
+John D. Davis, James Laudon., Kunle Olukotun
+<BR>
+The Fourteenth International Conference on
+Parallel Architectures and Compilation Techniques,
+Saint Louis, Missouri, September 19, 2005.
+<LI><A HREF="publications/niagra_micro.pdf">Niagara: A 32-Way
+Multithreaded SPARC Processor</A><BR>
+Poonacha Kongetira, Kathirgamar Aingaran, and Kunle Olukotun<BR>
+IEEE MICRO Magazine, March-April 2005, and presented at Hot Chips 16,
+August 2004.
+<LI><i>Article about Kunle Olukuton's Niagara processor: </i><A
+HREF="publications/niagra_spectrum.pdf">Sun's Big Splash</A><BR>
+Linda Geppert<BR>
+IEEE Spectrum Magazine, January 2005.
+</UL>
+
+
+<H3>Hydra</H3>
+<UL>
+<LI><A HREF="publications/hydra_PPoPP05.pdf">Exposing Speculative
+Thread Parallelism in SPEC2000</A><BR>
+Manohar Prabhu and Kunle Olukotun<BR>
+Proceedings of the 2005 Principles and Practices of Parallel
+Programming, Chicago, IL, June 2005.<BR>
+<LI><A HREF="publications/hydra_micro2003.pdf">The Jrpm System for
+Dynamically Parallelizing Java Programs</A><BR>
+Mike Chen and Kunle Olukotun<BR>
+Special Issue of IEEE Micro: Micro's Top Picks from Computer
+Architecture Conferences, Nov./Dec. 2003.<BR>
+<LI><A HREF="publications/hydra_PPoPP03.pdf">Using Thread-Level
+Speculation to Simplify Manual Parallelization</A><BR>
+Manohar Prabhu and Kunle Olukotun<BR>
+Proceedings of the 2003 Principles and Practices of Parallel
+Programming, San Diego, CA, June 2003.<BR>
+<LI><A HREF="publications/hydra_ISCA03.pdf">The Jrpm System for
+Dynamically Parallelizing Java Programs</A><BR>
+Mike Chen and Kunle Olukotun<BR>
+Proceedings of the 30th International Symposium on Computer
+Architecture, San Diego, CA, June 2003.<BR>
+<LI><A HREF="publications/hydra_CGO03.pdf">TEST: A Tracer for
+Extracting Speculative Threads</A><BR>
+Mike Chen  and Kunle Olukotun<BR>
+The 2003 International Symposium on Code Generation and Optimization,
+San Francisco, CA, March 2003.<BR>
+<LI><A HREF="publications/hydra_MICRO00.pdf">The Stanford Hydra
+CMP</A><BR>
+Lance Hammond, Ben Hubbert , Michael Siu, Manohar Prabhu , Mike Chen ,
+and Kunle Olukotun<BR>
+IEEE MICRO Magazine, March-April 2000, and presented at Hot Chips 11,
+August 1999.<BR>
+<LI><A HREF="publications/hydra_ICS99.pdf">Improving the Performance of
+Speculatively Parallel Applications on the Hydra CMP</A><BR>
+Kunle Olukotun, Lance Hammond, and Mark Willey<BR>
+Proceedings of the 1999 ACM International Conference on Supercomputing,
+Rhodes, Greece, June 1999.<BR>
+<LI><A HREF="publications/hydra_PACT98.pdf">Exploiting Method-Level
+Parallelism in Single-Threaded Java Programs</A><BR>
+Mike Chen  and Kunle Olukotun<BR>
+Proceedings of the International Conference on Parallel Architectures
+and
+Compilation Techniques, Paris, France, October 1998.<BR>
+<LI><A HREF="publications/hydra_ASPLOS98.pdf">Data Speculation Support
+for a Chip Multiprocessor</A><BR>
+Lance Hammond, Mark Willey, and Kunle Olukotun<BR>
+Proceedings of the Eighth ACM Conference on Architectural Support
+for Programming Languages and Operating Systems, San Jose, California,
+October 1998.<BR>
+<LI><A HREF="publications/hydra_TechReport749.pdf">Considerations in
+the Design of Hydra: A Multiprocessor-on-a-Chip
+Microarchitecture</A><BR>
+Lance Hammond, and Kunle Olukotun<BR>
+Stanford University Computer Systems Lab Technical Report
+CSL-TR-98-749, February 1998.<BR>
+<LI><A HREF="publications/hydra_dramws.pdf">A Single Chip
+Multiprocessor Integrated with DRAM</A><BR>
+Tadaaki Yamauchi, Lance Hammond and Kunle Olukotun<BR>
+Workshop on Mixing Logic and DRAM preceding the 24th International
+Symposium on Computer Architecture, June 1997.<BR>
+<LI><A HREF="publications/hydra_shspec.pdf">Software and Hardware for
+Exploiting Speculative Parallelism with a Multiprocessor</A><BR>
+Jeffery Oplinger, David Heine, Shih-Wei Liao, Basem A. Nayfeh , Monica
+Lam and Kunle Olukotun<BR>
+Stanford University Computer Systems Lab Technical Report
+CSL-TR-97-715, February 1997.<BR>
+<LI><A HREF="publications/hydra_ISCA96.pdf">Evaluation of Design
+Alternatives for a Multiprocessor Microprocessor</A><BR>
+Basem A. Nayfeh , Lance Hammond and Kunle Olukotun<BR>   
+Proceedings of the 23rd International Symposium on Computer
+Architecture, May 1996.<BR>
+<LI><A HREF="publications/hydra_TR.pdf">Rationale and Design of the
+Hydra Multiprocessor</A><BR>
+   <EM>Note: This is the original MCM based design</EM><BR>
+Kunle Olukotun, Jules Bergmann, Kun-Yung Chang and Basem A. Nayfeh <BR>
+Stanford University Computer Systems Lab Technical Report 
+CSL-TR-94-645, 1994.<BR>
+</UL>
+
+<HR>
+</BODY>
+</HTML>
+

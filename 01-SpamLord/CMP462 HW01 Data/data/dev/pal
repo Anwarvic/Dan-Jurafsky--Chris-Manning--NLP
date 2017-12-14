@@ -1,0 +1,198 @@
+<HTML>
+
+  <HEAD>
+    <TITLE>The Odyssey</TITLE>
+    <LINK HREF="pal.css" REL="stylesheet" TYPE="text/css">
+  </HEAD>
+
+  <BODY>
+   <CENTER> 
+    <TABLE BGCOLOR=#000000 WIDTH=800 CELLPADDING=4>
+    <TR><TD ALIGN=CENTER>
+    <TABLE BGCOLOR=#FFFFFF WIDTH=790 CELLPADDING=6>
+<TR>
+<TD>
+<TABLE CELLPADDING=2>
+      <TR>
+      <TD ALIGN=CENTER>
+        <IMG SRC="img/bread.jpg">
+      </TD>
+<TD WIDTH=20>
+</TD>
+<TD ALIGN=TOP>
+            <H3>Assistant Professor Philip Levis</h3>
+	    Office: 358 Gates Hall, Stanford University, Stanford, CA, 94305-9030<BR>
+            Office hours: Tue 3-4, or by appointment<BR>
+            Phone: +1 650 725 9046<BR>
+	    email: pal at cs stanford edu, but I receive more email than I can handle. Please don't be offended if I don't reply.
+
+      <A name="bio"><h3>Biography</h3></A>
+      I'm an Assistant Professor in the Computer Science and Electrical
+      Engineering Departments of Stanford University. 
+      When laws of scale and Moore's Law mean that we 
+      can have computers embedded everywhere and in everything, 
+      it's unlikely that they will use the operating systems, 
+      networking, or programming languages of today. I'm interested
+      in researching what these low-power
+      wireless networks comprised of large numbers of tiny embedded nodes
+       <i>will</i> use. I'm also interested in the design of large-scale
+      networked systems for virtual worlds, in part due to their
+      ability to bridge physical and virtual environments.
+I head the <A HREF="http://sing.stanford.edu">Stanford Information
+      Networking Group (SING)</A>, recently received the honor of being
+a Microsoft Research <A HREF="http://research.microsoft.com/nff/2008fellows.aspx">New Faculty Fellow</A>, and received an NSF CAREER award in 2008.
+
+
+      </TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+
+<TR>
+<TD>
+      <A name="courses"><h3>Current Courses</h3></A>
+         <A HREF="http://cs144.stanford.edu">CS144: Introduction to Computer Networking</A>, Spring 2008 (co-taught with <A HREF="http://www.scs.stanford.edu/~dm/">David Mazi&egrave;res</A>), Fall 2008<br>
+         <A HREF="http://cs340v.stanford.edu">CS340V: Networked Systems for Virtual Worlds</A>, Fall 2008<br>
+      <h3>Other Courses</h3>
+         <A HREF="http://www.stanford.edu/class/archive/cs/cs67n/cs67n.1064/">CS67N: The Computer of History, the Computer of Fiction</A>, Winter 2006<br>
+         <A HREF="http://cs240e.stanford.edu">CS240E: Low-Power Sensing Systems</A>, Winter 2007<br>
+         <A HREF="http://cs244e.stanford.edu">CS244E: Low-Power Wireless Networking</A>, Spring 2007<br>
+         <A HREF="http://www.stanford.edu/class/cs344e">CS344E: Sensor Network Systems</A>, Spring 2006, Spring 2008 (used to be <A HREF="http://cs344a.stanford.edu">CS344A</A>)<br>
+         <A HREF="http://eeclass.stanford.edu/ee108a/">EE108A</A>, Fall 2006 (co-taught with <A HREF="http://csl.stanford.edu/~billd">Bill Dally</A>), Winter 2008<br>
+
+<!--- <center><h3><A HREF="http://www.cs.berkeley.edu/~culler/tinyos/ttx/">The Third International TinyOS Technology Exchange (TTX III)</A>,<br>February 10th, 2006, Stanford University.</h3></center> --->
+
+<h3>TinyOS Programming Manual</h3>
+I've recently written a short book on programming TinyOS. Unlike the tutorials,
+which are a brief introduction to get you started, or TEPs, which describe
+parts of TinyOS 2.0, <A HREF="pubs/tinyos-programming.pdf">Programming TinyOS</A> digs into nesC and how you can use it to build TinyOS applications. 
+Except for a few fictional components in the beginning, almost every concept
+has a TinyOS 2.0 implementation as an example. A second version of the text,
+co-written with David Gay, will soon be <A HREF="http://www.amazon.com/TinyOS-Programming-Philip-Levis/dp/0521896061/ref=sr_1_1?ie=UTF8&s=books&qid=1229638381&sr=8-1">available for purchase</A> in April of 2009. We tried to keep the cost
+down by making it softcover and having very tiny royalties. Unfortunately,
+though, TinyOS programming is not a blockbuster topic, so the book is
+a bit pricier than I'd like. Oh well.
+
+      <A name="#publications"><h3>Selected Publications (<A HREF="pubs.html">full list</A>)</h3></A>
+
+     <p>You can generally find more up-to-date and detailed information
+        on the <A HREF="http://sing.stanford.edu">SING</A> website.</p>
+	<ul>
+
+<li>Rodrigo Fonseca, Prabal Dutta, Philip Levis, and Ion Stoica.<br>
+<b>"Quanto: Tracking Energy in Networked Embedded Systems."</b> To appear in <i>Proceedings of the Eighth USENIX Symposium on Operating System Design and Implementation (OSDI),</i> 2008. <div class="paperlinks" align="right"><small>[<A HREF="http://sing.stanford.edu/pubs/quanto.pdf">PDF</A> (400K)]</small></div></li>
+
+<li>Kannan Srinivasan, Maria Kazandijeva, Saatvik Agarwal, and Philip Levis.<br>
+<b>"The &beta;-factor: Measuring Wireless Link Burstiness."</b> To appear in <i>Proceedings of the 6th ACM Conference on Embedded Networked Sensor Systems (SenSys)</i>, 2008. <div class="paperlinks" align="right"><small>[<A HREF="http://sing.stanford.edu/pubs/sensys08-beta.pdf">PDF</A> (4MB)]</small></div></li>
+
+
+<li>Philip Levis, Eric Brewer, David Culler, David Gay, Samuel Madden, Neil Patel, Joe Polastre, Scott Shenker, Robert Szewczyk, and Alec Woo.<br><b>"The Emergence of a Networking Primitive in Wireless Sensor Networks."</b> In <i>Communications of the ACM</i>, Volume 51, Issue 7, July 2008.  <div class="paperlinks" align="right"><small>[<A HREF="http://sing.stanford.edu/pubs/cacm08.pdf">PDF</A> (4MB)]</small></div></li>
+
+
+<li>Kaisen Lin and Philip Levis<br>
+      <b>"Data Discovery and Dissemination with DIP."</b> In <i>Proceedings of the Seventh International Conference on Information Processing in Wireless Sensor Networks (IPSN)</i>, 2008.
+  <div class="paperlinks" align="right"><small>[<A HREF="http://sing.stanford.edu/pubs/ipsn08-dip.pdf">PDF</A> (395K)]</small></div></li>
+
+<li>Megan Wachs, Jung Il Choi, Jung Woo Lee, Kannan Srinivasan, Zhe Chen, Mayank Jain and Philip Levis<br>
+<b>"Visibility: A New Metric for Protocol Design."</b> In <i>Proceedings of the Fifth ACM Conference on Embedded Networked Sensor Systems (SenSys)</i>, 2007.
+<div class="paperlinks" align="right"><small>[<A HREF="http://sing.stanford.edu/pubs/sensys07-visi.pdf">PDF</A> (580K)]</small></div></li>
+
+<li>Kevin Klues, Vlado Handziski, Chenyang Lu, Adam Wolisz, David Culler, David Gay, and Philip Levis<br>
+<b>"Integrating Concurrency Control and Energy Management in Device Drivers."</b> In <i>Proceedings of the 21st ACM Symposium on Operating System Principles (SOSP)</i>, 2007.
+<div class="paperlinks" align="right"><small>[<A HREF="http://sing.stanford.edu/pubs/sosp07-klues.pdf">PDF</A> (718K)]</small></div></li>
+
+      <li>Philip Levis, Neil Patel, David Culler, and Scott Shenker<br>
+	  <b>"Trickle: A Self-Regulating Algorithm for Code Propagation and Maintenance in Wireless Sensor Networks."</b> In <I>Proceedings of the First USENIX/ACM Symposium on Networked Systems Design and Implementation (NSDI 2004)</I>. Received best paper award.
+<div class="paperlinks" align="right"><small>[<A HREF="pubs/trickle-nsdi04">HTML</A>][<A HREF="pubs/trickle-nsdi04.pdf">PDF</A> (3.0M)]</small></div></li>
+      
+</ul> 
+      <a name="talks"><H3>Some Talks</H3></A>
+      <ul>
+        <li><b>"Towards a Wireless Lexicon."</b> <br>Bertinoro Wireless Workshop, Aug. 20, 2007.
+        <div class="paperlinks" align="right"><small>[<A HREF="talks/bertinoro.pdf">PDF</A> (2.2M)]</small></div></li>
+
+        <li><b>"Low-Power Sensor Networks: A Case Study in Seeking Distributed Dependability."</b> <br>Keynote at NSF HCCS-CPS Workshop, Nov. 30, 2006.
+        <div class="paperlinks" align="right"><small>[<A HREF="http://sing.stanford.edu/talks/cyber-physical-nsf.pdf">PDF</A> (1.5M)]</small></div></li>
+
+        <li><b>"IP and Low-Power Wireless: Madness, the Future, or Both?"</b> <br>HotNets V, Nov. 29, 2006.
+        <div class="paperlinks" align="right"><small>[<A HREF="http://sing.stanford.edu/talks/hotnets-V-srinivasan.pdf">PDF</A> (3.8M)]</small></div></li>
+
+        <li><b>"TinyOS: An Open Platform for Wireless Sensor Networks. Part II: Network Architecture."</b> <br>Invited Tutorial, IEEE MDM, May 11, 2006.
+        <div class="paperlinks" align="right"><small>[<A HREF="http://sing.stanford.edu/talks/mdm-II.pdf">PDF</A> (13M)]</small></div></li>
+
+        <li><b>"TinyOS: An Open Platform for Wireless Sensor Networks."</b> <br>Invited Tutorial, IEEE MDM, May 10, 2006.
+        <div class="paperlinks" align="right"><small>[<A HREF="http://sing.stanford.edu/talks/mdm.pdf">PDF</A> (25M)]</small></div></li>
+
+        <li><b>"T2: What the Second Generation Holds"</b> <br>CS294-11, Berkeley, 6 October 2005.
+        <div class="paperlinks" align="right"><small>[<A HREF="talks/berkeley-seminar-05.pdf">PDF</A> (1.9M)]</small></div></li>
+
+        <li><b>"Embedded Sensor Architecture."</b> <br>EE282, Stanford, 14 October 2005.
+        <div class="paperlinks" align="right"><small>[<A HREF="talks/ee282-f05-sensors.pdf">PDF</A> (24M)]</small></div></li>
+
+        <li><b>"Sensor Network Protocol Design and Implementation."</b> <br>CS268, UC Berkeley, 25 April 2005.
+        <div class="paperlinks" align="right"><small>[<A HREF="talks/cs268.pdf">PDF</A> (144K)]</small></div></li>
+
+        <li> <b>"Data Dissemination in Wireless Sensor Networks."</b><br>NSDI 2004.
+        <div class="paperlinks" align="right"><small>[<A HREF="talks/trickle-nsdi.pdf">PDF</A> (10M)]</small></div></li>
+
+        <li><b>"The Internet vs. Sensor Nets."</b> <br>ICSI, 5 May 2004.
+        <div class="paperlinks" align="right"><small>[<A HREF="talks/icsi-5-2004.pdf">PDF</A> (144K)]</small></div></li>
+
+        <li><b>"Evaluating Sensor Network Protocols."</b> <br>ICSI, 22 January 2003.
+        <div class="paperlinks" align="right"><small>[<A HREF="pubs/icir-talk02.pdf">PDF</A> (249K)]</small></div></li>
+     </ul>
+
+<a name="service"><h3>Program Committees</h3></A>
+ <table>
+  <tr>
+   <td><b>2009:</b></td>
+   <td><A HREF="http://ipsn.acm.org">IPSN</A> (Co-chair, IP track),
+        SenSys,
+        <A HREF="http://www.sigops.org/sosp/sosp09/">SOSP</A></td>
+  </tr>
+  <tr>
+   <td><b>2008:</b></td>
+   <td>
+         <A HREF="http://www.motorola.com/content.jsp?globalObjectId=8623">MODUS</A>,
+         <A HREF="http://ipsn.acm.org/">IPSN</A>,
+         <A HREF="http://www.engin.umd.umich.edu/icdcs/">ICDCS</A>,
+         <A HREF="http://www.dritte.org/nsdr08/">NSDR</A>,
+         <A HREF="http://www.sigcomm.org/sigcomm2008/">SIGCOMM</A>,
+         <A HREF="http://www.usenix.org/events/osdi08/">OSDI</A>
+   </td>
+  </tr>
+  <tr>
+   <td><b>2007:</b></td>
+   <td>
+         <A HREF="http://www.cse.wustl.edu/~lu/ipsn07.html">IPSN</A>,
+         <A HREF="http://www.cs.ucc.ie/~tod6/emnets2007/">EmNets</A> (co-chair),
+         <A HREF="http://www.sigcomm.org/sigcomm2007/">SIGCOMM</A>,
+         <A HREF="http://data.cs.washington.edu/dmsn07/">DMSN</A>,
+	 <A HREF="http://sensys.acm.org/2007/Home.html">SenSys</A>,
+         <A HREF="http://www.cs.kuleuven.ac.be/conference/MidSens2007/">MidSens</A>
+    </td>
+   </tr>
+   <tr>
+    <td><b>2006:</b></td>
+    <td>
+         <A HREF="http://www.cs.brown.edu/research/db/netdb06/">NetDB</A>,
+         <A HREF="http://www.cs.virginia.edu/~ipsn06/">IPSN</A>,
+         <A HREF="http://www.dcoss.org/dcoss06/">DCOSS</A>,
+         <A HREF="http://www.isi.edu/sensys2006/">SenSys</A>,
+         <A HREF="http://www.rtss.org">RTSS</A> 
+</td></tr></table>
+
+<a name="quote"><h3>Quote</h3></A>
+(on the subject of object naming in virtual worlds)<br>
+Me: So the case you're concerned with is Godzilla walking through Godzilla's door?<br>
+Daniel: <b>Exactly.</b><br>
+
+<hr>
+</TD></TR></TABLE>
+</TD></TR></TABLE>
+</TD></TR></TABLE>
+</CENTER>
+  </BODY>    
+</HTML>
+

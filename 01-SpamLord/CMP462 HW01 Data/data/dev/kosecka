@@ -1,0 +1,188 @@
+<!DOCTYPE doctype PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+
+<LINK REL=STYLESHEET  HREF="mystyle1.css" TYPE="text/css">
+                                                
+<meta http-equiv="Content-Type"  content="text/html; charset=iso-8859-1">
+                                                
+  <meta name="keywords"
+ content="Jana Kosecka, research, vision, computer vision, machine vision, structure from motion, motion estimation, self-calibration, camera calibration, object recognition, navigation, building recognition, localization, multiview geometry, vision and control,hybrid systems, disrete event systems, conflict resolution, collision avoidance, intelligent highways, air-traffic management systems, mobile robots">
+                                                
+  <meta name="description"
+ content="Jana Kosecka, Associate Professor,Department of Computer Science, George Mason University">
+                                                
+  <meta name="GENERATOR"
+ content="Mozilla/4.78 [en] (X11; U; SunOS 5.9 sun4u) [Netscape]">
+  <title>Jana Kosecka, Associate Professor, Computer Science, George Mason
+University</title>
+</head>
+  <body text="#330000" bgcolor="#ffffff" link="#ff6600" vlink="#ff6600"
+ alink="#333333">
+
+<!-- name and contact table -->
+
+<center>
+<table cellpadding="10" width="42%">
+<tbody>
+  <tr>
+   <td align="center" valign="top">
+   <!-- <img src="janabb.jpg" border="0" height="126" width="166" alt=""> 
+   -->
+   </td>
+
+   <td bgcolor="#FFCC66" align="left" valign="top">                           
+       <font face="Ariel,Helvetica"> <font color="#663300">
+       <font size="+2">Jana  Kosecka </font><br> <br>
+                    Associate Professor <br>
+       <a href="http://www.cs.gmu.edu/">Department of Computer Science</a>  <br>
+                    George Mason University<br>
+                    4400 University Drive #MS 4A5<br>
+                    Fairfax, VA 22030 
+   </td>
+ </tr>
+ </font>    
+
+  <tr bgcolor="#660100">
+  <td bgcolor="#660100" align = "right" valign = "top"><font face="Ariel,Helvetica">
+  <font color="#663300"><font size="+2">
+  <a href="http://cs.gmu.edu/%7Ekosecka">&nbsp;Home</a>  <br>
+  <a href="http://cs.gmu.edu/%7Ekosecka/Teaching.html">&nbsp;Teaching</a> <br>
+  <a href="http://cs.gmu.edu/%7Ekosecka/Projects.html">&nbsp;Research</a> <br>
+  <a href="http://www.cs.gmu.edu/%7Ekosecka/Publications.html">&nbsp;Publications</a>&nbsp;  <br>
+  <a href="http://www.cs.gmu.edu/%7Ekosecka/Students.html">&nbsp;Students</a>  <br>
+  <a href="http://www.cs.gmu.edu/%7Ekosecka/Bio.html">&nbsp;Bio</a>  <br>
+  <br>
+  <br>
+  <a href="ICRA03/ICRA%20Tutorial%20Web%20Page.htm">&nbsp;Tutorial</a>  
+  <br>
+  <a href="http://vision.ucla.edu/MASKS">&nbsp;Book</a>  <br>
+  </font></font></font>
+ </td>
+
+ <td valign="top" >
+ <p><font face="Ariel,Helvetica"><font color="#FFCC66"><font size="+0">
+       <font size ="+2"> 
+       Contact </font> <br> <br>
+       Office: 417 ST II <br>
+         Office hours: Wed 2-3pm <br>
+         Phone: (703) 993-1876 <br>
+         Fax: (703) 993-1710   <br>
+         e-mail: <a href="mailto:kosecka@cs.gmu.edu">kosecka@cs.gmu.edu</a>
+ </td>
+  </tr>
+  </tbody>           
+</table>
+
+</center>
+
+<center>
+
+<table  border="0" cellspacing="5" cellpadding="2" width="43%" >
+ <tbody>
+ <tr>
+ <td halign = "left">
+ <font face="Ariel,Helvetica"><font color="#663300">
+<li> Associate Editor, IEEE Transactions on Robotics </li>
+<li> International Journal of Computer Vision </li>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+
+<!--
+<table  border="0" cellspacing="5" cellpadding="2" width="60%" >
+ <tbody>
+ <tr>
+ <td halign = "left">
+ <font face="Ariel,Helvetica"><font color="#663300"><font size="+0">
+ <li>  <a href="http://vision.ucla.edu/MASKS">Book: An Invitation to 3-D Vision: From Images to Geometric Models</a> &nbsp;
+<img src="new.gif" alt="" width="40"  height="36"> 
+ <li> 
+  <a href="ICRA03/ICRA%20Tutorial%20Web%20Page.htm">ICRA Tutorial 
+  (Program and Notes).</a> </li>
+            </p>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+-->
+
+</center>
+
+<!--
+                     
+<p><b><font face="Ariel,Helvetica"><font size="+0"><font color="#663300">Research
+      Interests </font><font color="#ffffff">Research Interests</font></font></font></b>
+      </p>
+                     
+<ul>
+    <li> <font face="Ariel,Helvetica"><font color="#663300"><font
+ size="+0"> Localization, Place (Building) Recognition, Object Recognition </li>
+    <li> Motion  Understanding, Structure and Motion Recovery, Image Based Rendering</li>
+    <li> Vision and Control, Visually Guided Navigation, Human-Computer-Robot 
+     Interaction</li>
+    <li> Modelling, Analysis and Control of (Distributed)&nbsp; Hybrid
+ and Discrete Event Systems</li>
+    <li> Autonomous Mobile Agents, Intelligent Highways and Air-Traffic 
+     Management Systems </font></font></font></li>
+                       
+</ul>
+            <b><font face="Ariel,Helvetica"><font color="#663300"><font
+ size="+0">Affiliation</font></font></font></b>             
+<ul>
+            <li> <font face="Ariel,Helvetica"><font color="#663300"><font
+ size="+0"><a
+ href="http://cs.gmu.edu/%7Ekosecka/Vision-Robotics/vision-robotics.html">Computer
+      Vision and Robotics Laboratory</a></font></font></font></li>
+                       
+</ul>
+            <b><font face="Ariel,Helvetica"><font size="+0"><font
+ color="#660000">Current   Projects</font><font color="#ffffff">cts</font></font></font></b>
+               
+<ul> <font face="Helvetica, Arial, sans-serif">
+<li> Nonparametric Robust Estimation of (multiple) models </li> 
+<li> <a href="http://cs.gmu.edu/%7Ekosecka/Projects.html">Image-Based localization and Navigation, Location Recognition</a> </font> </li>
+<li><font face="Ariel,Helvetica"><font color="#663300"><font
+ size="+0"><a href="http://cs.gmu.edu/%7Ekosecka/Projects.html">Multiframe
+     Structure and Motion Recovery, Motion Analysis and Motion Synthesis</a></font></font></font></li>
+             <li> <font face="Ariel,Helvetica"><font color="#663300"><font
+ size="+0"><a href="http://cs.gmu.edu/%7Ekosecka/Projects.html">Vision   Based
+Navigation, Localization and Map Building, Image-Based Rendering</a></font></font></font></li>
+             <li> <font face="Ariel,Helvetica"><font color="#663300"><font
+ size="+0"><a href="http://cs.gmu.edu/%7Ekosecka/aviationNGI.html">Aviation
+      Applications for Next Generation Internet</a></font></font></font></li>
+                       
+</ul>
+   <b><font face="Helvetica, Arial, sans-serif">Students</font></b><br>
+     
+<ul>
+     <li>&nbsp; &nbsp;<a href="http://cs.gmu.edu/%7Ewzhang2"><font
+ face="Helvetica, Arial, sans-serif">Wei Zhang</font></a></li>
+     <li><font face="Helvetica, Arial, sans-serif">&nbsp; &nbsp;<a
+ href="http://cs.gmu.edu/%7Exyang">Xialong Yang</a></font></li>
+     <li><font face="Helvetica, Arial, sans-serif">&nbsp; <a
+ href="http://cs.gmu.edu/%7Efli">&nbsp;Fayin Li</a></font></li>
+     
+</ul>
+   <font face="Helvetica, Arial, sans-serif"><b>Previous Students</b></font><br>
+  &nbsp;<br>
+   
+<ul>
+    <li><font face="Helvetica, Arial, sans-serif">MSc. - &nbsp;Philip Barber,
+ M . McJunkin, L. Zhou</font></li>
+    <li><font face="Helvetica, Arial, sans-serif">Postdoc -&nbsp; M. Zucchelli</font><br>
+    </li>
+   
+</ul>
+                        
+<ol>
+           &nbsp;           
+</ol>
+
+
+-->
+
+</body>
+</html>
+

@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML4.0Transitional//EN">
+<HTML>
+<HEAD>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<TITLE>Julie Zelenski, Stanford CS Lecturer</TITLE>
+</HEAD>
+<BODY>
+
+<div id="header">
+
+<IMG SRC="Zelenski.jpg">
+
+<H1>Julie Zelenski</h1><BR>
+<h2>Lecturer in Computer Science</h2><BR>
+
+<h2>Stanford University</h2><BR>
+</div>
+
+<H3>Contact info </H3>
+<UL>
+<LI>Gates 188, ground floor, B wing
+<LI>(Where is Gates? See  <a HREF=http://campus-map.stanford.edu/index.cfm?ID=07-450>campus map</A> or check out the <A HREF=http://www-db.stanford.edu/pub/keller/gates-map.html>ASCII directions</A>)
+<LI>Phone: 650-725-8596 
+<LI>Fax: 650-723-6092
+<LI>E-mail: <A HREF=mailto:zelenski@cs.stanford.edu>zelenski@cs.stanford.edu</A>
+
+</UL>
+
+<H3>Fall Quarter 2008-09 </H3>
+<P>This fall I'm focused on curriculum updates for the newly-revised CS undergrad program.  I'm tasked with tweaking the ever-wonderful CS107 and pitching in some with Mendel Rosenblum on the all-new CS110. I'm definitely interested in student input, so if you some opinions to share, come on by.
+
+<p>I plan to be in my office most MWF from morning to early afternoon. Students are welcome to drop by my office or send an email to set up a specific appointment.</p>
+
+<H3>A little bio </H3>
+I left my rural hometown of Stevinson, CA (population: 262) to come to Stanford as a wide-eyed freshman in 1985.  That tour passed through SLE, the LSJUMB, a half-dozen changes in my major, and I emerged with a Mathematical Sciences degree.  A few years out in the "real world" were enough to send me running back for grad school in computer science and I segued into my current position as a lecturer in 1992  without setting foot off campus again.  I teach courses in the undergrad systems curriculum, including programming methodology and abstractions, language paradigms, compilers, and object-oriented design and development, but I especially enjoy working with the <A href=http://cs198.stanford.edu/>section leaders</a> in the CS106 courses.  I have been the advisor to the Stanford <a href=http://www.stanford.edu/group/swe>SWE</a> and <a href=http://wics.stanford.edu>ACM-W</a> chapters and recently served on the Computer Science Advanced Placement development committee. My most recent CS106B lectures have been unleashed as a part of <A HREF=http://see.stanford.edu>Stanford Engineering Everywhere</A>, an exciting new project to provide a Stanford education to all seekers.
+
+<BR>
+<h3> Advising </h3>
+
+<P>Thinking about declaring CS or CSE? The 
+<A HREF=http://cs.stanford.edu/degrees/undergrad/Thinking.shtml>CS Undergrad Advising site</A> 
+has excellent information about the major, the minor, declaring, advising, and so on.</p>
+
+<P>My CS undergraduate <A HREF=advising/>advising group</A> is now big enough that I'm in danger of losing track of everyone so I'm currently not recruiting new advisees, but anyone, advisee or not, is welcome to come by and ask questions of me.
+
+<P>I'm continuing to advise my first-ever batch of frosh (now sophomores). The talented Nikil Viswanathan is the Peer Mentor for our group.  
+Meet my <a href=froshadvising>frosh advising group</A>. Surf the <a href=http://undergrad.stanford.edu>UAL site</A> for a great wealth of resrouces and information for undergrads.
+
+
+<h3>My life</h3>
+<F<p>I'm married to Matt Vaska, medical device engineer, entrepeneur and all-around superhero. Part of his wooing involved a trombone serenade in the Flo Mo courtyard. We are the proud parents of two marvelous munchkins, <A HREF=Rein>Rein</A>, now a kindergartener!, and his little brother <A HREF=Kalev>Kalev</A>. Life in our house is always interesting -- here is <A Href=Rein/hair.html>an example</A> of what happens when I'm napping.</p>
+
+<div id=footer>
+<p>Updated Sep 2008 &middot; zelenski @ cs.stanford.edu</p>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+

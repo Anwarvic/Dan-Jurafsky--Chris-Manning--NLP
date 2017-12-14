@@ -1,0 +1,128 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+Don Knuth's Home Page
+</title>
+<!-- Changed by: Ursula N. Owen,  4-Mar-1999 -->
+<link rel="stylesheet" type="text/css" href="/~knuth/diamondsigns/style.css">
+</head>
+<body>
+<dl>
+<dt>
+<img src="don.gif" alt="">
+</dt>
+<dd>
+<b> Donald E. Knuth</b>
+(<a href="faq.html#asian"><img src="gaoduhnah.gif"
+ style="vertical-align:middle" border=0 alt="(&#x9ad8;&#x5fb7;&#x7eb3;)"></a>),
+Professor Emeritus of 
+<a href="taocp.html">The Art of Computer Programming</a>
+at
+<a href="http://www.stanford.edu/">Stanford University</a>,
+welcomes you to his home page.
+</dd>
+</dl>
+<hr>
+<h1>
+<a href="faq.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Frequently Asked Questions</a>
+</h1>
+<h1>
+<a href="iaq.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Infrequently Asked Questions</a>
+</h1>
+<h1>
+<a href="news.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Recent News</a>
+&nbsp;
+&nbsp;
+<img src="newave.gif" alt=""><img src="new.gif" alt=""><img src="new-eagle.gif" alt="new!">
+</h1>
+<h1>
+<a href="musings.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Computer Musings</a>
+<!--
+&nbsp;
+ &nbsp;
+<img src="newave.gif" alt=""><img src="new.gif" alt=""><img src="new-eagle.gif" alt="new!">
+ -->
+</h1>
+<h1>
+<a href="books.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Known Errors in My Books</a>
+</h1>
+<h1>
+<a href="cm.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Important Message to all Users of TeX</a>
+</h1>
+<h1>
+<a href="help.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Help Wanted</a>
+</h1>
+<h1>
+<a href="diamondsigns/diam.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Diamond Signs</a>
+</h1>
+<h1>
+<a href="preprints.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Preprints of Recent Papers</a>
+</h1>
+<h1>
+<a href="vita.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Curriculum Vit&aelig;</a>
+</h1>
+<h1>
+<a href="organ.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Pipe Organ</a>
+</h1>
+<h1>
+<a href="graphics.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Downloadable Graphics</a>
+</h1>
+<h1>
+<a href="programs.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Downloadable Programs</a>
+</h1>
+<h1>
+<a href="address.html">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Expecting a check from me?</a>
+</h1>
+<h1>
+<a href="news03.html#videos">
+<img src="jofa.gif" alt="*" style="vertical-align:middle" border=0
+ hspace=10>Did you borrow a video from me?</a>
+</h1>
+<h6>
+<img src="border.gif" alt="">&nbsp;
+&nbsp;
+<a href="experiments.html">(don't click here)</a>
+&nbsp;<img src="border.gif" alt="">
+</h6>
+<h2>
+<a href="http://www-cs.stanford.edu/">
+<img src="http://www-cs.stanford.edu/gifs/logo.csd.gif" class="xref" alt="">Stanford Computer Science Home Page
+</a>
+</h2>
+<a href="http://validator.w3.org/check?uri=referer">
+<img src="http://www.w3.org/Icons/valid-html401"
+  alt="Valid HTML 4.01 Transitional" height="31" width="88" align="right"></a>
+<img src="/cgi-bin/count.cgi?df=knuth-index.dat|sh=0" alt="" align="middle">
+</body>
+</html>
+

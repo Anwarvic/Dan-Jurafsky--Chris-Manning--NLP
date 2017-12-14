@@ -1,0 +1,1300 @@
+<HTML>
+<HEAD><TITLE>Ron Fedkiw</TITLE></HEAD>
+<BODY>
+
+<TABLE WIDTH="100%">
+<TD>
+<B><FONT SIZE="+2">Ron Fedkiw</FONT><BR>
+Associate Professor<BR>
+Stanford Computer Science</B><BR>
+Ph.D. Applied Mathematics, UCLA<BR>
+<P>
+<A HREF="photos/ron_photo.jpg"><IMG SRC="photos/ron_photo_small.jpg"ALT=""></A>
+</TD>
+<TD><IMG SRC="images/book2.jpg"ALT=""></TD>
+<TD><IMG SRC="images/cover.jpg"ALT=""></TD>
+</TABLE>
+
+<P><HR><TABLE WIDTH="100%">
+<TD>
+Computer Science Department<BR>
+Stanford University<BR>
+Gates Computer Science Bldg., Room 207<BR>
+Stanford, CA 94305-9020
+</TD>
+<TD>
+<A HREF="mailto:fedkiw@cs.stanford.edu">fedkiw@cs.stanford.edu</A><BR>
+Phone: (650) xxx-xxxx<BR>
+</TD>
+<TD>
+<A HREF="http://www.stanford.edu/home/visitors/directions.html">  directions to Stanford</A><BR>
+<A HREF="http://forum.stanford.edu/visitors/directions/gates.php">directions to the Gates building</A><BR>
+<A HREF="http://graphics.stanford.edu/ba-colloquium">CS Broad Area Colloquium</A><BR>
+<A HREF="http://icme.stanford.edu/">Institute for Computational and Mathematical Engineering</A>
+</TD>
+</TABLE>
+
+<HR><B><FONT SIZE="+2">Brief Bio</FONT></B><BR>
+Fedkiw received his Ph.D. in Mathematics from UCLA in 1996 and did postdoctoral studies both at UCLA in Mathematics and at Caltech in Aeronautics before joining the Stanford Computer Science Department. He was awarded an Academy Award from The Academy of Motion Picture Arts and Sciences, the National Academy of Science Award for Initiatives in Research,
+a Packard Foundation Fellowship, a Presidential Early Career Award for Scientists and Engineers (PECASE), a Sloan Research Fellowship, 
+the ACM Siggraph Significant New Researcher Award, 
+an Office of Naval Research Young Investigator Program Award (ONR YIP), the Okawa Foundation Research Grant, the Robert Bosch Faculty Scholarship, the Robert N. Noyce Family Faculty Scholarship, two distinguished teaching awards, etc. 
+Currently he is on the editorial board of the Journal of Computational Physics, Journal of Scientific Computing, SIAM Journal on Imaging Sciences, and Communications in Mathematical Sciences, 
+and he participates in the reviewing process of a number of journals and funding agencies. 
+He has published over 80 research papers in computational physics, computer graphics and vision, as well as a book on level set methods.
+For the past seven years, he has been a consultant with Industrial Light + Magic. He received screen credits for his work on "Terminator 3: Rise of the Machines", "Star Wars: Episode III - Revenge of the Sith", "Poseidon" and "Evan Almighty". 
+
+<P><HR><B><FONT SIZE="+2">Research</FONT></B><BR>
+My research is focused on the design of new computational algorithms for a variety of applications including computational
+fluid dynamics and solid mechanics, computer graphics, computer vision and computational biomechanics.<BR>
+
+<UL>
+<LI>
+Simulating virtual soft bodied creatures with actuated internal rigid skeltal structures (with Tamar Shinar and Craig Schroeder).<BR>
+<A HREF="animations/maggot.avi"><IMG SRC="images/maggot.png"ALT=""></A>
+<A HREF="animations/maggot_bowl_rings.avi"><IMG SRC="images/maggot_bowl_rings.png"ALT=""></A>
+<A HREF="animations/snake_close.avi"><IMG SRC="images/snake_close.png"ALT=""></A>
+<A HREF="animations/floppy_fish.avi"><IMG SRC="images/floppy_fish.png"ALT=""></A><BR><BR></LI>
+
+<LI>
+Two-way coupliong of rigid and deformable solids (with Tamar Shinar and Craig Schroeder).<BR>
+<A HREF="animations/row_sphere_incompressible.avi"><IMG SRC="images/row_sphere_incompressible.png"ALT=""></A>
+<A HREF="animations/trampoline.avi"><IMG SRC="images/trampoline.png"ALT=""></A>
+<A HREF="animations/twisting_chain.avi"><IMG SRC="images/twisting_chain.png"ALT=""></A>
+<A HREF="animations/large_pile.avi"><IMG SRC="images/large_pile.png"ALT=""></A><BR><BR></LI>
+
+<LI>
+Stable, two-way solid fluid coupling (with Avi Robinson-Mosher, Tamar Shinar, Jon Su and Jon Gretarsson).<BR>
+<A HREF="animations/filling_bag.avi"><IMG SRC="images/filling_bag.png"ALT=""></A>
+<A HREF="animations/bag_pull.avi"><IMG SRC="images/bag_pull.png"ALT=""></A>
+<A HREF="animations/smoke_close.avi"><IMG SRC="images/smoke_close.png"ALT=""></A><BR><BR></LI>
+
+<LI>
+Hair simulation (with Andrew Selle and Michael Lentine).<BR>
+<A HREF="animations/shaking_head_front_blur.avi"><IMG SRC="images/shaking_head.png"ALT=""></A>
+<A HREF="animations/rotating_head.avi"><IMG SRC="images/rotating_head.png"ALT=""></A>
+<A HREF="animations/hair_wind.avi"><IMG SRC="images/hair_wind.png"ALT=""></A>
+<A HREF="animations/hair_curly.avi"><IMG SRC="images/hair_curly.png"ALT=""></A><BR><BR></LI>
+
+<LI>
+Highly detailed cloth simulation (with Andrew Selle, Jon Su and Geoffrey Irving).<BR>
+<A HREF="animations/cloth-curtain-ball-side.avi"><IMG SRC="images/curtain_ball.png"ALT=""></A>
+<A HREF="animations/cloth-ball-near.avi"><IMG SRC="images/sphere.png"ALT=""></A>
+<A HREF="animations/cloth-wardrobe.avi"><IMG SRC="images/wardrobe.png"ALT=""></A><BR><BR></LI>
+
+<LI>
+Two way coupled SPH and particle level set fluid simulation (with Frank Losasso, Jerry Talton and Nipun Kwatra).<BR>
+<A HREF="animations/lighthouse.avi"><IMG SRC="images/lighthouse.png"ALT=""></A><BR><BR></LI>
+
+<LI>
+Hybrid simulation of embedded deformable solids and rigid bodies (with Eftychios Sifakis, Tamar Shinar and Geoffrey Irving).<BR>
+<A HREF="animations/hybrid_daisy_chain.avi"><IMG SRC="images/hybrid_daisy_chain.png"ALT=""></A>
+<A HREF="animations/hybrid_curtain.avi"><IMG SRC="images/hybrid_curtain.png"ALT=""></A>
+<A HREF="animations/hybrid_face.avi"><IMG SRC="images/hybrid_face.png"ALT=""></A><BR><BR></LI>
+
+<LI>
+Arbitrary cutting of tetrahedral meshes (with Eftychios Sifakis and Kevin Der).<BR>
+<A HREF="animations/cutting_tet.avi"><IMG SRC="images/cutting_tet.png"ALT=""></A>
+<A HREF="animations/cutting_sticks.avi"><IMG SRC="images/cutting_sticks.png"ALT=""></A>
+<A HREF="animations/cutting_slinky.avi"><IMG SRC="images/cutting_slinky.png"ALT=""></A>
+<A HREF="animations/cutting_face.avi"><IMG SRC="images/cutting_face.png"ALT=""></A><BR><BR></LI>
+
+<LI> 
+Fire with cellular patterns (with Jeong-Mo Hong and Tamar Shinar).<BR>
+<A HREF="animations/fireball.avi"><IMG SRC="images/fireball.png"ALT=""></A>
+<A HREF="animations/fireball-smoke.avi"><IMG SRC="images/fireball-smoke.png"ALT=""></A>
+<A HREF="animations/bunny-burn.avi"><IMG SRC="images/bunny-burn.png"ALT=""></A>
+<A HREF="animations/dragon-flame.avi"><IMG SRC="images/dragon-flame.png"ALT=""></A><BR><BR></LI>
+
+<LI>
+Incompressible solids (with Geoffrey Irving and Craig Schroeder).<BR>
+<A HREF="animations/armadillo-stairs-low.avi"><IMG SRC="images/armadillo-stairs-low.png"ALT=""></A>
+<A HREF="animations/armadillo-stairs-high.avi"><IMG SRC="images/armadillo-stairs-high.png"ALT=""></A>
+<A HREF="animations/tori.avi"><IMG SRC="images/tori.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Fracturing rigid bodies (with Josh Bao, Jeong-Mo Hong and Joey Teran).<BR>
+<A HREF="animations/wall1.avi"><IMG SRC="images/wall1.png"ALT=""></A>
+<A HREF="animations/wall2.avi"><IMG SRC="images/wall2.png"ALT=""></A>
+<A HREF="animations/ball_wall_pan.avi"><IMG SRC="images/ball_wall_pan.png"ALT=""></A>
+<A HREF="animations/20walls.avi"><IMG SRC="images/20walls.png"ALT=""></A>
+<A HREF="animations/armadillo_fracture.avi"><IMG SRC="images/armadillo_fracture.png"ALT=""></A>
+<A HREF="animations/ornaments.avi"><IMG SRC="images/ornaments.png"ALT=""></A><BR><BR></LI>
+
+<LI>
+Thin shell rigid bodies (with Josh Bao, Jeong-Mo Hong and Joey Teran).<BR>
+<A HREF="animations/1000boats.avi"><IMG SRC="images/1000boats.png"ALT=""></A>
+<A HREF="animations/boat1.avi"><IMG SRC="images/boat1.png"ALT=""></A>
+<A HREF="animations/boat2.avi"><IMG SRC="images/boat2.png"ALT=""></A>
+<A HREF="animations/boat3.avi"><IMG SRC="images/boat3.png"ALT=""></A><BR><BR></LI>
+
+<LI>
+Multiple Interacting Liquids (with Frank Losasso, Tamar Shinar and Andrew Selle).<BR>
+<A HREF="animations/rayleigh_taylor.avi"><IMG SRC="images/rayleigh_taylor.jpg"ALT=""></A>
+<A HREF="animations/varying_viscosity.avi"><IMG SRC="images/varying_viscosity.jpg"ALT=""></A>
+<A HREF="animations/chemical_reaction.avi"><IMG SRC="images/chemical_reaction.jpg"ALT=""></A>
+<A HREF="animations/water_oil.avi"><IMG SRC="images/water_oil.jpg"ALT=""></A>
+<A HREF="animations/letters_fire.avi"><IMG SRC="images/letters_fire.jpg"ALT=""></A>
+<A HREF="animations/viscoelastic_armadillo.avi"><IMG SRC="images/viscoelastic_armadillo.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Mixing fully 3D water with 2D height field techniques (with Geoffrey Irving, Eran Guendelman and Frank Losasso).<BR>
+<A HREF="animations/boat_straight.wmv"><IMG SRC="images/boat_straight.jpg"ALT=""></A>
+<A HREF="animations/boat_turning.wmv"><IMG SRC="images/boat_turning.jpg"ALT=""></A>
+<A HREF="animations/river_track.wmv"><IMG SRC="images/river.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Articulated rigid body simulations (with Rachel Weinstein and Joey Teran).<BR>
+<A HREF="animations/tank_straight_comp.avi"><IMG SRC="images/tank.jpg"ALT=""></A>
+<A HREF="animations/tank_turn_comp.avi"><IMG SRC="images/tank_turn.jpg"ALT=""></A>
+<A HREF="animations/scrunchies_2160_comp.avi"><IMG SRC="images/articulated_stack.jpg"ALT=""></A>
+<A HREF="animations/falling_skeletons_64pix.avi"><IMG SRC="images/skeletons.jpg"ALT=""></A>
+<A HREF="animations/net_comp.avi"><IMG SRC="images/net.jpg"ALT=""></A>
+<A HREF="animations/bridgeblocks112-550.avi"><IMG SRC="images/bridge.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Melting and burning Lagrangian based solids into Eulerian based fluids (with Frank Losasso, Geoffrey Irving and Eran Guendelman).<BR>
+<A HREF="animations/Ice_Cubes_Compressed.avi"><IMG SRC="images/ice_stacked.jpg"ALT=""></A>
+<A HREF="animations/melting_ice.avi"><IMG SRC="images/floating_ice.jpg"ALT=""></A>
+<A HREF="animations/torus_cage.avi"><IMG SRC="images/torus_melt.jpg"ALT=""></A>
+<A HREF="animations/Burning_Paper.avi"><IMG SRC="images/burning_sheet.jpg"ALT=""></A>
+<A HREF="animations/burning_tvcg.avi"><IMG SRC="images/burning_tvcg.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Robust invertible quasistatic simulations for skinning (with Joey Teran, Eftychios Sifakis and Geoffrey Irving).<BR>
+<A HREF="animations/Armadillo_Explosion_Front_Compressed.avi"><IMG SRC="images/inverted_armadillo.jpg"ALT=""></A>
+<A HREF="animations/Fat_Flesh_Arm_Curl_And_Raise_Transparent_Front_Compressed.avi"><IMG SRC="images/see_through_flesh.jpg"ALT=""></A>
+<A HREF="animations/Muscles_And_Bones_Compressed.avi"><IMG SRC="images/quasistatics_muscles.jpg"ALT=""></A>
+<A HREF="animations/skin_front_compressed.avi"><IMG SRC="images/quasistatics_flesh.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Automatic estimation of facial muscle activations from sparse motion capture marker data (with Eftychios Sifakis and Igor Neverov).<BR> 
+<A HREF="animations/storytelling_muscles_sound_divx.avi"><IMG SRC="images/face_muscles.jpg"ALT=""></A>
+<A HREF="animations/storytelling_markers_sound_divx.avi"><IMG SRC="images/face_talk.jpg"ALT=""></A>
+<A HREF="animations/estimated_smile_markers_divx.avi"><IMG SRC="images/face_smile.jpg"ALT=""></A>
+<A HREF="animations/estimated_frown_markers_divx.avi"><IMG SRC="images/face_frown.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+We're currently building a higher resolution facial model (with Eftychios Sifakis and <A HREF="http://www.xyzrgb.com">xyzrgb</A>).<BR>
+<IMG SRC="images/face_building_1.jpg"ALT="">
+<IMG SRC="images/face_building_2.jpg"ALT="">
+<IMG SRC="images/face_building_3.jpg"ALT="">
+<A HREF="images/efty_04.jpg"><IMG SRC="images/efty_04_small.jpg"ALT=""></A>
+<A HREF="images/efty_01.jpg"><IMG SRC="images/efty_01_small.jpg"ALT=""></A>
+<BR><BR></LI>
+
+<LI>
+Two-way solid fluid coupling with thin rigid and deformable solids (with Eran Guendelman, Andrew Selle and Frank Losasso).<BR>
+<A HREF="animations/water-curtain-front_new.avi"><IMG SRC="images/curtain_water_front.jpg"ALT=""></A>
+<A HREF="animations/water-curtain-back_new.avi"><IMG SRC="images/curtain_water_back.jpg"ALT=""></A>
+<A HREF="animations/funnel_new.avi"><IMG SRC="images/funnel_water.jpg"ALT=""></A>
+<A HREF="animations/buddha_cup_new.avi"><IMG SRC="images/buddha_cup.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Fluid simulations using a Lagrangian vortex particle method hybridized with an Eulerian grid based solver (with Andrew Selle and Nick Rasmussen).<BR>
+<A HREF="animations/vortex_particles_smoke.avi"><IMG SRC="images/vortex_particles_smoke.jpg"ALT=""></A>
+<A HREF="animations/vortex_particles_water.avi"><IMG SRC="images/vortex_particles_water.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Animations of muscles constructed from the NIH visible human data set (with Joseph Teran, Eftychios Sifakis and Cynthia Lau).<BR>
+<A HREF="animations/triceps_ms_comp.avi"><IMG SRC="images/triceps_ms.jpg"ALT=""></A>
+<A HREF="animations/triceps_fvm_side_comp.avi"><IMG SRC="images/triceps_fvm_side.jpg"ALT=""></A><BR><BR></LI>
+
+<LI> 
+Robust finite element simulation, even for degenerate and inverted elements (with Geoffrey Irving and Joey Teran).<BR>
+<A HREF="animations/torus_puddle.avi"><IMG SRC="images/torus_puddle.jpg"ALT=""></A>
+<A HREF="animations/buddha_gear.avi"><IMG SRC="images/buddha_gear.jpg"ALT=""></A>
+<A HREF="animations/plastic_sphere.avi"><IMG SRC="images/plastic_sphere.jpg"ALT=""></A>
+<A HREF="animations/buddha_ball.avi"><IMG SRC="images/buddha_ball.jpg"ALT=""></A>
+<A HREF="animations/buddha_cape.avi"><IMG SRC="images/buddha_cape.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Simulations of changing mesh topology during simulation (with Neil Molino and Zhaosheng Bao).<BR>
+<A HREF="animations/fracture_shell_collision.avi"><IMG SRC="images/fracture_shell_collision.jpg"ALT=""></A>
+<A HREF="animations/mickey_mouse.avi"><IMG SRC="images/mickey_mouse.jpg"ALT=""></A>
+<A HREF="animations/armadillo_slice.mov"><IMG SRC="images/armadillo_slice.jpg"ALT=""></A>
+<A HREF="animations/armadillo_tear.mov"><IMG SRC="images/armadillo_tear.jpg"ALT=""></A>
+<A HREF="animations/armadillo_head.mov"><IMG SRC="images/armadillo_head.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Simulations on an octree data structure (with Frank Losasso and Frederic Gibou).<BR>
+<A HREF="animations/ellipse_octree_movie.avi"><IMG SRC="images/ellipse_octree.jpg"ALT=""></A>
+<A HREF="animations/milk_octree_movie.avi"><IMG SRC="images/milk_octree.jpg"ALT=""></A>
+<A HREF="animations/smoke_octree.avi"><IMG SRC="images/smoke_octree.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Animations of rigid bodies (with Eran Guendelman and Robert Bridson).<BR>
+<A HREF="animations/10-plank_test_withcontact_c.avi"><IMG SRC="images/stack.jpg"ALT=""></A>
+<A HREF="animations/12-1000rings_c.avi"><IMG SRC="images/rings.jpg"ALT=""></A>
+<A HREF="animations/13-bones_15fps_c.avi"><IMG SRC="images/bones.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Tetrahedral mesh generation (with Neil Molino, Robert Bridson and Joseph Teran).<BR>
+<TABLE WIDTH="0%">
+<TD><IMG SRC="images/buddha.jpg"ALT=""></TD>
+<TD><IMG SRC="images/torus.jpg"ALT=""><BR><IMG SRC="images/cranium.jpg"ALT=""><BR></TD>
+<TD><IMG SRC="images/cut_torus.jpg"ALT=""><BR><IMG SRC="images/cut_cranium.jpg"ALT=""><BR></TD>
+</TABLE><BR></LI>
+
+<LI>
+Animations of thin shells with non-flat rest angles (with Robert Bridson). The hollow buddha on the left uses a weak bending model<BR>
+and collapses similar to a deflated balloon. In the animation on the right, this is compared to a buddha with stronger bending forces<BR>
+that retains its shape similar to a water bottle.<BR>
+<A HREF="animations/buddha_drop.mov"><IMG SRC="images/buddha_drop.jpg"ALT=""></A>
+<A HREF="animations/buddha2.mov"><IMG SRC="images/buddha2.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Animations of cloth (with Robert Bridson and John Anderson).<BR>
+<A HREF="animations/cloth0.avi"><IMG SRC="images/cloth0.jpg"ALT=""></A>
+<A HREF="animations/cloth1.avi"><IMG SRC="images/cloth1.jpg"ALT=""></A>
+<A HREF="animations/cloth2.avi"><IMG SRC="images/cloth2.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Animations of fire (with Duc Nguyen and Henrik Jensen).<BR>
+<A HREF="animations/nonflammable.avi"><IMG SRC="images/nonflammable.jpg"ALT=""></A>
+<A HREF="animations/flammable.avi"><IMG SRC="images/flammable.jpg"ALT=""></A>
+<A HREF="animations/campfire.avi"><IMG SRC="images/campfire.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Animations of water (with Doug Enright and Steve Marschner).<BR>
+<A HREF="animations/splash-640.avi"><IMG SRC="images/splash_0018.jpg"ALT=""></A>
+<A HREF="animations/glass00.avi"><IMG SRC="images/glass_0270.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Animations of water (with Doug Enright, Willi Geiger and Industrial Light + Magic).<BR>
+<A HREF="animations/wave-15.avi"><IMG SRC="images/wave_0161.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Animations of water (with Nick Foster).<BR>
+<A HREF="animations/levelset_video_2_new.avi"><IMG SRC="images/levelset2.jpg"ALT=""></A>
+<A HREF="animations/particles_video_3_new.avi"><IMG SRC="images/particle3.jpg"ALT=""></A>
+<A HREF="animations/particles_video_4_new.avi"><IMG SRC="images/particle4.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Animations of smoke (with Jos Stam and Henrik Jensen).<BR>
+<A HREF="animations/smoke_rising.m1v"><IMG SRC="images/smoke_rising.jpg"ALT=""></A>
+<A HREF="animations/smoke_around_sphere.m1v"><IMG SRC="images/smoke_sphere.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+Animation of fire (with David Wasson and Ari Sachter-Zeltzer).<BR>
+<A HREF="animations/CandleHalf.mpg"><IMG SRC="images/candle.jpg"ALT=""></A> 
+<BR><BR></LI>
+
+<LI>
+Interpolation of unorganized data points, including hole filling for missing or damaged data,<BR>
+with a level set shrink wrapping algorithm (with Hongkai Zhao and Stanley Osher).<BR>
+<IMG SRC="images/ratbrain_points.jpg"ALT=""><IMG SRC="images/ratbrain.jpg"ALT="">
+<IMG SRC="images/sphere_hole_points.jpg"ALT=""><IMG SRC="images/sphere_final.jpg"ALT=""><BR><BR></LI>
+
+<LI>
+The new Particle Level Set Method cures area/accuracy loss for Level Set Methods<BR>
+(with Doug Enright, Joel Ferziger and Ian Mitchell).<BR>
+<BR>Animation of a rotating slotted sphere with the Level Set Method (left)
+and Particle Level Set Method (right).<BR>
+<A HREF="animations/zalesak_levelset.m1v"><IMG SRC="images/levelset_zalesak.jpg"ALT=""></A>
+<A HREF="animations/zalesak_particle.m1v"><IMG SRC="images/particle_zalesak.jpg"ALT=""></A><BR>
+<BR>Animation of a volume preserving flow with the Level Set Method (left)
+and Particle Level Set Method (right).<BR>
+<A HREF="animations/deformation_levelset.m1v"><IMG SRC="images/levelset_deformation.jpg"ALT=""></A>
+<A HREF="animations/deformation_particle.m1v"><IMG SRC="images/particle_deformation.jpg"ALT=""></A><BR><BR></LI>
+
+<LI>
+This animation uses the Ghost Fluid Method (co-invented with Tariq Aslam)<BR>
+and the Level Set Method (coinvented by Stanley Osher and James Sethian)<BR>
+to simulate an air shock deforming a helium bubble.<BR>
+<A HREF="animations/ShockBubble.avi"><IMG SRC="images/shock_bubble.jpg"ALT=""></A><BR><BR></LI>
+
+</UL>
+
+<P><HR><B><FONT SIZE="+2">MANTASUIT</FONT></B><BR>
+The goal is to design an underwater diving suit that provides a diver with an exoskeleton for enhanced locomotion, 
+as well as augmented reality enhancements for underwater vision and directional sound detection. 
+Concept art by Wilson Tang.<BR>
+<IMG SRC="images/mantasuit.jpg"ALT=""><BR><BR>
+
+
+<P><HR><B><FONT SIZE="+2">Academy of Motion Picture Arts and Sciences</FONT></B><BR>
+<A HREF="http://www.oscars.org/scitech/index.html">Scientific and Technical Awards</A>
+- Since 1930/31 the Academy of Motion Picture Arts and Sciences has conducted a program for honoring the artisans whose contributions have made it possible for an industry known as "The Movies" to exist. Recognition of ingenuity, efficiency and economy toward achieving the end result is the basic purpose of the Scientific and Technical Awards.
+
+<P><B><FONT SIZE="+2">National Academy of Sciences</FONT></B><BR>
+<A HREF="http://www.nasonline.org/site/PageServer?pagename=AWARDS_initiatives">NAS Award for Initiatives in Research</A>
+- awarded to recognize innovative young scientists and to encourage research likely to lead toward new capabilities for human benefit. The award is to be given to a citizen of the United States, preferably no older than 35 years of age. The field of presentation rotates among the physical sciences, engineering, and mathematics.
+
+<P><B><FONT SIZE="+2">The David and Lucille Packard Foundation</FONT></B><BR>
+<A HREF="http://www.packard.org/fellowsList.aspx?RootCatID=3&CategoryID=70">Fellowships for Science and Engineering</A>
+- The Foundation has a long-standing interest in strengthening both university-based research and graduate education.
+Each year, they generously(!) select 20 Fellows to receive individual grants of $625,000 over five years.
+The Fellowship Program was established in 1988.
+
+<P><B><FONT SIZE="+2">Presidential Early Career Award for Scientists and Engineers</FONT></B><BR>
+<A HREF="http://www.whitehouse.gov/news/releases/2002/06/20020626-3.html">PECASE</A>
+- I went to the  White House for the PECASE <A HREF="http://www.whitehouse.gov/news/releases/2002/07/20020712-1.html">awards ceremony</A>
+(thank you Wen & ONR!) which included a wonderful speech by President George W. Bush.<BR>
+
+<P><B><FONT SIZE="+2">The Alfred P. Sloan Foundation</FONT></B><BR>
+<A HREF="http://www.sloan.org/programs/scitech_fellowships.shtml">Sloan Research Fellowships</A>
+- Currently a total of 116 fellowships are awarded annually in seven fields: chemistry, computational and evolutionary molecular biology, computer science, economics, mathematics, neuroscience, and physics.
+
+<P><B><FONT SIZE="+2">ACM SIGGRAPH</FONT></B><BR>
+<A HREF="http://www.siggraph.org/awards">ACM SIGGRAPH Awards Program</A>
+- The ACM SIGGRAPH Awards program recognizes individuals who have made a significant contribution to the computer graphics community through their research, teaching, service, or writing.
+
+<P><B><FONT SIZE="+2">The Okawa Foundation</FONT></B><BR>
+<A HREF="http://www.okawa-foundation.or.jp/e/index.html">The Okawa Foundation Research Grant</A>
+- The Foundation was established in 1986 as an authorized non-profit organization to promote the growth and development of the information and telecommunications fields, through donations from the late Mr. Isao Okawa.
+
+<P><HR><B><FONT SIZE="+2">Publications</FONT></B><BR>
+
+<P><B><FONT SIZE="+1">Computational Physics...</FONT></B><BR>
+<UL>
+<LI><A HREF="papers/stanford2008-04.pdf"> Kwatra, N., Su, J., Gretarsson, J. and Fedkiw, R.,
+"A Method for Avoiding the Acoustic Time-Step Restriction in Compressible Flow",
+J. Comp. Phys., (in review).</A>
+
+<LI><A HREF="papers/stanford2006-09.pdf"> Selle, A., Fedkiw, R., Kim, B.-M., Liu, Y. and Rossignac, J.,
+"An Unconditionally Stable MacCormack Method",
+J. Sci. Comput. 35, 350-371 (2008).</A>
+
+<LI><A HREF="papers/stanford2006-03.pdf"> Hong, J.-M., Shinar, T., Kang, M. and Fedkiw, R.,
+"On Boundary Condition Capturing for Multiphase Interfaces",
+J. Sci. Comput. 31, 99-125 (2007).</A>
+
+<LI><A HREF="papers/stanford2004-07.pdf"> Losasso, F., Fedkiw, R. and Osher,
+"Spatially Adaptive Techniques for Level Set Methods and Incompressible Flow",
+Computers and Fluids 35, 995-1010 (2006).</A>
+
+<LI><A HREF="papers/stanford2003-12.pdf"> Bridson, R., Teran, J., Molino, N. and Fedkiw, R.,
+"Adaptive Physics Based Tetrahedral Mesh Generation Using Level Sets",
+Engineering with Computers 21, 2-18 (2005).</A>
+
+<LI><A HREF="papers/stanford2003-10.pdf"> Enright, D., Losasso, F. and Fedkiw, R.,
+"A Fast and Accurate Semi-Lagrangian Particle Level Set Method",
+Computers and Structures 83, 479-490 (2005).</A>
+
+<LI><A HREF="papers/stanford2003-09.pdf"> Gibou, F. and Fedkiw, R.,
+"A Fourth Order Accurate Discretization for the Laplace and Heat Equations on Arbitrary Domains, with Applications to the Stefan Problem",
+J. Comput. Phys. 202, 577-601 (2005).</A>
+
+<LI><A HREF="papers/stanford2003-08.pdf"> Molino, N., Bridson, R., Teran, J. and Fedkiw, R.,
+"A Crystalline, Red Green Strategy for Meshing Highly Deformable Objects with Tetrahedra",
+12th Int. Meshing Roundtable, 103-114, 2003.</A>
+
+<LI><A HREF="papers/stanford2003-03.pdf"> Enright, D., Nguyen, D., Gibou, F. and Fedkiw, R.,
+"Using the Particle Level Set Method and a Second Order Accurate Pressure Boundary Condition for Free Surface Flows",
+Proc. of the 4th ASME-JSME Joint Fluids Eng. Conf., FEDSM2003-45144, edited by M. Kawahashi and A. Ogut and Y. Tsuji, pp. 1-6, Honolulu, HI 2003.</A>
+
+<LI><A HREF="papers/stanford2002-07.pdf"> Enright, D. and Fedkiw, R.,
+"Robust Treatment of Interfaces for Fluid Flow and Computer Graphics",
+Hyperbolic Problems: Theory, Numerics, Applications, edited by T. Hou and E. Tadmor, pp. 153-164, Springer-Verlag, New York, 2003.</A>
+
+<LI><A HREF="papers/stanford2002-05.pdf"> Nguyen, D., Gibou, F. and Fedkiw, R.,
+"A Fully Conservative Ghost Fluid Method & Stiff Detonation Waves",
+12th Int. Detonation Symposium, San Diego, CA, 2002.</A>
+
+<LI><A HREF="papers/stanford2002-04.pdf"> Gibou, F., Fedkiw, R. Caflisch, R. and Osher S.,
+"A Level Set Approach for the Numerical Simulation of Dendritic Growth",
+J. Sci. Comput. 19, 183-199 (2003).</A>
+
+<LI><A HREF="papers/stanford2001-05.pdf"> Fedkiw, R., Sapiro, G. and Shu, C.-W.,
+"Shock Capturing, Level Sets and PDE Based Methods in Computer Vision and Image Processing: A Review on Osher's Contribution",
+J. Comput. Phys. 185, 309-341 (2003).</A>
+
+<LI><A HREF="papers/stanford2001-04.pdf"> Enright, D., Fedkiw, R., Ferziger, J. and Mitchell, I.,
+"A Hybrid Particle Level Set Method for Improved Interface Capturing",
+J. Comput. Phys. 183, 83-116 (2002).</A>
+
+<LI><A HREF="papers/cam2000-37.ps"> Gibou, F., Fedkiw, R., Cheng, L.-T. and Kang, M.,
+"A Second Order Accurate Symmetric Discretization of the Poisson Equation on Irregular Domains",
+J. Comput. Phys. 176, 205-227 (2002).</A>
+
+<LI><A HREF="papers/cam2000-19.ps"> Nguyen, D., Fedkiw, R. and Kang, M.,
+"A Boundary Condition Capturing Method for Incompressible Flame Discontinuities",
+J. Comput. Phys. 172, 71-98 (2001).</A>
+
+<LI><A HREF="papers/cam2000-12.pdf"> Fedkiw, R.,
+"Coupling an Eulerian Fluid Calculation to a Lagrangian Solid Calculation with the Ghost Fluid Method",
+J. Comput. Phys. 175, 200-224 (2002).</A>
+
+<LI><A HREF="papers/cam2000-08.ps"> Osher, S. and Fedkiw, R.,
+"Level Set Methods: An Overview and Some Recent Results",
+J. Comput. Phys. 169, 463-502 (2001).</A>
+
+<LI><A HREF="papers/cam2000-03.ps"> Chen, S., Merriman, B., Kang, M., Caflisch, R., Ratsch, C., Cheng, L.-T., Gyure, M., Fedkiw R., Anderson,C. and Osher, S.,
+"Level Set Method for Thin Film Epitaxial Growth",
+J. Comput. Phys. 167, 475-500 (2001).</A>
+
+<LI><A HREF="papers/cam2000-01.ps"> Caiden, R., Fedkiw, R. and Anderson, C.,
+"A Numerical Method for Two Phase Flow Consisting of Separate Compressible and Incompressible Regions",
+J. Comput. Phys. 166, 1-27 (2001).</A>
+
+<LI><A HREF="papers/cam1999-31.ps"> Fedkiw, R.,
+"The Ghost Fluid Method for Discontinuities and Interfaces",
+Godunov Methods, edited by E.F. Toro, pp. 309-317, Kluwer, New York 2001.</A>
+
+<LI><A HREF="papers/cam1999-27.ps"> Kang, M., Fedkiw, R. and Liu, X.-D.,
+"A Boundary Condition Capturing Method for Multiphase Incompressible Flow",
+J. Sci. Comput. 15, 323-360 (2000).</A>
+
+<LI><A HREF="papers/cam1999-15.ps"> Liu, X.-D., Fedkiw, R. and Kang, M.,
+"A Boundary Condition Capturing Method for Poisson's Equation on Irregular Domains",
+J. Comput. Phys. 160, 151-178 (2000).</A>
+
+<LI><A HREF="papers/cam1999-12.pdf"> Hwang, P., Fedkiw, R., Merriman, B., Aslam, T., Karagozian, A. and Osher, S.,
+"Numerical Resolution of Pulsating Detonation Waves",
+Combustion Theory and Modeling 4, 217-240 (2000).</A>
+
+<LI><A HREF="papers/cam1998-44.ps"> Fedkiw, R. and Liu, X.-D.,
+"The Ghost Fluid Method for Viscous Flows",
+Innovative Methods for Numerical Solutions of Partial Differential Equations, edited by M. Hafez and J.-J. Chattot, pp. 111-143, World Scientific Publishing, New Jersey, 2002.</A>
+
+<LI><A HREF="papers/cam1998-36.ps"> Fedkiw, R., Aslam, T. and Xu, S.,
+"The Ghost Fluid Method for Deflagration and Detonation Discontinuities",
+J. Comput. Phys. 154, 393-427 (1999).</A>
+
+<LI><A HREF="papers/cam1998-17.ps"> Fedkiw, R., Aslam, T., Merriman, B. and Osher, S.,
+"A Non-Oscillatory Eulerian Approach to Interfaces in Multimaterial Flows (The Ghost Fluid Method)",
+J. Comput. Phys. 152, 457-492 (1999).</A>
+
+<LI><A HREF="papers/cam1998-16.ps"> Fedkiw, R., Merriman, B. and Osher, S.,
+"Simplified Upwind Discretization of Systems of Hyperbolic Conservation Laws Containing Advection Equations",
+J. Comput. Phys. 157, 302-326 (2000).</A>
+
+<LI><A HREF="papers/cam1998-11.ps"> Liu, X.-D., Fedkiw, R., and Osher, S.,
+"A Quasi-Conservative Approach to the Multiphase Euler Equations without Spurious Pressure Oscillations",
+Advances in Scientific Computing, 106-115, edited by Z.-C. Shi, M. Mu, W. Xue and J. Zou, Science Press Beijing/New York 2001.</A>
+
+<LI><A HREF="papers/cam1998-05.ps"> Fedkiw, R., Marquina, A. and Merriman, B.,
+"An Isobaric Fix for the Overheating Problem in Multimaterial Compressible Flows",
+J. Comput. Phys. 148, 545-578 (1999).</A>
+
+<LI><A HREF="papers/cam1997-27.ps"> Fedkiw, R., Liu, X.-D. and Osher, S.,
+"A General Technique for Eliminating Spurious Oscillations in Conservative Schemes for Multiphase and Multispecies Euler Equations",
+Int. J. Nonlinear Sci. and Numer. Sim. 3, 99-106 (2002).</A>
+
+<LI><A HREF="papers/cam1997-17.ps"> Fedkiw, R., Merriman, B. and Osher, S.,
+"Efficient Characteristic Projection in Upwind Difference Schemes for Hyperbolic Systems (The Complementary Projection Method)",
+J. Comput. Phys. 141, 22-36 (1998).</A>
+
+<LI><A HREF="papers/cam1996-32.ps"> Fedkiw, R., Merriman, B. and Osher, S.,
+"Numerical Methods for a One-Dimensional Interface Separating Compressible and Incompressible Flows",
+Barriers and Challenges in Computational Fluid Dynamics, edited by V. Venkatakrishnan, M. Salas, and S. Chakravarthy, pp. 155-194, Kluwer Academic Publishers, The Netherlands, 1998.</A>
+
+<LI><A HREF="papers/cam1996-18.ps"> Fedkiw, R., Merriman, B., Donat, R. and Osher, S.,
+"The Penultimate Scheme for Systems of Conservation Laws: Finite Difference ENO with Marquina's Flux Splitting",
+Innovative Methods for Numerical Solutions of Partial Differential Equations, edited by M. Hafez and J.-J. Chattot, pp. 49-85, World Scientific Publishing, New Jersey, 2002.</A>
+
+<LI><A HREF="papers/cam1996-01.ps"> Fedkiw, R., Merriman, B. and Osher, S.,
+"Numerical Methods for a Mixture of Thermally Perfect and/or Calorically Perfect Gaseous Species with Chemical Reactions",
+J. Comput. Phys. 132, 175-190 (1997).</A>
+</UL>
+
+<P><B><FONT SIZE="+1">Ph.D. thesis...</FONT></B>
+<UL>
+<LI><A HREF="papers/thesis.ps"> Fedkiw, R.,
+"A Survey of Chemically Reacting, Compressible Flow",
+Ph.D. Thesis, UCLA Mathematics Department, June 1996.</A>
+</UL>
+
+<P><B><FONT SIZE="+1">Computer Graphics, Vision & Biomechanics...</FONT></B>
+<UL>
+
+<LI><A HREF="papers/stanford2008-03.pdf">Shinar, T., Schroeder, C. and Fedkiw, R.,
+"Two-way Coupling of Rigid and Deformable Bodies", 
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), edited by Doug James and Markus Gross, pp. 95-103 (2008).</A>
+
+<LI><A HREF="papers/stanford2008-02.pdf">Selle, A., Lentine, M. and Fedkiw, R.,
+"A Mass Spring Model for Hair Simulation",
+SIGGRAPH 2008, ACM TOG 27, 64.1-64.11 (2008).</A>
+ 
+<LI><A HREF="papers/stanford2008-01.pdf">Robinson-Mosher, A., Shinar, T., Gretarsson, J., Su, J. and Fedkiw, R.,
+"Two-way Coupling of Fluids to Rigid and Deformable Solids and Shells", 
+SIGGRAPH 2008, ACM TOG 27, 46.1-46.9 (2008).</A>
+
+<LI><A HREF="papers/stanford2007-06.pdf">Selle. A, Su, J., Irving, G. and Fedkiw, R.,
+"Highly Detailed Folds and Wrinkles for Cloth", 
+IEEE TVCG (in press).</A>
+
+<LI><A HREF="papers/stanford2007-05.pdf">Losasso, F., Talton, J., Kwatra, N. and Fedkiw, R.,
+"Two-way Coupled SPH and Particle Level Set Fluid Simulation",
+IEEE TVCG 14, 797-804 (2008).</A>
+
+<LI><A HREF="papers/stanford2007-04.pdf"> Sifakis, E., Der, K. and Fedkiw, R.,
+"Arbitrary Cutting of Deformable Tetrahedralized Objects",
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), edited by D. Metaxas and J. Popovic, pp. 73-80 (2007).</A>
+
+<LI><A HREF="papers/stanford2007-03.pdf"> Sifakis, E., Shinar, T., Irving, G. and Fedkiw, R.,
+"Hybrid Simulation of Deformable Solids",
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), edited by D. Metaxas and J. Popovic pp. 81-90 (2007).</A>
+
+<LI><A HREF="papers/stanford2007-02.pdf"> Hong, J.-M., Shinar, T. and Fedkiw, R.,
+"Wrinkled Flames and Cellular Patterns",
+SIGGRAPH 2007, ACM TOG 26, 47.1-47.6 (2007).</A>
+
+<LI><A HREF="papers/stanford2007-01.pdf"> Irving, G., Schroeder, C. and Fedkiw, R.,
+"Volume Conserving Finite Element Simulation of Deformable Models",
+SIGGRAPH 2007, ACM TOG 26, 13.1-13.6 (2007).</A>
+
+<LI><A HREF="papers/stanford2006-08.pdf"> Weinstein, R., Guendelman, E. and Fedkiw, R.,
+"Impulse-Based Control of Joints and Muscles",
+IEEE TVCG 14, 37-46 (2008).</A>
+
+<LI><A HREF="papers/stanford2006-07.pdf"> Bao, Z., Hong, J.-M., Teran, J. and Fedkiw, R.,
+"Fracturing Rigid Materials",
+IEEE TVCG 13, 370-378 (2007).</A>
+
+<LI><A HREF="papers/stanford2006-06.pdf"> Geiger, W., Leo, M., Rasmussen, N., Losasso, F. and Fedkiw, R.,
+"So Real It'll Make You Wet",
+SIGGRAPH 2006 Sketches and Applications, 2006.</A>
+
+<LI><A HREF="papers/stanford2006-05.pdf"> Weinstein, R., Guendelman, E. and Fedkiw, R.,
+"Impulse-Based PD Control for Joints and Muscles",
+SIGGRAPH 2006 Sketches and Applications, 2006.</A>
+
+<LI><A HREF="papers/stanford2006-04.pdf"> Sifakis, E., Selle, A., Robinson-Mosher, A. and Fedkiw, R.,
+"Simulating Speech with a Physics-Based Facial Muscle Model",
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), edited by M.-P. Cani and J. O.Brien, pp. 261-270, 2006.</A>
+
+<LI><A HREF="papers/stanford2006-02.pdf"> Losasso, F., Shinar, T. Selle, A. and Fedkiw, R.,
+"Multiple Interacting Liquids",
+SIGGRAPH 2006, ACM TOG 25, 812-819 (2006).</A>
+
+<LI><A HREF="papers/stanford2006-01.pdf"> Irving, G., Guendelman, E., Losasso, F. and Fedkiw, R.,
+"Efficient Simulation of Large Bodies of Water by Coupling Two and Three Dimensional Techniques",
+SIGGRAPH 2006, ACM TOG 25, 805-811 (2006).</A>
+
+<LI><A HREF="papers/stanford2005-10.pdf"> Blemker, S., Teran, J., Sifakis, E., Fedkiw, R. and Delp, S.,
+"Fast 3D Muscle Simulations using a New Quasistatic Invertible Finite-Element Algorithm",
+10th International Symposium on Computer Simulation in Biomechanics, Cleveland, OH, July 2005.</A>
+
+<LI><A HREF="papers/stanford2005-09.pdf"> Weinstein, R., Teran, J. and Fedkiw, R.,
+"Dynamic Simulation of Articulated Rigid Bodies with Contact and Collision",
+IEEE TVCG 12, 365-374 (2006).</A>
+
+<LI><A HREF="papers/stanford2005-08.pdf"> Losasso, F., Irving, G., Guendelman, E. and Fedkiw, R.,
+"Melting and Burning Solids into Liquids and Gases",
+IEEE TVCG 12, 343-352 (2006).</A>
+
+<LI><A HREF="papers/stanford2005-07.pdf"> Teran, J., Sifakis, E., Irving, G. and Fedkiw, R.,
+"Robust Quasistatic Finite Elements and Flesh Simulation",
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), edited by K. Anjyo and P. Faloutsos, pp. 181-190, 2005.</A>
+
+<LI><A HREF="papers/stanford2005-06.pdf"> Geiger, W., Rasmussen, N., Hoon, S. and Fedkiw, R.,
+"Space Battle Pyromania",
+SIGGRAPH 2005 Sketches and Applications, 2005.</A>
+
+<LI><A HREF="papers/stanford2005-05.pdf"> Weinstein, R., Teran, J. and Fedkiw, R.,
+"Pre-stabilization for Rigid Body Articulation with Contact and Collision",
+SIGGRAPH 2005 Sketches and Applications, 2005.</A>
+
+<LI><A HREF="papers/stanford2005-04.pdf"> Sifakis, E. and Fedkiw, R.,
+"Facial Muscle Activations from Motion Capture",
+ Video Proceedings of the 2005 Computer Vision and Pattern Recognition Conference (CVPR), 2005.</A>
+
+<LI><A HREF="papers/stanford2005-03.pdf"> Sifakis, E., Neverov, I. and Fedkiw, R.,
+"Automatic Determination of Facial Muscle Activations from Sparse Motion Capture Marker Data",
+SIGGRAPH 2005, ACM TOG 24, 417-425 (2005).</A>
+
+<LI><A HREF="papers/stanford2005-02.pdf"> Guendelman, E., Selle, A., Losasso, F. and Fedkiw, R.,
+"Coupling Water and Smoke to Thin Deformable and Rigid Shells",
+SIGGRAPH 2005, ACM TOG 24, 973-981 (2005).</A>
+
+<LI><A HREF="papers/stanford2005-01.pdf"> Selle, A., Rasmussen, N. and Fedkiw, R.,
+"A Vortex Particle Method for Smoke, Water and Explosions",
+SIGGRAPH 2005, ACM TOG 24, 910-914 (2005).</A>
+
+<LI><A HREF="papers/stanford2004-08.pdf"> Irving, G., Teran, J. and Fedkiw, R.,
+"Tetrahedral and Hexahedral Invertible Finite Elements",
+Graphical Models 68, 66-89 (2006).</A>
+
+<LI><A HREF="papers/stanford2004-06.pdf"> Teran, J., Sifakis, E., Blemker, S., Ng Thow Hing, V., Lau, C. and Fedkiw, R.,
+"Creating and Simulating Skeletal Muscle from the Visible Human Data Set",
+IEEE TVCG 11, 317-328 (2005).</A>
+
+<LI><A HREF="papers/stanford2004-05.pdf"> Fedkiw, R.,
+"Making a Computational Splash",
+Computer Science, Reflections on the Field, Reflections from the Field, pp. 61-64, The National Academies Press, Washington, 2004.</A>
+
+<LI><A HREF="papers/stanford2004-04.pdf"> Irving, G., Teran, J. and Fedkiw, R.,
+"Invertible Finite Elements for Robust Simulation of Large Deformation",
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), edited by R. Boulic and D. Pai, pp. 131-140, 2004.</A>
+
+<LI><A HREF="papers/stanford2004-03.pdf"> Rasmussen, N., Enright, D., Nguyen, D., Marino. S., Sumner, N., Geiger, W., Hoon, S. and Fedkiw, R.,
+"Directible Photorealistic Liquids",
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), edited by R. Boulic and D. Pai, pp. 193-202, 2004.</A>
+
+<LI><A HREF="papers/stanford2004-02.pdf"> Losasso, F., Gibou, F.  and Fedkiw, R.,
+"Simulating Water and Smoke with an Octree Data Structure",
+SIGGRAPH 2004, ACM TOG 23, 457-462 (2004).</A>
+
+<LI><A HREF="papers/stanford2004-01.pdf"> Molino, N., Bao, Z. and Fedkiw, R.,
+"A Virtual Node Algorithm for Changing Mesh Topology During Simulation",
+SIGGRAPH 2004, ACM TOG 23, 385-392 (2004).</A>
+
+<LI><A HREF="papers/stanford2003-11.pdf"> Nguyen, D., Enright, D., and Fedkiw, R.,
+"Simulation and Animation of Fire and Other Natural Phenomena in the Visual Effects Industry",
+Western States Section, Combustion Institute, Fall Meeting, UCLA, 2003.</A>
+
+<LI><A HREF="papers/stanford2003-07.pdf"> Teran, J., Blemker, S., Ng Thow Hing, V. and Fedkiw, R.,
+"Finite Volume Methods for the Simulation of Skeletal Muscle",
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), edited by D. Breen and M. Lin, pp. 68-74, 2003.</A>
+
+<LI><A HREF="papers/stanford2003-06.pdf"> Bridson, R., Marino, S. and Fedkiw, R.,
+"Simulation of Clothing with Folds and Wrinkles",
+ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA), edited by D. Breen and M. Lin, pp. 28-36, 2003.</A> 
+
+<LI><A HREF="papers/stanford2003-05.pdf"> Geiger, W., Rasmussen, N., Hoon, S. and Fedkiw, R.,
+"Big Bangs",
+SIGGRAPH 2003 Sketches and Applications, 2003.</A>
+
+<LI><A HREF="papers/stanford2003-04.pdf"> Sumner, N., Hoon, S., Geiger, W., Marino, S., Rasmussen, N. and Fedkiw, R.,
+"Melting a Terminatrix",
+SIGGRAPH 2003 Sketches and Applications, 2003.</A>
+
+<LI><A HREF="papers/stanford2003-02.pdf"> Rasmussen, N., Nguyen, D., Geiger, W. and Fedkiw, R.,
+"Smoke Simulation for Large Scale Phenomena",
+SIGGRAPH 2003, ACM TOG 22, 703-707 (2003).</A>
+
+<LI><A HREF="papers/stanford2003-01.pdf"> Guendelman, E., Bridson, R. and Fedkiw, R.,
+"Nonconvex Rigid Bodies with Stacking",
+SIGGRAPH 2003, ACM TOG 22, 871-878 (2003).</A>
+
+<LI><A HREF="papers/stanford2002-08.pdf"> Gibou, F. and Fedkiw, R.,
+"A Fast Hybrid k-Means Level Set Algorithm for Segmentation",
+4th Annual Hawaii International Conference on Statistics and Mathematics, pp. 281-291, 2005.
+Stanford Technical Report, November 2002.</A>
+
+<LI><A HREF="papers/stanford2002-06.pdf"> Fedkiw, R.,
+"Simulating Natural Phenomena for Computer Graphics",
+Geometric Level Set Methods in Imaging, Vision and Graphics, edited by S. Osher and N. Paragios, pp. 461-479, Springer Verlag, New York, 2003.</A>
+
+<LI><A HREF="papers/stanford2002-03.pdf"> Enright, D., Marschner, S. and Fedkiw, R.,
+"Animation and Rendering of Complex Water Surfaces",
+SIGGRAPH 2002, ACM TOG 21, 736-744 (2002).</A>
+
+<LI><A HREF="papers/stanford2002-02.pdf"> Nguyen, D., Fedkiw, R. and Jensen, H.,
+"Physically Based Modeling and Animation of Fire",
+SIGGRAPH 2002, ACM TOG 21, 721-728 (2002).</A>
+
+<LI><A HREF="papers/stanford2002-01.pdf"> Bridson, R., Fedkiw, R. and Anderson, J.,
+"Robust Treatment of Collisions, Contact and Friction for Cloth Animation",
+SIGGRAPH 2002, ACM TOG 21, 594-603 (2002).</A>
+
+<LI><A HREF="papers/stanford2001-03.ps"> Zhao, H.-K., Osher, S. and Fedkiw, R.,
+"Fast Surface Reconstruction using the Level Set Method",
+1st IEEE Workshop on Variational and Level Set Methods, in conjunction with the 8th International Conference on Computer Vision (ICCV), Vancouver, Canada, 194-202 (2001).</A>
+
+<LI><A HREF="papers/stanford2001-02.pdf"> Foster, N. and Fedkiw, R.,
+"Practical Animation of Liquids",
+SIGGRAPH 2001, 15-22 (2001).</A>
+
+<LI><A HREF="papers/stanford2001-01.pdf"> Fedkiw, R., Stam, J. and Jensen, H.W.,
+"Visual Simulation of Smoke",
+SIGGRAPH 2001, 23-30 (2001).</A>
+<P>
+</UL>
+
+<P><HR><B><FONT SIZE="+2">Students</FONT></B><BR>
+<P>
+<B><FONT SIZE="+1">Ph.D. Students</FONT></B>
+<UL>
+<LI><A HREF="http://physbam.stanford.edu/~avir">Avi Robinson-Mosher</A><BR>
+Stanford Graduate Fellow
+<LI><A HREF="http://www.stanford.edu/~jonsu/">Jonathan Su</A><BR>
+NSF Graduate Research Fellow
+<LI><A HREF="http://graphics.stanford.edu/~kwatra">Nipun Kwatra</A><BR>
+<LI><A HREF="http://graphics.stanford.edu/~cas43">Craig Schroeder</A><BR>
+Stanford Graduate Fellow
+<LI><A HREF="http://icme.stanford.edu/people/students/profile.php?personnel_id=92">J&oacute;n Gr&eacute;tarsson</A><BR>
+<LI><A HREF="http://graphics.stanford.edu/~mlentine">Michael Lentine</A><BR>
+
+</UL>
+<B><FONT SIZE="+1">Former Ph.D. Students</FONT></B>
+<UL>
+<LI>Douglas Enright Ph.D. 2002 - Aerospace Corporation
+<LI><A HREF="http://www.cs.ubc.ca/~mitchell">Ian Mitchell</A> Ph.D. 2002 co-advisor (primary advisor - Claire Tomlin) - Assistant Professor at the University of British Columbia
+<LI><A HREF="http://www.cs.ubc.ca/~rbridson">Robert Bridson</A> Ph.D. 2003 - Assistant Professor at the University of British Columbia
+<LI><A HREF="http://graphics.stanford.edu/~npmolino">Neil Molino</A> Ph.D. 2004 - Morgan Stanley
+<LI>Igor Neverov Ph.D. 2005 - Insomniac Games
+<LI><A HREF="http://www.math.ucla.edu/~jteran">Joseph Teran</A> Ph.D. 2005 - Assistant Professor at UCLA
+<LI><A HREF="http://graphics.stanford.edu/~erang">Eran Guendelman</A> Ph.D. 2006
+<LI>Zhaosheng Bao Ph.D. 2006 - Microsoft Research Asia 
+<LI><A HREF="http://graphics.stanford.edu/~rachellw">Rachel Weinstein</A> Ph.D. 2007 - Google
+<LI><A HREF="http://graphics.stanford.edu/~sifakis">Eftychios Sifakis</A> Ph.D. 2007 - UCLA
+<LI><A HREF="http://www.frankpetterson.com">Frank Losasso</A> Ph.D. 2007 - Industrial Light + Magic
+<LI><A HREF="http://naml.us/~irving">Geoffrey Irving</A> Ph.D. 2007 - Pixar Animation Studios
+<LI><A HREF="http://graphics.stanford.edu/~aselle">Andrew Selle</A> Ph.D. 2008 - Disney
+<LI><A HREF="http://www.stanford.edu/~shinar">Tamar Shinar</A> Ph.D. 2008 - Postdoctoral Scholar at Courant
+</UL>
+<B><FONT SIZE="+1">Former Postdoctoral Scholars</FONT></B>
+<UL>
+<LI>Duc Nguyen 2001-2004 - Lockheed Martin
+<LI><A HREF="http://www1.engr.ucsb.edu/~fgibou">Frederic Gibou</A> 2001-2004 - Associate Professor at the University of California, Santa Barbara
+<LI><A HREF="http://www.cs.ubc.ca/~mitchell">Ian Mitchell</A> 2002-2003 - Assistant Professor at the University of British Columbia
+<LI><A HREF="http://graphics.stanford.edu/~jeongmo">Jeong-Mo Hong</A> 2005-2007 - Assistant Professor at Dongguk University
+<LI><A HREF="http://numod.ins.uni-bonn.de/people/strzodka">Robert Strzodka</A> 2005-2007 - Independent Junior Research Group Leader (i.e. Assistant Professor) at the Max Planck Institute
+</UL>
+
+<P><HR><B><FONT SIZE="+2">G-number</FONT></B><BR>
+<BR>
+A (G)raphics researcher's G-number is calculated as the number of papers/books/citations on (G)oogle Scholar that contain more than 200 cites.
+Note that the best way to search Google scholar seems to be by using the first initial of the first name, e.g. "r fedkiw".
+(G)eez, there are so many citation indexes out there, I just felt like we needed another one.
+Note that G comes before H (as in h-humber), and that G also stands Graphics, Google, and even Goober.
+This is only a partial list that I put together when I was bored one day. No omissions or errors are intentional, but rather an indication of my competence. 
+Please feel free to email me corrections, additions... or even a complete list.
+Since this has been posted, I have received emails about a few people who collaborate with graphics folks (applied math, computer vision and robotics researchers) and have added some suggested
+names to the list - just for fun... 
+NOTE: I will periodically update the names on this list to the best of my ability, but finding new names to add to the list is more difficult - emails pertaining to this are greatly appreciated!
+<BR>
+<BR><LI>
+Takeo Kanade (27);
+<BR><LI>
+David Donoho (20);
+Stan Osher (20);
+<BR><LI>
+Pierre-Louis Lions (18);
+Benoit Mandelbrot (18);
+Sebastian Thrun (18);
+<BR><LI>
+Olivier Faugeras (17);
+Richard Szeliski (17);
+Demetri Terzopoulos (17);
+<BR><LI>
+Wim Sweldens (16);
+<BR><LI>
+Gene Golub (15);
+<BR><LI>
+Marc Levoy (13);
+Jitendra Malik (13);
+Peter Schroder (13);
+<BR><LI>
+Hugues Hoppe (12);
+Ingrid Daubechies (12);
+David Salesin (12);
+<BR><LI>
+Frederick Brooks (11);
+Pat Hanrahan (11);
+Jerrold Marsden (11);
+<BR><LI>
+Al Barr (10);
+Andrew Witkin (10);
+<BR><LI>
+Tony DeRose (9);
+Leo Guibas (9);
+Paul Heckbert (9);
+Peter Lax (9);
+John Platt (9);
+James Sethian (9);
+Greg Turk (9);
+<BR> <LI>
+Michael Cohen (8);
+Michael Crandall (8);
+Michael Kass (8);
+<BR> <LI>
+Michael Black (7);
+Ron Fedkiw (7);
+David Forsyth (7);
+Steven Gortler (7);
+Harry Shum (7);
+<BR> <LI>
+Paul Debevec (6);
+Henry Fuchs (6);
+Donald Greenberg (6);
+Amiram Harten (6);
+Ming Lin (6);
+Dinesh Manocha (6);
+Shree Nayar (6);
+Guillermo Sapiro (6);
+Peter Shirley (6);
+Carlo Tomasi (6);
+<BR><LI>
+Jim Blinn (5);
+John Canny (5);
+Alexander Chorin (5);
+Robert Cook (5);
+Mathieu Desbrun (5);
+Tom Duchamp (5);
+Bjorn Engquist (5);
+James Kajiya (5);
+Leonard McMillan (5);
+Dimitris Metaxas (5);
+Ken Perlin (5);
+Jarek Rossignac (5);
+Ivan Sutherland (5);
+Kenneth Torrance (5);
+Bram Van Leer (5);
+Lance Williams (5);
+<BR><LI>
+Norman Badler (4);
+David Baraff (4);
+Loren Carpenter (4);
+Brian Curless (4);
+Irfan Essa (4);
+James Foley (4);
+Michael Garland (4);
+Markus Gross (4);
+Aaron Hertzmann (4);
+John Hughes (4);
+Henrik Jensen (4);
+Jean-Michel Morel (4);
+Pietro Perona (4);
+Hanspeter Pfister (4);
+William Reeves (4);
+Szymon Rusinkiewicz (4);
+Carlo Sequin (4);
+Allen Van Gelder (4);
+Denis Zorin (4);
+<BR><LI>
+Kurt Akeley (3);
+Nina Amenta (3);
+Chris Bregler (3);
+Jonathan Cohen (3);
+Nick Foster (3);
+Jessica Hodgins (3);
+Arie Kaufman (3);
+Peter Lindstrom (3);
+Dani Lischinski (3);
+William Mark (3);
+Mark Meyer (3);
+Frederic Pighin (3);
+Steven Seitz (3);
+Jonathan Shade (3);
+Francois Sillion (3);
+Claudio Silva (3);
+John Snyder (3);
+Jos Stam (3);
+<BR><LI>
+David Adalsteinsson (2);
+Marc Alexa (2);
+Sean Anderson (2);
+Ian Buck (2);
+Brian Cabral (2);
+Ed Catmull (2);
+Paolo Cignoni (2);
+Alexei Efros (2);
+Adam Finkelstein (2);
+Alain Fournier (2);
+Michael Gleicher (2);
+Radek Grzeszczuk (1);
+Brian Guenter (2);
+Igor Guskov (2);
+Mike Houston (2);
+Timothy Kay (2);
+David Koller (2);
+Jehee Lee (2);
+David Luebke (2);
+Steve Marschner (2);
+James O'Brien (2);
+Zoran Popovic (2);
+Thomas Porter (2);
+Przemyslaw Prusinkiewicz (2);
+Kari Pulli (2);
+Craig Reynolds (2);
+Charles Rose (2);
+Roberto Scopigno (2);
+Thomas Sederberg (2);
+Hans-Peter Seidel (2);
+Sung Yong Shin (2);
+Peter-Pike Sloan (2);
+Alvy Ray Smith (2);
+Mark Sussman (2);
+Andries van Dam (2);
+Joe Warren (2);
+Rudiger Westermann (2);
+Turner Whitted (2);
+Yizhou Yu (2);
+Hongkai Zhao (2);
+Matthias Zwicker (2);
+<BR><LI>
+John Anderson (1);
+Ronen Barzel (1);
+Brian Barsky (1);
+Thaddeus Beier (1);
+Bobby Bodenheimer (1);
+George Borshukov (1);
+Jack Bresenham (1);
+Robert Bridson (1);
+Marie-Paule Cani (1);
+Daniel Cohen-Or (1);
+Gilles Debunne (1);
+Julie Dorsey (1);
+Tom Duff (1);
+Fredo Durand (1);
+Doug Enright (1);
+Petros Faloutsos (1);
+Sarah Frisken (1);
+Steven Glanville (1);
+Eitan Grinspun (1);
+John Hart (1);
+Greg Humphreys (1);
+Takeo Igarashi (1);
+Doug James (1);
+Jan Kautz (1);
+Mark Kilgard (1);
+Ron Kimmel (1);
+Venkat Krishnamurthy (1);
+Vivek Kwatra (1);
+John Lasseter (1);
+Peter Litwinowicz (1);
+Charles Loop (1);
+Nelson Max (1);
+Claudio Montani (1);
+Shawn Neely (1);
+Ren Ng (1);
+John Owens (1);
+Dinesh Pai (1);
+Darwyn Peachey (1);
+Cary Phillips (1);
+Stephen Platt (1);   
+Nancy Pollard (1);
+Jovan Popovic (1);
+Timothy Purcell (1);
+Claudio Rocchini (1);
+Alyn Rockwood (1);
+Jonathan Shewchuk (1);
+Seth Teller (1);
+Li-Yi Wei (1);
+<BR> 
+<BR>
+I have been asked why I set the bar so high at 200 citations. 
+Well in this day and age of flashy conferences, smoke, mirrors, and publicity, I wanted the number high enough to weed out the short term hype. 
+It seems that quite a few papers quickly rise to 100 citations and then completely disappear.
+I also wanted a number high enough to avoid endlessly tracking an enourmous amount of papers. 
+In fact, at 200 citations, I think I may have read all the papers that contribute to the G-number.
+<BR>
+<BR>
+In that spirit, I've also included the notion of G' or G-prime. 
+It has all the properties of the G-number but is based on double the number of citations, i.e. 400 cites.
+Then G'' would be based on 800 cites, etc.
+And in order to weed out all the one hit wonders, one is only eligible to advance in the primes if their current number is at least 2.
+For example, one needs a G number of at least 2 in order to have a G' number, and a G' number of at least 2 in order to have a G'' number, etc.
+I imagine that the added cost of tracking all the primes will be quite small. 
+Here are the G' numbers for the people on the G-number list above. <BR>
+
+<BR><LI>
+David Donoho (9);
+Takeo Kanade (9);
+Marc Levoy (9);
+Jitendra Malik (9);
+Demetri Terzopoulos (9);
+<BR><LI>
+Pierre-Louis Lions (8);
+<BR><LI>
+Ingrid Daubechies (7);
+Hugues Hoppe (7);
+Stan Osher (7);
+John Platt (7);
+<BR><LI>
+Tony DeRose (6);
+Olivier Faugeras (6);
+Peter Lax (6);
+Benoit Mandelbrot (6);
+Jerrold Marsden (6);
+Richard Szeliski (6);
+Wim Sweldens (6);
+<BR><LI>
+Frederick Brooks (5);
+Michael Cohen (5);
+James Sethian (5);
+<BR><LI>
+Al Barr (4);
+Tom Duchamp (4);
+Gene Golub (4);
+Pat Hanrahan (4);
+Jean-Michel Morel (4);
+Sebastian Thrun (4);
+Carlo Tomasi (4);
+Lance Williams (4);
+Andrew Witkin (4);
+<BR><LI>
+Michael Black (3);
+Jim Blinn (3);
+Alexander Chorin (3);
+Michael Crandall (3);
+Paul Debevec (3);
+Steven Gortler (3);
+Donald Greenberg (3);
+Amiram Harten (3);
+Michael Kass (3);
+Dinesh Manocha (3);
+Pietro Perona (3);
+Szymon Rusinkiewicz (3);
+David Salesin (3);
+Guillermo Sapiro (3);
+Steven Seitz (3);
+Kenneth Torrance (3);
+Greg Turk (3);
+Bram van Leer (3);
+<BR><LI>
+Brian Cabral (2);
+John Canny (2);
+Loren Carpenter (2);
+Ed Catmull (2);
+Jonathan Cohen (2);
+Robert Cook (2);
+Brian Curless (2);
+Alexei Efros (2);
+Bjorn Engquist (2);
+James Foley (2);
+Henry Fuchs (2);
+Paul Heckbert (2);
+James Kajiya (2);
+David Koller (2);
+Ming Lin (2);
+Leonard McMillan (2);
+Shree Nayar (2);
+Ken Perlin (2);
+Thomas Porter (2);
+Jarek Rossignac (2);
+Peter Schroder (2);
+Jonathan Shade (2);
+Ivan Sutherland (2);
+Andries van Dam (2);
+Allen van Gelder (2);
+<BR> <LI>
+David Adalsteinsson (1);
+Nina Amenta (1);
+Sean Anderson (1);
+Norman Badler (1);
+David Baraff (1);
+Chris Bregler (1);
+Mathieu Desbrun (1);
+Ron Fedkiw (1);
+Adam Finkelstein (1);
+David Forsyth (1);
+Michael Garland (1);
+Michael Gleicher (1);
+Markus Gross (1);
+Leo Guibas (1);
+John Hughes (1);
+Peter Lindstrom (1);
+Dani Lischinski (1);
+David Luebke (1);
+Dimitris Metaxas (1);
+Mark Meyer (1);
+Hanspeter Pfister (1);
+Frederic Pighin (1);
+Przemyslaw Prusinkiewicz (1);
+Kari Pulli (1);
+William Reeves (1);
+Craig Reynolds (1);
+Thomas Sederberg (1);
+Carlo Sequin (1);
+Peter Shirley (1);
+Harry Shum (1);
+Jos Stam (1);
+Mark Sussman (1);
+Joe Warren (1);
+Turner Whitted (1);
+Matthias Zwicker (1);
+<BR>
+
+<BR>
+Those with a G' number of at least two are assigned a G'' number based on the number of papers with 800 cites.
+Here are the G'' numbers.
+<BR>
+
+<BR><LI>
+Ingrid Daubechies (5);
+David Donoho (5);
+<BR><LI>
+Hugues Hoppe (4);
+Benoit Mandelbrot (4);
+Jerrold Marsden (4);
+Stan Osher (4);
+James Sethian (4);
+<BR><LI>
+Frederick Brooks (3);
+Tony DeRose (3);
+Tom Duchamp (3);
+Olivier Faugeras (3);
+Takeo Kanade (3);
+Marc Levoy (3);
+Pierre-Louis Lions (3);
+Jitendra Malik (3);
+Wim Sweldens (3);
+Demetri Terzopoulos (3);
+<BR><LI>
+Michael Cohen (2);
+Michael Crandall (2);
+James Foley (2);
+Gene Golub (2);
+Pat Hanrahan (2);
+Paul Heckbert (2);
+Peter Lax (2);
+John Platt (2);
+Richard Szeliski (1);
+Carlo Tomasi (2);
+<BR><LI>
+Al Barr (1);
+John Canny (1);
+Loren Carpenter (1);
+Ed Catmull (1);
+Alexander Chorin (1);
+Brian Curless (1);
+Paul Debevec (1);
+Bjorn Engquist (1);
+Steven Gortler (1);
+Amiram Harten (1);
+James Kajiya (1);
+Michael Kass (1);
+Ming Lin (1);
+Dinesh Manocha (1);
+Leonard McMillan (1);
+Jean-Michel Morel (1);
+Shree Nayar (1);
+Pietro Perona (1);
+Guillermo Sapiro (1);
+Ivan Sutherland (1);
+Sebastian Thrun (1);
+Andries van Dam (1);
+Allen van Gelder (1);
+Andrew Witkin (1);
+<BR>
+
+<BR> 
+Those with a G'' number of at least two are assigned a G''' number based on the number of papers with 1600 cites.
+Yes, this gets exponentially hard, and thus I'm not worried about the awkward notation with repeated primes.
+<BR>
+
+<BR><LI>
+Ingrid Daubechies (4);
+<BR><LI>
+Benoit Mandelbrot (3);
+<BR><LI>
+Takeo Kanade (2);
+Jitendra Malik (2);
+James Sethian (2);
+<BR><LI>
+David Donoho (1);
+Olivier Faugeras (1);
+James Foley (1);
+Gene Golub (1);
+Hugues Hoppe (1);
+Benoit Mandelbrot (1);
+Jerrold Marsden (1);
+Stan Osher (1);
+Demetri Terzopoulos (1);
+<BR>
+
+<BR>
+And those with a G''' number of at least two get a G'''' number based on the number of papers with 3200 cites.
+<BR> 
+
+<BR><LI>
+Ingrid Daubechies (2);
+<BR><LI>
+Benoit Mandelbrot (1);
+<BR>
+
+<BR>
+And the single researcher with a G'''' number of at least two gets a G''''' number based on the number of papers with 6400 cites.
+<BR>
+
+<BR><LI>
+Ingrid Daubechies (1);
+<BR>
+
+<BR>
+And there it ends. No one is eligible for another prime. 
+
+<BR><BR>
+The <A HREF="http://www.oscars.org/index.html">Academy of Motion Picture Arts and Sciences</A> has an 
+<A HREF="http://awardsdatabase.oscars.org/ampas_awards/BasicSearchInput.jsp">awards database</A>
+that one can search for Sci-Tech awards. So I looked for some of the people with G-numbers there:
+<BR><LI> Academy Award of Merit (Statuette) - 
+Rob Cook, Loren Carpenter and Ed Catmull 2000;
+<BR><LI> Scientific and Engineering Award (Plaque) - 
+Loren Carpenter, Rob Cook, Ed Catmull, Thomas Porter, Pat Hanarahan, Darwyn Peachey (et al.) 1992;
+Alvy Ray Smith, Ed Catmull, Thomas Porter and Tom Duff 1995;
+William Reeves 1996;
+William Reeves, Tom Duff (et al.) 1997;
+Craig Reynolds 1997;
+Alvy Ray Smith, Thomas Porter (et al.) 1997;
+David Baraff, Michael Kass and Andrew Witkin 2005; 
+Ron Fedkiw (et al.) 2007;
+<BR><LI> Technical Achievement Award (Certificate) - 
+James Kajiya and Timothy Kay 1996;
+Ken Perlin 1996;
+Thaddeus Beier 1998;
+Nick Foster 1998;
+Cary Phillips 1998;
+George Borshukov (et al.) 2000;
+Venkat Krishnamurthy 2000;
+John Anderson, Cary Phillips (et al.) 2001;
+Lance Williams 2001;
+Henrik Jensen, Steve Marschner and Pat Hanarahan 2003;
+Ed Catmull, Tony DeRose and Jos Stam 2005;
+John Platt and Demetri Terzopoulos 2005;
+Peter Litwinowicz (et al.) 2006;
+Jonathan Cohen (et al.) 2007;
+Jos Stam (et al.) 2007;
+
+<P><HR><B><FONT SIZE="+2">Teaching</FONT></B><BR>
+
+<UL>
+<LI>
+Spring quarter 2008 - CS 205B - Mathematical Methods for Fluids, Solids and Interfaces<BR>
+Overview of numerical methods for the simulation of problems involving solid mechanics and fluid dynamics.
+The focus is on practical tools needed for simulation, as well as the necessary continuous mathematics involving nonlinear hyperbolic partial differential equations. 
+Possible topics: finite element method, highly deformable elastic bodies, plasticity, fracture, level set method, Burgers' equation, compressible and incompressible Navier-Stokes equations, smoke, water, fire, solid-fluid coupling.
+Prerequisites: 205A or equivalents. 3 units.<BR><BR>
+
+<LI>
+Fall quarter 2007 - CS 205A - Mathematical Methods for Robotics, Vision and Graphics<BR>
+Overview of some of the continuous mathematics background necessary for research in robotics, vision, and graphics.
+Possible topics: linear algebra; the conjugate gradient method; ordinary and partial differential equations; vector
+and tensor calculus; calculus of variations.
+Prerequisites: 106B or 106X; MATH 51 and 113; or equivalents. 3 units.<BR><BR>
+
+<LI>
+Spring quarter 2007 - CS 237C - Numerical Solution of Partial Differential Equations II<BR>
+Hyperbolic partial differential equations: stability, convergence and qualitative properties. Nonlinear hyperbolic
+equations and systems. Combined solution methods from elliptic, parabolic, and hyperbolic problems. Examples
+include: Burgers equation, Euler equations for compressible flow, Navier Stokes equations for incompressible flow.
+Prerequisites: 205 or both 237A and 237B; MATH 130, 131; or equivalents. 3 units.<BR><BR>
+
+<LI>Fall quarter 2006 - CS 205 - Mathematical Methods for Robotics, Vision and Graphics<BR>
+<LI>Spring quarter 2006 - CS 237C - Numerical Solution of Partial Differential Equations II<BR>
+<LI>Fall quarter 2005 - CS 205 - Mathematical Methods for Robotics, Vision and Graphics<BR>
+<LI>Spring quarter 2005 - CS 237C - Numerical Solution of Partial Differential Equations II<BR>
+<LI>Fall quarter 2004 - CS 205 - Mathematical Methods for Robotics, Vision and Graphics<BR>
+<LI>Spring quarter 2004 - CS 237C - Numerical Solution of Partial Differential Equations II<BR>
+<LI>Fall quarter 2003 - CS 205 - Mathematical Methods for Robotics, Vision and Graphics<BR>
+<LI>Spring quarter 2003 - CS 448 - Physics Based Animation for Modeling Virtual Humans<BR>
+<LI>Fall quarter 2002 - CS 205 - Mathematical Methods for Robotics, Vision and Graphics<BR>
+<LI>Spring quarter 2002 - CS 237D - Numerical Solution of Partial Differential Equations II<BR>
+<LI>Fall quarter 2001 - CS 339 - Level Set Methods<BR>
+<LI>Spring quarter 2001 - CS 448 - Physics Based Animation for Computer Graphics<BR>
+<LI>Fall quarter 2000 - CS 137 - Introduction to Scientific Computing<BR>
+</UL>
+
+<HR><B><FONT SIZE="+2">Personal Stuff</FONT></B><BR>
+
+<UL>
+<LI> Brittany and Briana...<BR>
+<IMG SRC="photos/Brittany.jpg"ALT="">
+<IMG SRC="photos/Briana.jpg"ALT="">
+<BR><BR>
+
+<LI>Some scuba diving photos...
+<A HREF="photos/octopus_2_half.jpg">octopus,</A>
+<A HREF="photos/octopus_half.jpg">octopus2,</A>
+<A HREF="photos/turtle_half.jpg">turtle</A><BR><BR>
+
+<LI>I used to be a competitive weightlifter with a personal best squat of 800 pounds, bench press of 555 pounds
+ and deadlift of 735 pounds, all in the 198 pound weight class...<BR>
+<A HREF="photos/powerlifting_squat_small.jpg">squatting 775 pounds,</A>
+<A HREF="photos/powerlifting_dumbells_small.jpg">incline dumbell press with 170 pound dumbells,</A>
+<A HREF="photos/powerlifting_deadlift_small.jpg">deadlifting 661 pounds,</A>
+<A HREF="photos/bodybuilding_front_small.jpg">front,</A>
+<A HREF="photos/bodybuilding_back_small.jpg">back,</A>
+<A HREF="photos/bodybuilding_side_small.jpg">side,</A>
+<A HREF="photos/bodybuilding_torso_small.jpg">torso,</A>
+<A HREF="photos/bodybuilding_arms_small.jpg">arms</A><BR>
+</UL>
+
+<P><HR>
+</BODY>
+</HTML>

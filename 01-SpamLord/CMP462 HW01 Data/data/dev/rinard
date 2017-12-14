@@ -1,0 +1,261 @@
+<HTML>
+<HEAD>
+   <TITLE> Martin C. Rinard</TITLE>
+</HEAD>
+<BODY>
+
+<H1> Martin C. Rinard</H1>
+
+<P>MIT Computer Science and Artificial Intelligence Laboratory <BR>
+The Stata Center, Building 32-G744 <br>
+32 Vassar Street <br>
+Cambridge, MA 02139 <BR>
+Email: <B>rinard@lcs.mit.edu</B> <BR>
+WWW Home Page: <B><A HREF="http://www.cag.lcs.mit.edu/~rinard">http://www.cag.lcs.mit.edu/~rinard</A></B> <BR>
+Work Phone: <B>(617) 258-6922</B><BR>
+Work Fax: <B>(617) 253-1221</B></P>
+
+<HR>
+
+<P>
+I am a Professor in the 
+<A HREF="http://www-eecs.mit.edu/">
+Department of Electrical Engineering and Computer Science
+</A> at the <A HREF="http://web.mit.edu/">Massachusetts
+Institute of Technology</A>, 
+and a member of the <A HREF="http://www.lcs.mit.edu/">Computer
+Science and Artificial Intelligence Laboratory </A>. 
+</P>
+
+<HR>
+
+<H2> <A HREF="CV.pdf"> Curriculum Vitae </A> </H2>
+
+<H2> <A HREF="research_accomplishments"> Research Accomplishments </A> </H2>
+
+<H2> <A HREF="presentation"> Presentations </A> </H2>
+
+<H2> Publications </H2>
+
+<UL>
+
+<P><B><FONT SIZE=+1> <A HREF="paper">Complete Publication List</A> </FONT SIZE> </B> </P>
+
+<P><B><FONT SIZE=+1> <A HREF="paper/topic.html">Publications By Topic (with summaries) </A> </FONT SIZE> </B> </P>
+
+<P><B><FONT SIZE=+1> <A HREF="techreport">Technical Reports </A> </FONT SIZE> </B> </P>
+
+</UL>
+
+<HR>
+
+
+<H2> Research </H2>
+
+<UL>
+<LI> <B> <FONT SIZE=+1><A HREF="modular_analysis"> 
+  Modular Program Analysis for Data Structure Consistency </A> </FONT SIZE> </B> </B> </LI>
+
+
+<LI> <B> <FONT SIZE=+1><A HREF="acceptability_oriented_computing"> 
+  Acceptability-Oriented Computing </A> </FONT SIZE> </B> </B> </LI>
+
+
+<LI> <B> <FONT SIZE=+1><A HREF="pointer_and_escape_analysis"> 
+  Pointer and Escape Analysis </A> </FONT SIZE> </B> </B> </LI>
+
+<LI> <B> <FONT SIZE=+1><A HREF="automatic_parallelization"> 
+  Automatic Parallelization </A> </FONT SIZE> </B> </LI>
+
+<LI> <B> <FONT SIZE=+1><A HREF="commutativity_analysis"> 
+    Commutativity Analysis </A> </FONT SIZE> </B> </B> </LI>
+
+<LI> <B> <FONT SIZE=+1><A HREF="divide_and_conquer"> 
+    Symbolic Analysis of Divide and Conquer Algorithms </A> </FONT SIZE> </B> </B> </LI>
+  
+<LI> <B> <FONT SIZE=+1> <A HREF="synchronization_optimizations"> 
+  Synchronization Optimizations </A> </FONT SIZE> </B> </LI>
+
+<LI> <B> <FONT SIZE=+1> <A HREF="credible_compilation"> 
+  Credible Compilation </A> </FONT SIZE> </B> </LI>
+
+<LI> <B> <FONT SIZE=+1> <A HREF="jade"> Jade </A> </FONT SIZE> </B> </LI>
+
+</UL>
+
+<HR>
+
+<H2> Systems </H2>
+
+<UL>
+
+<P> <B> <FONT SIZE=+1><A HREF="flex"> 
+  The Flex Program Analysis and Compilation System </A> </FONT SIZE> 
+<br>
+<UL>
+A program analysis and compilation system written in Java for Java, 
+complete with extensive backend, thread, memory management, and 
+runtime support. 
+</UL>
+</B> </B> </P> 
+  
+
+<P> <B> <FONT SIZE=+1><A HREF="span"> 
+  The SPAN Pointer Analysis Package </A> </FONT SIZE> 
+<br>
+<UL>
+A pointer analysis package for both multithreaded and
+sequential C programs. The package is integrated with the
+<A HREF = "http://suif.stanford.edu"> 
+SUIF Compiler Infrastructure </A> and has been used by several
+research groups to support a variety of projects. 
+</UL>
+
+</B> </B> </P>
+
+<P> <B> <FONT SIZE=+1><A HREF="jade"> 
+  The Jade Programming Language </A> </FONT SIZE> 
+<br>
+<UL>
+A portable, implicitly parallel programming language that
+runs on wide range of machines, from tightly-coupled shared-memory
+multiprocessors to geographically distributed networks of
+workstations. 
+
+</UL>
+
+</B> </B> </P>
+
+</UL>
+
+
+
+<HR>
+<H3> Teaching </H3>
+
+<P> 
+<ul>
+<LI> In Fall 2002, Saman Amarasinghe and I taught
+<A HREF="http://web.mit.edu/6.035">
+6.035: Computer Language Engineering.</A> <BR>
+
+<LI> In Spring 2002, Butler Lampson and I taught
+<A HREF="http://web.mit.edu/6.826/www/">
+6.826: Principles of Computer Systems.</A> <BR>
+
+<LI> In Fall 2001, Saman Amarasinghe and I taught
+<A HREF="http://web.mit.edu/6.035">
+6.035: Computer Language Engineering.</A> <BR>
+
+<LI> In Spring 2001, Butler Lampson and I taught
+<A HREF="http://web.mit.edu/6.826/www/">
+6.826: Principles of Computer Systems.</A> <BR>
+
+<LI> In Fall 2000, Saman Amarasinghe and I taught
+<A HREF="http://web.mit.edu/6.035">
+6.035: Computer Language Engineering.</A> <BR>
+
+<LI> In Spring 2000, Butler Lampson and I taught
+<A HREF="http://web.mit.edu/6.826/www/">
+6.826: Principles of Computer Systems.</A> <BR>
+
+<LI> In Fall 1999, Saman Amarasinghe and I taught
+<A HREF="http://web.mit.edu/6.035">
+6.035: Computer Language Engineering.</A> <BR>
+
+<LI> In Spring 1999, Butler Lampson and I taught
+<A HREF="ftp://theory.lcs.mit.edu/pub/classes/6.826/www/6.826-top.html">
+6.826: Principles of Computer Systems.</A> <BR>
+
+<LI> In Fall 1998, I taught 
+<A HREF="F98.6.892"> 
+6.892: Advanced Topics in Compilation </A>. <BR>
+
+<LI> In Spring 1998, I was a recitation instructor for
+<A HREF="http://web.mit.edu/6.033/1998/www/home.html"> 
+6.033: Computer System Engineering </A>. <BR> 
+(By the way, the other recitation instructors were John Chapin, 
+David Gifford, David Karger, Ron Rivest, Jerry 
+Saltzer, and Steve Ward, 
+with Frans Kaashoek doing the lectures. Quite an investment of faculty for one course!)
+
+<LI> In Fall 1997, I was a recitation instructor for
+<A HREF="http://theory.lcs.mit.edu/~meyer/6001/FT97"> 
+6.001: Structure and Interpretation of Computer Programs </A>. <BR>
+
+</ul>
+</P>
+
+<HR>
+
+<H3> Biographical Sketch</H3>
+
+<P>
+I received the Sc.B. in Computer Science, Magna cum Laude
+and with Honors, from Brown University in 1984. I spent the next several
+years working for two startup companies, Ikan Systems and Polygen Corporation.
+I then entered the Ph.D. program in Computer Science at Stanford University,
+and received the Ph.D. in Computer Science from Stanford University in
+1994. I joined the Computer Science Department at the University of California,
+Santa Barbara as an Assistant Professor in 1994, then moved to MIT as an
+Assistant Professor in 1997. I was promoted to Associate Professor in 2000.
+</P>
+
+<HR>
+
+<H3> Honors and Awards</H3>
+
+<UL>
+<LI>Solomon Buchsbaum AT&amp;T Research Fund Award, 1999</LI>
+
+<LI>Everett Moore Baker Memorial Award for Excellence in
+Undergraduate Teaching at MIT, Honorable Mention, 1998</LI>
+
+<LI>National Science Foundation Faculty Early Career Development
+Award, 1997</LI>
+
+<LI>University of California, Santa Barbara Outstanding Faculty
+Member in Computer Science, 1996</LI>
+
+<LI>Alfred P. Sloan Research Fellowship, 1995</LI>
+
+<LI>Brown University Undergraduate Research Fellowship, 1983</LI>
+</UL>
+
+<P>
+
+<HR>
+<H3> Acknowledgement of Research Support </H3>
+<P>
+Much of the research that my group does is supported by the 
+Defense Advanced Research Projects Agency under DARPA/AFRL Contract
+F33615-00-C-1692 and by the National Science
+Foundation under grants CCR00-86154 and CCR00-63513.
+</P>
+
+<HR>
+<H3> Lecture Notes</H3>
+
+<P>
+I have developed a set of 
+<A HREF="osnotes">lecture
+notes </A>for teaching an undergraduate course in operating systems. These
+notes cover the important basic concepts in operating systems, presented
+in a sequence suitable for a first course in operating systems.
+</P>
+
+
+<HR>
+
+<H4> Including Illustrator and PowerPoint Figures in LaTex Documents </H4>
+
+<P>
+I have written a 
+<A HREF="eps_into_latex">
+quick
+guide </A>to including Adobe Illustrator and Microsoft PowerPoint files
+into LaTex documents. I hope it saves you some time!</P>
+
+
+</BODY>
+</HTML>

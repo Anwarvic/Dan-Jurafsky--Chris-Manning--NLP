@@ -1,0 +1,299 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+         "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Christopher Manning, Stanford NLP</title>
+<link href="fsnlp.css" rel="stylesheet" title="fsnlp_style" type="text/css">
+<meta name="description"
+content="Christopher Manning, Associate
+Professor of Computer Science and Linguistics, Stanford University">
+<meta name="keywords" content="Christopher D. Manning, Chris Manning">
+</head>
+
+<body>
+<a href="images/chrism3.jpg"><img src="images/chrism2.jpg" align="RIGHT"
+ width="90" height="120" alt="" border="0"></a>
+<h1>Christopher Manning</H1>
+<h3>Associate Professor of <a href="http://www.cs.stanford.edu/">Computer
+ Science</a> and 
+<a href="http://www-linguistics.stanford.edu/">Linguistics</a></h3>
+<h4>Sony Faculty Scholar</h4>
+<h4><a href="http://nlp.stanford.edu/">Natural Language Processing Group</a>,
+<a href="http://www.stanford.edu">Stanford University</a>
+</h4>
+
+<p>
+Chris Manning works on systems and formalisms that can intelligently
+process and produce human languages.  His research concentrates on
+probabilistic models of language and statistical natural language
+processing; including text understanding, text mining,
+machine translation, information extraction, named entity recognition,
+part-of-speech tagging, probabilistic parsing and semantic role
+labeling, syntactic typology, computational lexicography, and other
+topics in computational linguistics and machine learning.
+</p>
+
+<h2>Contact</h2>
+
+<table border="0" align="center" bgcolor='#80c080'>
+  <tr valign="top">
+    <td><b>M</b></td>
+    <td>
+Dept of Computer Science, Gates Building 1A,
+353 Serra Mall,
+Stanford CA 94305-9010,
+USA
+     </td>
+  </tr>
+  <tr>
+    <td><b>E</b></td>
+    <td><a href="mailto:manning@cs.stanford.edu">manning@cs.stanford.edu</a></td>
+  </tr>
+  <tr>
+    <td><b>W</b></td>
+    <td>+1 (650) 723-7683</td>
+  </tr>
+  <tr>
+    <td><b>F</b></td>
+    <td>+1 (650) 725-1449</td>
+  </tr>
+  <tr>
+    <td><b>R</b></td>
+    <td>Gates 158</td>
+  </tr>
+  <tr>
+    <td><b>O</b></td>
+    <td>Tu 4-5, Wed 2-3</td>
+  </tr>
+  <tr valign="top">
+    <td><b>A</b></td>
+    <td>Debbie Barros, Gates 150, +1 (650) 725-3358,
+    <a href="mailto:dbarros@cs.stanford.edu">dbarros@cs.stanford.edu</a>
+    </td>
+  </tr>
+</table>
+
+<h2>Brief Bio</h2>
+
+<ul>
+  <li>I'm Australian ("I come from a land of wide open spaces ...")
+  <li>BA (Hons) Australian National University 1989 (majors in mathematics,
+computer science and linguistics)
+  <li>PhD Stanford Linguistics 1995
+  <li>Asst Professor Carnegie Mellon University Computational Linguistics
+Program 1994-96
+  <li>Lecturer University of Sydney Dept of Linguistics 1996-99<br>
+  <li>Asst Professor Stanford University Depts of Computer Science and
+Linguistics 1999-2006
+  <li>Assoc Professor Stanford University Depts of Linguistics and
+  Computer Science 2006-
+</ul>
+
+<h2>Papers</h2>
+
+<p>
+Most of my <a href="papers/">papers</a> are available online in my
+      publication list.  Here's 
+<a href="http://scholar.google.com/scholar?hl=en&lr=&q=author%3A%22cd+manning%22+OR+author%3A%22christopher+manning%22+-intitle%3Acell+-intitle%3Anucleotide+-intitle%3Acellular+-intitle%3Adisease+-intitle%3Aregulates+-intitle%3Ainhibitors+-intitle%3Ainterferometry+-intitle%3Ainterferometer+-intitle%3Amedication+-intitle%3Anecleotide+-intitle%3Ainhibits+-intitle%3Aphotovoltaic+-intitle%3Aspectrometry+-intitle%3Aspectroscopy+-intitle%3Arectifier+-intitle%3Ainfrared+-intitle%3Ahumerous+-intitle%3Aspectrometer+-intitle%3Aintercity&btnG=Search">a reasonable
+approximation of me on Google Scholar</a>.
+</p>
+
+<h2>Books</h2>
+
+<p>
+My new book, an 
+<a href="http://informationretrieval.org/">Introduction
+to Information Retrieval</a>, with Hinrich Sch&uuml;tze and Prabhakar
+Raghavan, is now available in print.  My "bestseller" is Manning and
+Sch&uuml;tze, <A HREF="/fsnlp/promo/">Foundations
+of Statistical Natural Language Processing</a> (MIT Press, 1999).
+My two monographs are
+<a href="http://www.amazon.com/exec/obidos/ASIN/1575860368/">Ergativity:
+Argument Structure and Grammatical Relations</a> and 
+<a href="http://www.amazon.com/exec/obidos/ASIN/157586164X/">Complex
+Predicates and Information Spreading in LFG</a>.
+</p>
+
+<h2>Talks</h2>
+
+<p>
+A few <a href="talks/">talks</a> are available online.
+</p>
+
+<h2>Research Projects</h2>
+
+<p>
+My current research focuses on robust but linguistically sophisticated
+probabilistic natural language processing, and opportunities to use it
+in real-world domains.  Particularly topics include richer models for
+probabilistic parsing, computational semantics, machine translation,
+grammar induction, text categorization and clustering, 
+incorporating probabilistic models into syntactic
+theories, electronic dictionaries and their
+usability, particularly for indigenous languages, information extraction
+and presentation, and linguistic typology.  
+</p>
+
+<p>My research at Stanford is currently supported by an IBM Faculty
+Partnership Award, IARPA, DARPA, and the NSF.
+<!--
+Previous funding at Stanford comes from IARPA/DTO
+ a Terman Fellowship, <a
+href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0085896">NSF</a>
+(for <a href="http://i.stanford.edu/gib/">GIB</a>), NTT, NHK, and the
+Australian Reseach Council.  -->
+</p> 
+
+<p>
+I am interested in new students wanting to work in the area of 
+Natural Language Processing.  To find out more about what I do, it's
+best to look at my <a href="papers/">papers</a>, or my <a
+href="/research.shtml">group research page</a>.  However, to cut down on
+my email load, it's necessary to put in some more information:
+</p>
+<ul>
+<li>Unadmitted students: The above statement is directed at students who have
+already been admitted to Stanford.
+I don't do admissions. You need to apply to a program in the usual
+manner; for Linguistics see 
+<a href="http://www-linguistics.stanford.edu/graduate/admissions.shtml">http://www-linguistics.stanford.edu/graduate/admissions.shtml</a>,
+and for Computer Science, see 
+<a href="http://cs.stanford.edu/Admissions/">http://cs.stanford.edu/Admissions/</a>.
+</li> 
+<li>PhD students in CS/Linguistics or allied fields: please contact me
+directly.</li>
+<li>Masters students: I have normally employed a couple of masters
+	  students.  Most appealing are people with a background in NLP,
+	  and time to devote to an RAship.
+If you want to convince me, your
+best approach is to do well in <a href="http://cs224n.stanford.edu">CS 224N: 
+NLP</a>.</li>
+<li>Undergraduate students in CS/Linguistics or allied fields: please
+contact me directly.</li>
+</ul>
+
+
+<h2>Courses</h2>
+
+<p>
+In fall 2008, I will again teach 
+<a href="http://www.stanford.edu/class/cs276/">CS 276</a>: Information
+Retrieval and Web Search</a>, with 
+<a href="http://theory.stanford.edu/people/raghavan/">Prabhakar Raghavan</a>
+Earlier versions of this course include two years of two-quarter sequences
+CS276A/B on information retrieval and text information classification
+and extraction, broadly construed ("IR++"):
+<a href="http://www.stanford.edu/class/cs276a/">Fall
+quarter course website</a>.
+<a href="http://www.stanford.edu/class/cs276b/">Winter
+quarter course website</a>.
+This course started in 2001.  Early versions were also co-taught by
+<a href="http://www-csli.stanford.edu/~schuetze/">Hinrich Sch&uuml;tze</a>.
+</p>
+
+<p>
+In spring 2009, I will again teach
+<a href="http://www.stanford.edu/class/cs224n/">CS 224N / Ling 237. Natural
+	Language Processing</a> --
+Develops an in-depth understanding of
+both the algorithms available for the processing of linguistic information
+and the underlying computational properties of natural languages.
+Morphological, syntactic, and semantic processing from both a linguistic
+and an algorithmic perspective.  Focus on modern quantitative techniques
+in
+NLP: using large corpora, statistical models for acquisition,
+disambiguation, and parsing.  Examination and construction of
+representative systems.  Prerequisites: 121/221 or Ling 138/238, and
+programming experience.  Recommended: basic familiarity with logic and
+probability.  3 units. 
+I've taught this course yearly since Spr 2000.
+Many <a href="http://nlp.stanford.edu/courses/cs224n/">previous
+student projects</a> are available online.
+</p>
+
+<p>
+In fall 2007 I taught
+<a href="courses/ling289/ling289-2007-syllabus.htm">Ling 289:
+Quantitative and Probabilistic Explanation in Linguistics</a>
+MW 2:15-3:45 in 160-318.
+I previously taught it in winter 2002 
+(n&eacute;e <a href="courses/ling236/">Ling 236</a>) and
+Winter 2005 (as <a href="http://linguist235.stanford.edu/">Ling 235</a>).
+</p>
+
+<p>In the summer of 2007, I taught at the LSA Linguistic Institute:
+<a href="http://nlp.stanford.edu/courses/lsa354/">Statistical
+Parsing</a> and 
+<a href="http://nlp.stanford.edu/courses/lsa306/">Computational
+Linguistics in Industry</a>.</p>
+
+<p>
+In fall 1999 and winter 2001, I taught
+<a href="http://www.stanford.edu/class/cs121/">CS 121 Artificial 
+Intelligence</a>.  The text book was S. Russell and P. Norvig,
+<a href="http://aima.cs.berkeley.edu/">Artificial
+Intelligence: A Modern Approach</a>.
+</p>
+
+<p>
+The NLP Reading Group (which I ran 1999-2002) has now been transformed
+into <a href="http://nlp.stanford.edu/events.shtml">The Natural
+	Language and Speech Processing Colloquium</a>.
+</p>
+
+<h2>Other stuff</h2>
+
+<p>
+With mobile email, I desperately needed spam filtering happening
+on the mail server.  Here are <a
+href="mobile/IMAPfiltering.html">instructions</a> on how to set that up
+at Stanford.  For using the web, here are some 
+some <a href="mobile/">sites for PDA browsing</a>.</p>
+
+<p>
+LaTeX: When I used to have more time (i.e., when I was a grad student), I used
+to spend some of it writing <a href="tex/">(La)TeX macros</a>.
+[Actually, that's a lie; I still spend some time doing it....]
+</p>
+
+<p>
+We've now got <i>two</i> sons: <a href="joel/">Joel</a> and 
+<a href="casey/">Casey</a>.  Here are my opinions on 
+<a href="kids-books-0-3.html">books for the very young</a>.
+</p>
+
+<p>
+Me in the <i>Stanford Report</i>: <a
+href="http://www.stanford.edu/dept/news/report/news/october13/presreport-1013.html">appointment</a>,
+<a href="http://www.stanford.edu/dept/news/report/news/october20/terman-1020.html">Terman</a>,
+<a href="http://www.stanford.edu/dept/news/report/news/december1/csli-121.html">csli</a>, 
+<a href="http://www.stanford.edu/dept/news/report/news/april19/oed-419.html">lexicography</a>, 
+<a href="http://www.stanford.edu/dept/news/report/news/may10/database-510.html">database</a>,
+<a href="http://www.stanford.edu/dept/news/report/news/september20/ITRawards-920.html">itr 2000</a>,
+<a
+href="http://www.stanford.edu/dept/news/report/news/february28/aaasmanning-221.html">AAAS 
+2001</a>,
+<a href="http://news-service.stanford.edu/news/april3/inprint-43.html">on
+NewsBlaster</a>,
+<a href="http://news-service.stanford.edu/news/october31/minutes-1031.html">childcare</a>,
+<a href="http://news-service.stanford.edu/news/2003/may21/google-521.html">PageRank
+speed-ups</a>,
+<a href="http://news-service.stanford.edu/news/2003/october22/prezreport-1022.html">reappointment</a>.
+</p>
+
+<hr>
+<code>http://www.stanford.edu/~manning/</code><br>
+<ADDRESS>
+Christopher Manning -- 
+<a href="mailto:manning@cs.stanford.edu">&lt;manning@cs.stanford.edu&gt;</A> 
+ -- 
+<!-- hhmts start -->
+Last modified: Fri Jul 25 21:22:04 PDT 2008
+<!-- hhmts end -->
+</ADDRESS>
+<!-- I come from a land of wide open spaces
+Where the world turns around us and we just follow suit
+There's heat in the air and peace reigns supreme
+Got white flags on the clothes lines and the deals are new -->
+</body>
+</html>

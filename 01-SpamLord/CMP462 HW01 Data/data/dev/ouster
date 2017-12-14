@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>John Ousterhout's Home Page</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  <style type="text/css">
+    table.basicInfo td {
+        padding-top: 1px;
+    }
+    td.label {
+        font-weight: bold;
+        white-space: nowrap;
+    }
+    td.value {
+        padding-left: 10px;
+    }
+  </style>
+</head>
+<body>
+<h1>John K. Ousterhout</h1>
+<table cellspacing="0">
+<tr>
+<td>
+<b>Professor (Research)
+<br />
+Department of Computer Science</b>
+<br />
+<br />
+<table cellspacing="0" class="basicInfo">
+<tr>
+  <td class="label">Office:</td>
+  <td class="value">310 Gates</td>
+</tr>
+<tr>
+  <td class="label">Phone:</td>
+  <td class="value">721-6325</td>
+</tr>
+<tr>
+  <td class="label">Email:</td>
+  <td class="value">ouster (followed by &ldquo;@cs.stanford.edu&rdquo;)</td>
+</tr>
+<tr>
+  <td class="label">Office Hours:</td>
+  <td class="value">M 2-3, W 11-12</td>
+</tr>
+<tr>
+  <td class="label">Fall 2008 Teaching:</td>
+  <td class="value"><a href="CS349W/index.html">
+  CS 349W: Abstractions for Highly Interactive Web Applications</a></td>
+</tr>
+<tr>
+  <td class="label">Admin:</td>
+  <td class="value">Teresa Lynn</td>
+</tr>
+<tr>
+  <td class="label"></td>
+  <td class="value">305 Gates</td>
+</tr>
+<tr>
+  <td class="label"></td>
+  <td class="value">4-6540</td>
+</tr>
+<tr>
+  <td class="label"></td>
+  <td class="value">teresa.lynn (followed by "@stanford.edu")</td>
+</tr>
+</table>
+</td>
+<td>
+<img src="Photo2008Small.jpg" align="right" style="margin-left: 1.0cm">
+</td>
+</tr>
+</table>
+<div class="rule"></div>
+<h2>Name Pronunciation</h2>
+<p>
+In case you are wondering how to pronounce my last name, it's
+<b>OH-stir-howt</b>.  This may make more sense if you know that
+the original Dutch version of the name was Oosterhout (many
+generations ago).
+</p>
+<h2>Research Interests</h2>
+<p>
+My research is in the area of Web application development.
+The research has two overall goals:
+</p>
+<ul>
+<li>Enable the creation of highly
+interactive Web applications, as opposed to the tables-and-forms
+approach used by most Web applications today.</li>
+<li>Develop high-level reusable components that simplify the creation
+of interactive Web applications, and frameworks that encourage the
+development of new components.</li>
+</ul>
+<p>
+The primary vehicle for this research is Fiz, a new Web application
+development framework that will be released in open-source form.  In
+the future the research may spread into adjacent areas, including
+Web-scale storage systems and programming languages.
+</p>
+<h2>Short Biography</h2>
+<p>
+John K. Ousterhout is Professor (Research) of Computer Science
+at Stanford University.  He is also Chairman of
+<a HREF="http://www.electric-cloud.com">Electric Cloud, Inc.</a>
+He is probably best known as the creator of the Tcl scripting
+language and is also well known for his work in distributed
+operating systems, high-performance file systems, and user
+interfaces.  Ousterhout
+received a BS degree in Physics from Yale University in 1975 and
+a PhD in Computer Science from Carnegie Mellon University in 1980.
+He was Professor of Computer Science at U.C. Berkeley from
+1980-1994, Distinguished Engineer at Sun Microsystems from
+1994-1998, founder and CEO of Scriptics Corporation from
+1988-2000, and founder/CEO/Chairman of Electric Cloud from
+2002-2007.  Ousterhout is a member of the National Academy of
+Engineering and a Fellow of the ACM. He has received 
+numerous awards, including the ACM Software System Award,
+the ACM Grace Murray Hopper Award, the National Science
+Foundation Presidential Young Investigator Award, and the
+U.C. Berkeley Distinguished Teaching Award.
+</p>
+<h2>Various Writings</h2>
+<ul>
+<li>
+    <a href="survivorBudgeting.html">Survivor Budgeting</a>:
+    an unorthodox proposal for making the California State
+    Legislature more responsible in its fiscal planning.
+</li>
+<li>
+    <a href="startupCulture.html">Startup company culture</a>:
+    a document I wrote to encourage a particular culture at
+    Electric Cloud.
+</li>
+<li>
+    <a href="decisions.html">How to make decisions</a>:
+    describes an inclusive, consensus-based approach to
+    making decisions that has worked well for me.
+</li>
+<li>
+    <a href="sayings.html">Favorite sayings</a>: general
+    ideas that I have found useful.
+</li>
+<li>
+    <a href="fortnight.html">Fortnight milestones</a>: a simple
+    approach to managing software projects that worked well for us at
+    Electric Cloud.
+</li>
+<li>
+    <a href="tclHistory.html">Tcl history</a>: the story of how
+    I invented the Tcl scripting language and how Tcl and
+    Tk evolved.
+</li>
+<li>
+    Some notes about my <a href="wrist.html">RSI problems</a>
+and how I have dealt with them.
+</li>
+<li>
+    <a href="scripting.html">Scripting: Higher Level Programming for
+    the 21st Century</a>.  This white paper discusses the difference
+    between scripting (in languages such as Tcl) and system programming
+    (in languages such as C and Java). It shows why scripting languages
+    are fundamentally better than system programming languages 
+    for gluing tasks such as GUIs and enterprise applications, and
+    why the  importance of scripting has increased in recent years and
+    will continue to  increase in the future. The paper was published
+    in the March, 1998 issue of <i>IEEE Computer</i>.
+</li>
+<li>
+    <i>Why Threads Are A Bad Idea (for most purposes)</i>. This was
+    an Invited Talk  at the 1996 USENIX Technical Conference (January 25,
+    1996). The talk compares the threads style of programming to an
+    alternative approach, events, that use only a single thread of
+    control. Although each approach has its weaknesses, 
+    events result in simpler, more manageable code than threads,
+    with efficiency that is generally as good as or better than threads.
+    Many of the applications 
+    for which threading has been recommended (including nearly all 
+    user-interface applications) would be better off with an event-based 
+    implementation. The slides for the talk are available in
+    <a href="threads.ppt">PowerPoint</a> or <a href="threads.pdf">PDF</a>
+    format. There isn't a written paper that corresponds to this talk.
+</li>
+</ul>
+<p>Last modified: September 11, 2008</p>
+</body>
+</html>
