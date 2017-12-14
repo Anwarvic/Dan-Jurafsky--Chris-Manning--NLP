@@ -1,0 +1,10 @@
+1	statue of liberty	liberty island/new york harbor/new york city, new york
+2	taj mahal	agra, india
+3	eiffel tower	paris, france
+4	forbidden city	beijing, china
+5	burj khalifa	dubai, united arab emirates
+6	parthenon	athenian acropolis/acropolis/athens, greece
+7	saint basil's cathedral	red square/moscow, russia
+8	christ the redeemer	rio de janeiro, brazil
+9	sydney opera house	sydney, australia 
+10	stanford university	palo alto/stanford, california
