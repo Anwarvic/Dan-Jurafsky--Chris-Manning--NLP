@@ -1,18 +1,24 @@
-# Dan-Jurafsky--Chris-Manning--Natural-Language-Processing
+# Dan Jurafsky & Chris-Manning: Natural Language Processing 2012
 This is my solution of the Natural Language Processing Coursera course made by Dan Jurafsky, Chris Manning in Winter 2012. 
 This course was deleted from Coursera Database, but you can get the videos from this YouTube channel:
 
-And You can get the slides from Dan Jurafsky Website:
+https://www.youtube.com/playlist?list=PL6397E4B26D00A269
 
-And you can get the Assignments form this blog:
+And You can get the slides from Stanford Website:
 
+https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
 This Course has 8 different assignments:
-  1- SpamLord.
-  2- Autocorrect.
-  3- Sentiment Analysis
-  4- NER
-  5- PCFG
-  6- CKY
-  7- IR
-  8- Question & Answer
+
+1. 
+   SpamLord.
+
+2. Autocorrect.
+3. Sentiment Analysis
+4. NER
+5. PCFG
+6. CKY
+7. IR
+8. Question & Answer
+
+Each folder of these contains a compressed folder, this folder contains the original assignment in case you wanted to re-solve it.
