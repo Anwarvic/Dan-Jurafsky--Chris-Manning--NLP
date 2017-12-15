@@ -8,6 +8,14 @@ And You can get the slides from Stanford Website:
 
 https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
+Or you can download the whole course from this torrent link:
+
+http://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab
+
+
+
+## Assignments
+
 This Course has 8 different assignments:
 
 1. 
