@@ -63,18 +63,15 @@ This class has five methods:
   Given a query string, this processes it and returns the list of lowercase, alphanumeric, stemmed words in the string.
 
 
-- > **`query_retrieve(query))`** method:
-  > Given a string, this method processes it and then returns the list of matching documents found by `boolean_retrieve()`.
+- **`query_retrieve(query))`** method:
+  Given a string, this method processes it and then returns the list of matching documents found by `boolean_retrieve()`.
+- **`query_rank(query)`** method:
+  Given a string, this method processes it and then returns the list of the top matching documents, rank-ordered.
+- **`get_posting_unstemmed(word)`** method:
+  Given a word, this method *stems* the word and then calls `get_posting()` on the stemmed word to get its postings list. 
 
 
-
-> - **`query_rank(query)`** method:
->   Given a string, this method processes it and then returns the list of the top matching documents, rank-ordered.
-
-> - **`get_posting_unstemmed(word)`** method:
->   Given a word, this method *stems* the word and then calls `get_posting()` on the stemmed word to get its postings list. 
->
-> There are also two other functions that you should know about:
+There are also two other functions that you should know about:
 
 - **`run_tests()`** function:
   This function is used to run some test over your work and evaluate it.
@@ -197,11 +194,6 @@ Then, it saves these scores into a list and return that list in a sorted manner.
 
 
 
-THIS PART IS SUPER IMPORTANT:
-I have change the main part to run without any parameters or tags.
-
-
-
 The output of my solution in the first time is:
 
 ![](http://www.mediafire.com/convkey/4b57/6adu1ac6j7zif7nzg.jpg)
@@ -210,4 +202,9 @@ As you can see, it take around 100 seconds to stem our data. After that, our mod
 
 ![](http://www.mediafire.com/convkey/2109/gvihdv64iuwi6przg.jpg)
 
-The program after stemming take around 30 seconds
+The program after stemming take around 30 seconds.
+
+
+
+VERY IMPORTANT NOTE:
+I have changed the main part in the `IRSystem.py` file to be able to run it without any parameters or tags.

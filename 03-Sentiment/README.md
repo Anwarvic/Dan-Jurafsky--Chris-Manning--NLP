@@ -74,7 +74,7 @@ Now, let's talk about the methods that NaiveBayes classifier has:
     This method take a `TrainSplit` object as an argument, and it filters the stop-words, if it was enabled, and returns nothing.
 
 
->
+
 
 # My Solution
 
