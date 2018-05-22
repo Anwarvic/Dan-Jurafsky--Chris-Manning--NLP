@@ -52,29 +52,16 @@ There is only one file that is provided which is `SpamLord.py`. This file has fi
   This function takes the directory that contains the files, which is `../data/dev`, as an input and apply `process_file()` function over each file in the directory.
 
 
-- > **`get_gold(path)`** function:
-  >
-
-  This function takes the directory that contains the gold file, which is `../data/devGOLD`, as an input. and saves them in a list `gold_list`.
+    - **`get_gold(path)`** function: This function takes the directory that contains the gold file, which is `../data/devGOLD`, as an input. and saves them in a list `gold_list`.
 
 
-> - **`score(guess_list, gold_list)`** function:
->   This function takes two lists as an input. The `guess_list` is the parts that match the provided regualr expression which the output of the `process_dir()` function. And the second list is the `gold_list` which is the output of `get_gold()` function.
->
->   This function prints three numbers:
->
->   - _True Positives_: 
->     It displays e-mails and phone numbers which the starter code correctly extracts.
->   - _False Positives_:
->     It displays e-mails which the starter code regular expressions match but which
->     are not correct.
->   - _False Negatives_:
->     It displays e-mails and phone numbers which the starter code did not match, but which do exist in the html files.
+    - **`score(guess_list, gold_list)`** function: This function takes two lists as an input. The `guess_list` is the parts that match the provided regualr expression which the output of the `process_dir()` function. And the second list is the `gold_list` which is the output of `get_gold()` function. This function prints three numbers:
+        - _True Positives_: It displays e-mails and phone numbers which the starter code correctly extracts.
+        - _False Positives_: It displays e-mails which the starter code regular expressions match but which are not correct.
+        - _False Negatives_: It displays e-mails and phone numbers which the starter code did not match, but which do exist in the html files.
 
-> - **`main(data_path, gold_path)`** function:
->   This function takes the directory of the raw files and the gold file and run the previous functions.
+- **`main(data_path, gold_path)`** function: This function takes the directory of the raw files and the gold file and run the previous functions.
 
->
 
 # Requirement
 
