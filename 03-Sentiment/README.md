@@ -1,7 +1,3 @@
-[TOC]
-
----
-
 # Introduction
 
 This directory contains three files beside the README.md file:
@@ -32,7 +28,7 @@ Our task is to implement the classifier training and testing code and evaluate t
 This is the actual Internet Movie Database review data used in the original Pang and Lee paper. So, the data of this project is a bunch of files, each file contain a review for a certain movie. The data is divided into two groups:
 
 - `../data/pos`: which contains the files that are considered to be positive reviews for some movies.
-- ``../data/neg`: which contains the files that are considered to be negative reviews for some movies.
+- `../data/neg`: which contains the files that are considered to be negative reviews for some movies.
 
 
 
