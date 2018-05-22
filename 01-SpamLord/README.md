@@ -1,6 +1,3 @@
-[TOC]
-
----
 
 # Introduction
 
@@ -30,7 +27,7 @@ We will be using some data that has been extracted form the web. The data is div
 - `devGold`: which is a file that has all the emails and phone numbers that you should extract. You should NOT change anything inside this file, because this file is used to evaluate your work.
 - `dev`: which is a folder that contains html files that have been extracted form the web. You don't need to change anything inside this folder, but you might open some of the files to get some intuition about the form of some of the emails or phone numbers.
 
-Here are some of the emails that you should extract (NOT ):
+Here are some of the emails that you should extract (NOT LIMITED TO):
 
 ```
 xxx@stanford.edu
