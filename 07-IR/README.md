@@ -1,7 +1,3 @@
-[TOC]
-
----
-
 # Introduction
 
 This directory contains three files beside the README.md file:
@@ -165,9 +161,8 @@ In this method, I have created two member variables:
 it calculated the tf_idf score by applying this formula:
 
 
-$$
-TFIDF = (1 + log(tf))*log(\frac{Total Documents}{no.documents})
-$$
+![equation](http://latex.codecogs.com/gif.latex?tfidf%20%3D%20%281%20&plus;%20log%28tf%29%29*log%28%5Cfrac%7BTotal%20Documents%7D%7Bno.documents%7D%29)
+
 where:
 
 - `tf` is the member variable that we have created in `index()` method.
@@ -206,5 +201,6 @@ The program after stemming take around 30 seconds.
 
 
 
-VERY IMPORTANT NOTE:
+#### VERY IMPORTANT NOTE:
+
 I have changed the main part in the `IRSystem.py` file to be able to run it without any parameters or tags.
