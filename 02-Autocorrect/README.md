@@ -1,7 +1,3 @@
-[TOC]
-
----
-
 # Introduction
 
 This directory contains three files beside the README.md file:
@@ -61,21 +57,20 @@ Now, let's discuss the methods:
 - **`fixError()`** method: 
   It returns the word without the wrong part. So, 
 
-  >```python
-  >>>> Datum('sister','siter').fixError()
-  >sister
-  >```
+  ```python
+  >>> Datum('sister','siter').fixError()
+  sister
+  ```
 
 
-- > **`hasError()`** method: 
-  > Iif the instance has an error part, it returns `True`. So;
-  >
-  > ```python
-  > >>> Datum('sister', 'siter').hasError()
-  > True
-  > >>> Datum('sister', '').hasError()
-  > False
-  > ```
+- **`hasError()`** method: 
+  If the instance has an error part, it returns `True`. So;
+  ```python
+  >>> Datum('sister', 'siter').hasError()
+  True
+  >>> Datum('sister', '').hasError()
+  False
+  ```
 
 - **`isValidTest()`** method: 
   This method tests if the given Datum is valid. By valid, I mean have these conditions:
@@ -83,88 +78,86 @@ Now, let's discuss the methods:
   * the given instance has only letters. If it has any special characters or numbers, the method will return `False`
   * The given instance MUST have an error part.
   * the **Levenstein distance** between the right word and its wrong spelling MUST be less than one. So,
-  >>> ```python
-  >>> >>> Datum('sister', 'siter').isValidTest()    #one distance (inserting 's')
-  >>> True
-  >>> >>> Datum('sister', 'ster').isValidTest()
-  >>> False
-  >>> ```
+  ```python
+  >>> Datum('sister', 'siter').isValidTest()    #one distance (inserting 's')
+  True
+  >>> Datum('sister', 'ster').isValidTest()
+  False
+  ```
 
 
 
 ### Sentence.py
 
 `Sentence()` class takes a list of `Datum` as an input;
->>> ```python
->>> >>> from Datum import Datum
->>> >>> lst = [Datum("i"), Datum("love", "lov"), Datum("girls")]
->>> >>> s = Sentence(lst)
->>> >>> print s
->>> i love (lov) playing soccer
->>> >>> for datum in s.data:
->>>     print datum,
->>> i love (lov) girls
->>> ```
->>>
->>> The following are some simple methods:
->>>
->>> ```python
->>> >>> len(s)
->>> 3
->>> >>> s.get(1)
->>> love (lov)
->>> >>> s.put(0, Datum('I'))
->>> >>> s
->>> I hate girls
->>> >>> s.isEmpty()
->>> False
->>> ```
->>>
->>> Now, let's get to the more important methods:
+```python
+>>> from Datum import Datum
+>>> lst = [Datum("i"), Datum("love", "lov"), Datum("girls")]
+>>> s = Sentence(lst)
+>>> print s
+i love (lov) playing soccer
+>>> for datum in s.data:
+        print datum,
+i love (lov) girls
+```
+The following are some simple methods:
+```python
+>>> len(s)
+3
+>>> s.get(1)
+love (lov)
+>>> s.put(0, Datum('I'))
+>>> s
+I hate girls
+>>> s.isEmpty()
+False
+```
 
-- >**`getErrorSentence()`** method : 
-  >it returns the wrong spelling of the words if exists.
+Now, let's get to the more important methods:
 
-  >>> ```python
-  >>> >>> s.getErrorSentence()
-  >>> ['I', 'lov', 'girls']
-  >>> ```
+- **`getErrorSentence()`** method : 
+  it returns the wrong spelling of the words if exists.
+
+  ```python
+  >>> s.getErrorSentence()
+  ['I', 'lov', 'girls']
+  ```
 
 - **`getCorrectSentence()`** method: 
   This method returns the right spelling of the words.
 
-  >>> ```python
-  >>> >>> s.getCorrectSentence()
-  >>> ['I', 'love', 'girls']
-  >>> ```
+  ```python
+  >>> s.getCorrectSentence()
+  ['I', 'love', 'girls']
+  ```
 
 - **`cleanSentence()`** method: 
   This method returns the right word but as a sentence. so;
 
-  >>> ```python
-  >>> >>> print s.cleanSentence()
-  >>> i love girls
-  >>> ```
+  ```python
+  >>> print s.cleanSentence()
+  i love girls
+  ```
 
 - **`isCorrection()`** method: 
   This method takes a list of strings and it iterates every word in the list and compare it with the `Datum.data` member variable. So;
 
-  >>> ```python
-  >>> >>> s.isCorrection(["I", "love", "girls"])
-  >>> True
-  >>> >>> s.isCorrection(["I", "lov", "girls"])
-  >>> False
-  >>> >>> s.isCorrection(["I", "love", "Girls"])
-  >>> False
-  >>> ```
+  ```python
+  >>> s.isCorrection(["I", "love", "girls"])
+  True
+  >>> s.isCorrection(["I", "lov", "girls"])
+  False
+  >>> s.isCorrection(["I", "love", "Girls"])
+  False
+  ```
 
 - **`getErrorIndex()`** method: 
   This method returns the index of the wrong word in the sentence and returns -1 if  there is no error. So;
 
-  >>> ```python
-  >>> >>> s.getErrorIndex()
-  >>> 1
-  >>> ```
+  ```python
+  >>> s.getErrorIndex()
+  1
+  ```
 
 
 
@@ -177,16 +170,16 @@ Here, I'll try to explain every method of the `HolbrookCorpus()` class:
 
      * remove these special characters ", . ! ' : ;
      * convert the letters into lower case. So, 'I' becomes 'i'.
-     * puts <s> at the beginning of the line and </s> at the end.
-     * The corpus marks the wrong word by the <ERR> tag like so "<ERR targ=sister> siter </ERR>".
+     * puts \<s> at the beginning of the line and \</s> at the end.
+     * The corpus marks the wrong word by the \<ERR> tag like so "\<ERR targ=sister> siter \</ERR>".
        This function take the previous tag and change it to `sister (siter)`.
 
      ```python
-     >>> from Datum import Datum
-     >>> from Sentence import Sentence
-     >>> h = HolbrookCorpus()
-     >>> test = "'I love my Family, and my <ERR targ=sister> siter </ERR> ."
-     >>> h.processLine(test)
+     from Datum import Datum
+     from Sentence import Sentence
+     h = HolbrookCorpus()
+     test = "'I love my Family, and my <ERR targ=sister> siter </ERR> ."
+     h.processLine(test)
      <s> i love my family and my sister (siter) </s>
      ```
 
@@ -198,15 +191,15 @@ Here, I'll try to explain every method of the `HolbrookCorpus()` class:
 -  **`generateTestCases()`** method: 
      This method returns just one error per line. So, if you have a line like this:
 
-     " Then Bob <ERR targ=started> straghted </ERR> to get <ERR targ=friendly> frendly </ERR> with a man called <ERR targ=James> Jame </ERR> ."
+     " Then Bob \<ERR targ=started> straghted \</ERR> to get \<ERR targ=friendly> frendly \</ERR> with a man called \<ERR targ=James> Jame \</ERR> ."
 
      This function will return two test cases, each has just one wrong word like so:
 
      ```python
-     >>> h = HolbrookCorpus('../data/holbrook-tagged-dev.dat')
-     >>> h.generateTestCases()[0]
+     h = HolbrookCorpus('../data/holbrook-tagged-dev.dat')
+     h.generateTestCases()[0]
      <s> then bob started to get friendly (frendly) with a man called james </s>
-     >>> h.generateTestCases()[1]
+     h.generateTestCases()[1]
      <s> then bob started to get friendly with a man called james (jame) </s>
      ```
 
@@ -220,31 +213,31 @@ Here, I'm going to explain every method in the `EditModel()` class which takes t
   This method takes the corpus and saves the corpus as a set of strings and represents every word in the corpus without repetitions... So, if the corpus was just this sentence "I love bananas and I love apples", the vocabulary would be set(['I', 'love', 'bananas', 'and', 'apples'])
 
   ```python
-  >>> h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
-  >>> e = EditModel()
-  >>> e.initVocabulary(h_cor)
-  >>> len(e.vocabulary)
+  h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
+  e = EditModel()
+  e.initVocabulary(h_cor)
+  len(e.vocabulary)
   1661
   ```
 
 - **`read_edit_table(filename)`** method: 
   It takes the directory of the edit table which is `../data/count_1edit.txt` and saves the table as a dictionary where the key is like `hc|ch` and the value as `8` which represents how many it is occurred to replace `hc` with `ch`. So;
 
-  > > > ```python
-  > > > >>> e = EditModel()
-  > > > >>> e.read_edit_table('../data/count_1edit.txt')['hc|ch']
-  > > > 8
-  > > > >>> e.read_edit_table('../data/count_1edit.txt')['e|i']
-  > > > 917
-  > > > ```
+  ```python
+  >>> e = EditModel()
+  >>> e.read_edit_table('../data/count_1edit.txt')['hc|ch']
+  8
+  >>> e.read_edit_table('../data/count_1edit.txt')['e|i']
+  917
+  ```
 
 - **`edit_count('st1', 'st2')`** method: 
   It takes two strings, and returns how many the 'st1' is replaced by 'st2'. So;
 
   ```python
-  >>> e.edit_count('hc', 'ch')
+  e.edit_count('hc', 'ch')
   8
-  >>> e.edit_count('e', 'i')
+  e.edit_count('e', 'i')
   917
   ```
 
@@ -263,32 +256,30 @@ Here, I'm going to explain every method in the `EditModel()` class which takes t
   }
   ```
 
->>> The following is a function that doesn't belong to the `EditModel()` class. This function is called **`dameraulevenshtein(seq1, seq2)`**. This function calculates the distance between two strings. Distance is the number of additions, deletions, substitutions, and transpositions needed to transform the first sequence into the second. Transpositions are exchanges of *consecutive* characters; all other operations are self-explanatory.
->>>
->>> Although generally used with strings, any sequences of comparable objects will work. This implementation is `O(N*M)` time and `O(M)` space, for `N` and `M` are the lengths of the two sequences. This function It's taken from http://mwh.geek.nz/2009/04/26/python-damerau-levenshtein-distance MIT license.
->>>
->>> ```python
->>> >>> dameraulevenshtein('ba', 'abc')
->>> 2
->>> >>> dameraulevenshtein('fee', 'deed')
->>> 2
->>> ```
->>>
->>> It works with arbitrary sequences too:
->>>
->>> ```python
->>> >>> dameraulevenshtein('abcd', ['b', 'a', 'c', 'd', 'e'])
->>> 2
->>> ```
+The following is a function that doesn't belong to the `EditModel()` class. This function is called **`dameraulevenshtein(seq1, seq2)`**. This function calculates the distance between two strings. Distance is the number of additions, deletions, substitutions, and transpositions needed to transform the first sequence into the second. Transpositions are exchanges of *consecutive* characters; all other operations are self-explanatory.
+
+Although generally used with strings, any sequences of comparable objects will work. This implementation is `O(N*M)` time and `O(M)` space, for `N` and `M` are the lengths of the two sequences. This function It's taken from http://mwh.geek.nz/2009/04/26/python-damerau-levenshtein-distance MIT license.
+
+```python
+>>> dameraulevenshtein('ba', 'abc')
+2
+>>> dameraulevenshtein('fee', 'deed')
+2
+```
+
+It works with arbitrary sequences too:
+```python
+>>> dameraulevenshtein('abcd', ['b', 'a', 'c', 'd', 'e'])
+2
+```
 
 
 
 ### SpellingResult.py
 
 This file is used to evaluate the Language models you will be creating. The Accuracy is calculated by number of valid corrections, divided by the number of test sentences.
-$$
-Accuract = \frac {no.Correct}{total}
-$$
+
+![img](http://latex.codecogs.com/gif.latex?%24%24%20Accuracy%20%3D%20%5Cfrac%7Bno.Correct%7D%7Btotal%7D%20%24%24)
 
 
 
@@ -326,13 +317,10 @@ This model has two methods:
 
 - **`score(sentence)`**:
   This method takes a list of strings as argument and returns the log-probability of the sentence using Laplace unigram language model.
-  $$
-  score =\sum ( log(WordCount + 1) - log(total) )
-  $$
+  
+![eq](http://latex.codecogs.com/gif.latex?score%20%3D%5Csum%5Cleft%20%5Blog%28WordCount%20&plus;%201%29%20-%20log%28total%29%20%5Cright%20%5D)
 
-
-
->>> ​	We have added one as a way of smoothing, because some words in the dev corpus that weren't in the train corpus.
+We have added 1 as a way of smoothing, because some words in the dev corpus that weren't in the train corpus.
 
 
 
@@ -347,7 +335,7 @@ In this file, I have created the `Bigram Language Model` which has three member 
 - **`total`**:
   Which is the count of all words in the train corpus
 
->>> ![Laplace Bigram Language Model](http://www.mediafire.com/convkey/6a64/c83qogy55rdcpyczg.jpg)
+![Laplace Bigram Language Model](http://www.mediafire.com/convkey/6a64/c83qogy55rdcpyczg.jpg)
 
 This model has also three methods:
 
@@ -361,27 +349,24 @@ This model has also three methods:
 
   And it returns a list containing the word grouped out of that sentence putting every `i` words with each other. So;
 
-  >>> ```python
-  >>> >>> from 
-  >>> >>> h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
-  >>> >>> example = ['<s>', 'my', 'mum', 'goes', 'out', 'sometimes', '</s>']
-  >>> >>> 
-  >>> >>> model = LaplaceBigramLanguageModel()
-  >>> >>> model.group_i_words(example, 2)
-  >>> ['<s> my', 'my mum', 'mum goes', 'goes out', 'out sometimes', 'sometimes </s>']
-  >>> >>> model.group_i_words(example, 3)
-  >>> ['<s> my mum', 'my mum goes', 'mum goes out', 'goes out sometimes', 'out sometimes </s>']
-  >>> ```
+  ```python
+  >>> from 
+  >>> h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
+  >>> example = ['<s>', 'my', 'mum', 'goes', 'out', 'sometimes', '</s>']
+  >>> 
+  >>> model = LaplaceBigramLanguageModel()
+  >>> model.group_i_words(example, 2)
+  ['<s> my', 'my mum', 'mum goes', 'goes out', 'out sometimes', 'sometimes </s>']
+  >>> model.group_i_words(example, 3)
+  ['<s> my mum', 'my mum goes', 'mum goes out', 'goes out sometimes', 'out sometimes </s>']
+  ```
 
 - **`score(sentence)`**:
   This method takes a list of strings as argument and returns the log-probability of the sentence using Laplace unigram language model.
-  $$
-  score =\sum ( log(WordCount + 1) - log(total) )
-  $$
+  
+![eq](http://latex.codecogs.com/gif.latex?score%20%3D%5Csum%5Cleft%20%5Blog%28WordCount%20&plus;%201%29%20-%20log%28total%29%20%5Cright%20%5D)
 
-
-
-> > > ​	We have added one as a way of smoothing, because some words in the dev corpus that weren't in the train corpus.
+We have added one as a way of smoothing, because some words in the dev corpus that weren't in the train corpus.
 
 
 
@@ -412,17 +397,17 @@ And it has three member functions:
 
   And it returns a list containing the word grouped out of that sentence putting every `i` words with each other. So;
 
-  > > > ```python
-  > > > >>> from 
-  > > > >>> h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
-  > > > >>> example = ['<s>', 'my', 'mum', 'goes', 'out', 'sometimes', '</s>']
-  > > > >>> 
-  > > > >>> model = LaplaceBigramLanguageModel()
-  > > > >>> model.group_i_words(example, 2)
-  > > > ['<s> my', 'my mum', 'mum goes', 'goes out', 'out sometimes', 'sometimes </s>']
-  > > > >>> model.group_i_words(example, 3)
-  > > > ['<s> my mum', 'my mum goes', 'mum goes out', 'goes out sometimes', 'out sometimes </s>']
-  > > > ```
+  ```python
+  >>> from 
+  >>> h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
+  >>> example = ['<s>', 'my', 'mum', 'goes', 'out', 'sometimes', '</s>']
+  >>> 
+  >>> model = LaplaceBigramLanguageModel()
+  >>> model.group_i_words(example, 2)
+  ['<s> my', 'my mum', 'mum goes', 'goes out', 'out sometimes', 'sometimes </s>']
+  >>> model.group_i_words(example, 3)
+  ['<s> my mum', 'my mum goes', 'mum goes out', 'goes out sometimes', 'out sometimes </s>']
+  ```
 
 - **`score(sentence)`**:
 
@@ -448,8 +433,6 @@ This model has four member variables:
   Which is the count of all words. In other words, it's the **`total`** in the Unigram model.
 - **`N_1`**:
   It's the count of the words that have been mentioned just one time inside the train corpus.
-
-![]()
 
 And it has two member methods:
 
@@ -489,17 +472,17 @@ And it has three member functions:
 
   And it returns a list containing the word grouped out of that sentence putting every `i` words with each other. So;
 
-  > > > ```python
-  > > > >>> from 
-  > > > >>> h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
-  > > > >>> example = ['<s>', 'my', 'mum', 'goes', 'out', 'sometimes', '</s>']
-  > > > >>> 
-  > > > >>> model = LaplaceBigramLanguageModel()
-  > > > >>> model.group_i_words(example, 2)
-  > > > ['<s> my', 'my mum', 'mum goes', 'goes out', 'out sometimes', 'sometimes </s>']
-  > > > >>> model.group_i_words(example, 3)
-  > > > ['<s> my mum', 'my mum goes', 'mum goes out', 'goes out sometimes', 'out sometimes </s>']
-  > > > ```
+  ```python
+  >>> from 
+  >>> h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
+  >>> example = ['<s>', 'my', 'mum', 'goes', 'out', 'sometimes', '</s>']
+  >>> 
+  >>> model = LaplaceBigramLanguageModel()
+  >>> model.group_i_words(example, 2)
+  ['<s> my', 'my mum', 'mum goes', 'goes out', 'out sometimes', 'sometimes </s>']
+  >>> model.group_i_words(example, 3)
+  ['<s> my mum', 'my mum goes', 'mum goes out', 'goes out sometimes', 'out sometimes </s>']
+  ```
 
 - **`score(sentence)`**:
 
@@ -507,7 +490,7 @@ And it has three member functions:
 
   ![](http://www.mediafire.com/convkey/32d9/m5rm2jizumf5kcozg.jpg)
 
-  ​
+
 
 ## SpellCorrect.py
 
