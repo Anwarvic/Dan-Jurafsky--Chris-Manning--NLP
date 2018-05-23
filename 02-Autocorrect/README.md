@@ -97,7 +97,7 @@ Now, let's discuss the methods:
 >>> print s
 i love (lov) playing soccer
 >>> for datum in s.data:
-        print datum,
+...     print datum,
 i love (lov) girls
 ```
 The following are some simple methods:
