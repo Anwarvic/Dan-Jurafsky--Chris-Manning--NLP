@@ -34,7 +34,7 @@ data is located in the `data/` directory. A summary of the contents:
 - `holbrook-tagged-dev.dat`: a corpus of spelling errors for development.
 - `count_1edit.txt`: a table listing counts of edits `x|w`, taken from Wikipedia. You don't need to modify any code which uses this.
 
-Note that the data files do not contain <s> and </s> markers, but the code which reads in the data
+Note that the data files do not contain \<s> and \</s> markers, but the code which reads in the data
 adds them.
 
 
