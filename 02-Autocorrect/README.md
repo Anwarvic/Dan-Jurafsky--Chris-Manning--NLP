@@ -175,11 +175,12 @@ Here, I'll try to explain every method of the `HolbrookCorpus()` class:
        This function take the previous tag and change it to `sister (siter)`.
 
      ```python
-     from Datum import Datum
-     from Sentence import Sentence
-     h = HolbrookCorpus()
-     test = "'I love my Family, and my <ERR targ=sister> siter </ERR> ."
-     h.processLine(test)
+     >>> from Datum import Datum
+     >>> from Sentence import Sentence
+     >>>
+     >>> h = HolbrookCorpus()
+     >>> test = "'I love my Family, and my <ERR targ=sister> siter </ERR> ."
+     >>> h.processLine(test)
      <s> i love my family and my sister (siter) </s>
      ```
 
@@ -196,10 +197,10 @@ Here, I'll try to explain every method of the `HolbrookCorpus()` class:
      This function will return two test cases, each has just one wrong word like so:
 
      ```python
-     h = HolbrookCorpus('../data/holbrook-tagged-dev.dat')
-     h.generateTestCases()[0]
+     >>> h = HolbrookCorpus('../data/holbrook-tagged-dev.dat')
+     >>> h.generateTestCases()[0]
      <s> then bob started to get friendly (frendly) with a man called james </s>
-     h.generateTestCases()[1]
+     >>> h.generateTestCases()[1]
      <s> then bob started to get friendly with a man called james (jame) </s>
      ```
 
@@ -213,10 +214,10 @@ Here, I'm going to explain every method in the `EditModel()` class which takes t
   This method takes the corpus and saves the corpus as a set of strings and represents every word in the corpus without repetitions... So, if the corpus was just this sentence "I love bananas and I love apples", the vocabulary would be set(['I', 'love', 'bananas', 'and', 'apples'])
 
   ```python
-  h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
-  e = EditModel()
-  e.initVocabulary(h_cor)
-  len(e.vocabulary)
+  >>> h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
+  >>> e = EditModel()
+  >>> e.initVocabulary(h_cor)
+  >>> len(e.vocabulary)
   1661
   ```
 
@@ -235,9 +236,9 @@ Here, I'm going to explain every method in the `EditModel()` class which takes t
   It takes two strings, and returns how many the 'st1' is replaced by 'st2'. So;
 
   ```python
-  e.edit_count('hc', 'ch')
+  >>> e.edit_count('hc', 'ch')
   8
-  e.edit_count('e', 'i')
+  >>> e.edit_count('e', 'i')
   917
   ```
 
@@ -398,7 +399,6 @@ And it has three member functions:
   And it returns a list containing the word grouped out of that sentence putting every `i` words with each other. So;
 
   ```python
-  >>> from 
   >>> h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
   >>> example = ['<s>', 'my', 'mum', 'goes', 'out', 'sometimes', '</s>']
   >>> 
@@ -473,7 +473,6 @@ And it has three member functions:
   And it returns a list containing the word grouped out of that sentence putting every `i` words with each other. So;
 
   ```python
-  >>> from 
   >>> h_cor = HolbrookCorpus('../data/holbrook-tagged-train.dat')
   >>> example = ['<s>', 'my', 'mum', 'goes', 'out', 'sometimes', '</s>']
   >>> 
