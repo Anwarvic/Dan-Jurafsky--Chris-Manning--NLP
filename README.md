@@ -2,7 +2,7 @@
 This is my solution of the Natural Language Processing Coursera course made by Dan Jurafsky, Chris Manning in Winter 2012. 
 This course was deleted from Coursera Database, but you can get the videos from this YouTube channel:
 
-https://www.youtube.com/playlist?list=PL6397E4B26D00A269
+https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm
 
 And You can get the slides from Stanford Website:
 
